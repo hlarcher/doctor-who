@@ -1,0 +1,1 @@
+<div id="dwt-creature-list" class="dwt-bg dwt-creature-bg"></div>

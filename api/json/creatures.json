@@ -1,0 +1,3452 @@
+{
+    "creatures": [
+        {
+            "id": "1",
+            "name": "Daleks",
+            "color": "color-creature1",
+            "info": {
+                "title": "Daleks (First appeared 1963)",
+                "actor": "",
+                "image": "images/creature_daleks.png",
+                "text": "The Doctor first encountered the Daleks on the radiation-soaked planet of Skaro, waging war with the peaceful Thals. The Daleks were the mangled and mutated remains of the Kaled people, placed in metal war machines by the Kaled’s chief scientist Davros. Pursuing the Doctor across space and time, the Daleks invaded the Earth, developed the Reality Bomb and tried to imprison the Doctor in the Pandorica. They fought the Time Lords in The Last Great Time War – a conflict so powerful and destructive that the universe was said to convulse. In an effort to save reality, the Doctor used ‘the Moment’ to annihilate both races. But that wasn’t the end of the Daleks...",
+                "quote": "You will be exterminated!",
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>10</h1>",
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1>28</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>22</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>88</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "1",  "from": "5",   "to": "11",  "xcls": "" },
+                { "number": "2",  "from": "46",  "to": "51",  "xcls": "" },
+                { "number": "3",  "from": "72",  "to": "77",  "xcls": "-tl" },
+                { "number": "4",  "from": "86",  "to": "86",  "xcls": "" },
+                { "number": "5",  "from": "91",  "to": "102", "xcls": "-sl" },
+                { "number": "6",  "from": "135", "to": "140", "xcls": "" },
+                { "number": "7",  "from": "163", "to": "169", "xcls": "" },
+                { "number": "8",  "from": "304", "to": "307", "xcls": "-sl" },
+                { "number": "9",  "from": "344", "to": "349", "xcls": "-sl" },
+                { "number": "10", "from": "366", "to": "369", "xcls": "-sl" },
+                { "number": "11", "from": "392", "to": "397", "xcls": "-tl" },
+                { "number": "12", "from": "506", "to": "509", "xcls": "-tl" },
+                { "number": "13", "from": "613", "to": "614", "xcls": "-sl" },
+                { "number": "14", "from": "638", "to": "639", "xcls": "-sl" },
+                { "number": "15", "from": "668", "to": "671", "xcls": "-sl" },
+                { "number": "16", "from": "702", "to": "702", "xcls": "" },
+                { "number": "17", "from": "708", "to": "709", "xcls": "" },
+                { "number": "18", "from": "722", "to": "723", "xcls": "-sl" },
+                { "number": "19", "from": "728", "to": "729", "xcls": "" },
+                { "number": "20", "from": "750", "to": "751", "xcls": "-tl" },
+                { "number": "21", "from": "759", "to": "759", "xcls": "" },
+                { "number": "22", "from": "785", "to": "785", "xcls": "" },
+                { "number": "282", "from": "799", "to": "799", "xcls": "-sl" },
+                { "number": "298", "from": "768", "to": "769", "xcls": "-four4" },
+                { "number": "299", "from": "800", "to": "800", "xcls": "-five1" }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Sensorites",
+            "color": "color-creature2",
+            "info": {
+                "title": "Sensorites (First appeared 1964)",
+                "actor": "",
+                "image": "images/creature_sensorites.png",
+                "text": "The softly-spoken, telepathic Sensorites were encountered by the First Doctor and his companions, very early in their travels. The Sensorites had captured and brainwashed a crew of Earth scientists – driving one of their number completely mad in the process. The Doctor travelled to their homeworld, the Sense-Sphere and learned that previous Earth expeditions had tried to exploit the Sense-Sphere’s mineral reserves. An honourable race, once the Doctor has helped them root out treachery in their own people, the Sensorites agree to letting the humans go. The Tenth Doctor later remarked that Sense-Sphere is in the same system as the Ood-Sphere – the planet of the telepathic Ood.",
+                "quote": "A special area has been prepared for you on the Sense-Sphere. There you will live, and there you will be looked after.",
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1>3</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>6</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "23", "from": "31", "to": "36", "xcls": "" }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Meddling Monk",
+            "color": "color-creature3",
+            "info": {
+                "title": "Meddling Monk (First appeared 1965)",
+                "actor": "",
+                "image": "images/creature_monk.png",
+                "text": "1066: A Monk witnesses the arrival of the TARDIS, and seems to recognise it. He’s another time traveller, a member of the Doctor’s race with a ship of his own, but a very different view on interfering in history. The First Doctor prevents him from scuppering the Norman conquest of England and foils his plan to create a technological golden age 700 years too soon. The Doctor later encountered the Monk when both were caught up in the Daleks’ Master Plan. The Doctor stole the directional unit of the Monk’s TARDIS, leaving him unable to steer.",
+                "quote": "I want to improve things.",
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1>4</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>16</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "24", "from": "78", "to": "81",  "xcls": "" },
+                { "number": "25", "from": "91", "to": "102", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "War Machines",
+            "color": "color-creature4",
+            "info": {
+                "title": "War Machines (First appeared 1966)",
+                "actor": "",
+                "image": "images/creature_warmachines.png",
+                "text": "Arriving in London 1966, the Doctor feels an evil force pulling him towards the Post Office Tower. It is WOTAN – a super-computer so clever that, unbeknownst to its creator Professor Brett, it has developed an intelligence of its own. Taking over those around it using hypnosis, WOTAN begins construction of a fleet of War Machines to subjugate the world. The First Doctor was able to capture a War Machine, reprogamme it and send it back to the Tower to destroy WOTAN.",
+                "quote": "The order to attack will come from WOTAN.",
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1></h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "26", "from": "123", "to": "126", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Cybermen",
+            "color": "color-creature5",
+            "info": {
+                "title": "Cybermen (First appeared 1966)",
+                "actor": "",
+                "image": "images/creature_cybermen.png",
+                "text": "Originally born on Earth’s twin planet Mondas, the Cybermen were created as the Mondasians replaced parts of their dying bodies with plastic and steel. Eventually they added emotional inhibitors, supressing all feelings – love, hate, even fear. Cybermen can convert humans wherever they go, and take orders from a Cyberleader, whose data can be downloaded to a drone if the leader is destroyed. Like the Daleks, the Cybermen have dogged the Doctor through space and time. He has prevented them destroying Earth’s weather system, getting their hands on the Nemesis statue and taking over Victorian London with their Cyber-King. The Tenth Doctor visited a parallel universe, where Cybus Industries had developed Cybermen to prolong John Lumic’s dwindling life.",
+                "quote": "You will become like us.",
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1></h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "27", "from": "131", "to": "134", "xcls": "" },
+                { "number": "28", "from": "149", "to": "152", "xcls": "" },
+                { "number": "29", "from": "170", "to": "173", "xcls": "" },
+                { "number": "30", "from": "204", "to": "209", "xcls": "" },
+                { "number": "31", "from": "220", "to": "227", "xcls": "" },
+                { "number": "32", "from": "398", "to": "401", "xcls": "-sl" },
+                { "number": "33", "from": "572", "to": "575", "xcls": "" },
+                { "number": "34", "from": "602", "to": "602", "xcls": "-sl" },
+                { "number": "35", "from": "627", "to": "628", "xcls": "-sl" },
+                { "number": "36", "from": "675", "to": "677", "xcls": "" },
+                { "number": "37", "from": "715", "to": "716", "xcls": "" },
+                { "number": "38", "from": "722", "to": "723", "xcls": "-sr" },
+                { "number": "39", "from": "752", "to": "752", "xcls": "" },
+                { "number": "40", "from": "782", "to": "782", "xcls": "" },
+                { "number": "283", "from": "797", "to": "797", "xcls": "" },
+                { "number": "296", "from": "768", "to": "769", "xcls": "-four2" },
+                { "number": "301", "from": "800", "to": "800", "xcls": "-five3" }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Ice Warriors",
+            "color": "color-creature6",
+            "info": {
+                "title": "Ice Warriors (First appeared 1967)",
+                "actor": "",
+                "image": "images/creature_ice_warriors.png",
+                "text": "Described by the Tenth Doctor as 'a fine and noble race who built an empire out of snow', the Ice Warriors were a species of reptiles from the planet Mars. They were twice encountered by the Second Doctor – first, when their crashed ship was thawed out of a glacier during a future Earth ice age, and then when they tried to take over the Earth’s trans-mat system. On both occasions, the Warriors were dangerous aggressors. In a subsequent meeting with the Third Doctor on Peladon, the Ice Warriors had renounced violence and entered the Galactic Federation. However their warlike nature could not be kept under control for long…",
+                "quote": "What are your qualifications for existence?",
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1></h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "41", "from": "180", "to": "185", "xcls": "" },
+                { "number": "42", "from": "232", "to": "237", "xcls": "" },
+                { "number": "43", "from": "244", "to": "253", "xcls": "-sl" },
+                { "number": "44", "from": "283", "to": "288", "xcls": "-tr" },
+                { "number": "45", "from": "308", "to": "311", "xcls": "" },
+                { "number": "46", "from": "370", "to": "375", "xcls": "" },
+                { "number": "47", "from": "793", "to": "793", "xcls": "" }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Great Intelligence",
+            "color": "color-creature7",
+            "info": {
+                "title": "The Great Intelligence (First appeared 1967)",
+                "actor": "",
+                "image": "images/creature_great_int.png",
+                "text": "The Great Intelligence was a formless entity, wandering in space. It first encountered the Eleventh Doctor in 1892, when it took the form of snow. It found an ally in Doctor Simeon, and through him attempted to create a race of ice-people. In 1935, the Second Doctor encountered the Intelligence living in the mind of Buddhist monk Padmasambhava, keeping his frail form alive for hundreds of years. It was through him that the Intelligence tried to manifest itself in physical form as robot Yetis. It returned once more as a mysterious London fog that consumed everything it touched in a web-like substance. This attempt at corporeal form was thwarted, when the Intelligence’s control spheres were destroyed. But the Great Intelligence escaped once more…",
+                "quote": "Through time and space I have observed you, Doctor. Your mind surpasses that of all other creatures.",
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1></h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "48", "from": "174", "to": "179", "xcls": "" },
+                { "number": "49", "from": "192", "to": "197", "xcls": "" },
+                { "number": "50", "from": "790", "to": "791", "xcls": "" },
+                { "number": "51", "from": "798", "to": "798", "xcls": "" }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Silurians",
+            "color": "color-creature8",
+            "info": {
+                "title": "Silurians (First appeared 1970)",
+                "actor": "",
+                "image": "images/creature_silurians.png",
+                "text": "An advanced race of reptilian humanoids, tribes of Homo Reptilia were the dominant life-form on Earth before the evolution of humanity. When a large object appeared in the sky the Silurians retreated underground or escaped Earth in an Ark (the object harmlessly entered Earth’s orbit as the Moon). The Doctor has encountered three tribes of Silurians whose hibernation had been disturbed by human activity. Whilst honourable warriors, they often found co-habitation with humanity impossible, due to war-like factions on both sides. In 2367, the Eleventh Doctor found the remains of a Silurian space Ark, which - after a pirate trader called Solomon had murdered the Silurians aboard - contained only dinosaurs. The dinosaurs were settled on a new world, named Siluria.",
+                "quote": "This is our planet. We were here before man. We ruled this world millions of years ago.",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "53", "from": "258", "to": "264", "xcls": "" },
+                { "number": "54", "from": "603", "to": "606", "xcls": "-sl" },
+                { "number": "55", "from": "764", "to": "765", "xcls": "" },
+                { "number": "56", "from": "777", "to": "777", "xcls": "-sl" },
+                { "number": "274","from": "783", "to": "783", "xcls": "-tr" },
+                { "number": "276","from": "786", "to": "786", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Master",
+            "color": "color-creature9",
+            "info": {
+                "title": "The Master (first appeard in 1971)",
+                "actor": "",
+                "image": "images/creature_master.png",
+                "text": "A childhood friend of the Doctor, the Master was driven insane after looking into the Untempered Schism on Gallifrey at the age of eight. Like the Doctor, he fled from the Time Lord’s home planet in a stolen TARDIS. However the Master’s motives have never been pure - frequently seeking alliances with aliens like the Daleks, the Nestene Consciousness and the Rani in an effort to conquer the galaxy. Running out of natural regenerations, he began assimilating other bodies, before eventually dying. Resurrected by the Time Lords him as the perfect warrior, he fought in the Time War before hiding – first as Professor Yana then as Harry Saxon. Shot by his wife but being once more reborn, he was last seen forcing Rassilon and the Time Lords back into the hell of Time War-ravaged Gallifrey.",
+                "quote": "And I looked down upon my new dominion as Master of all; and I thought it good.",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "57", "from": "279", "to": "303", "xcls": "-tl" },
+                { "number": "58", "from": "312", "to": "317", "xcls": "-tl" },
+                { "number": "59", "from": "324", "to": "329", "xcls": "" },
+                { "number": "60", "from": "338", "to": "343", "xcls": "-tl" },
+                { "number": "61", "from": "436", "to": "439", "xcls": "-sl" },
+                { "number": "62", "from": "546", "to": "557", "xcls": "-tl" },
+                { "number": "63", "from": "576", "to": "579", "xcls": "-tl" },
+                { "number": "64", "from": "600", "to": "602", "xcls": "-sr" },
+                { "number": "65", "from": "615", "to": "618", "xcls": "" },
+                { "number": "66", "from": "631", "to": "632", "xcls": "-sl" },
+                { "number": "67", "from": "652", "to": "653", "xcls": "-sl" },
+                { "number": "68", "from": "693", "to": "695", "xcls": "-sl" },
+                { "number": "69", "from": "696", "to": "696", "xcls": "" },
+                { "number": "70", "from": "735", "to": "737", "xcls": "-sl" },
+                { "number": "71", "from": "755", "to": "756", "xcls": "-tl" }
+            ]
+        },
+        {
+            "id": "10",
+            "name": "Sontarans",
+            "color": "color-creature10",
+            "info": {
+                "title": "Sontarans (First appeared 1973)",
+                "actor": "",
+                "image": "images/creature_sontarans.png",
+                "text": "An aggressive clone-warrior race from Sontar, who travel in spherical ships, the Sontarans were engaged in a war lasting many thousands of years with the Rutans. In pursuit of the advantage, Commander Linx of the Fifth Sontaran Battle Group tried to invade 13th century Earth, until repelled by the Third Doctor. Later meetings with the Doctor saw the Sontarans invading the Time Lord home planet of Gallifrey, forcing the Sixth Doctor to build them a time travel machine, and trying to covert Earth’s atmosphere into one suitable for warrior cloning using the ATMOS machines. Sarah Jane Smith later encountered – and defeated – the last survivor of that invasion, Commander Kaagh.",
+                "quote": "SONTAR-HA!",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "72", "from": "356", "to": "359", "xcls": "" },
+                { "number": "73", "from": "390", "to": "391", "xcls": "" },
+                { "number": "74", "from": "474", "to": "479", "xcls": "-tr" },
+                { "number": "75", "from": "550", "to": "553", "xcls": "-tc" },
+                { "number": "76", "from": "633", "to": "635", "xcls": "-sl" },
+                { "number": "77", "from": "742", "to": "743", "xcls": "" },
+                { "number": "79", "from": "777", "to": "777", "xcls": "-sr" },
+                { "number": "297", "from": "768", "to": "769", "xcls": "-four3" },
+                { "number": "303", "from": "800", "to": "800", "xcls": "-five5" }
+            ]
+        },
+        {
+            "id": "11",
+            "name": "Davros",
+            "color": "color-creature1",
+            "info": {
+                "title": "Davros (First appeared 1975)",
+                "actor": "",
+                "image": "images/creature_davros.png",
+                "text": "Davros was Chief Scientist of the Kaleds towards the end of their thousand year war with the Thals on the planet Skaro. Confined to a mobile life-support system, Davros developed a final solution to end the war: The Daleks – mutated Kaleds robbed or morality and with added aggression, placed inside armoured shells called the Mark III Travel Machines. However, his own people rejected the notion, and in retaliation he gave the Thals the formula to destroy the Kaled dome. Safe in the bunker below, Davros released the Daleks on an unsuspecting world. However, the Daleks turned upon their creator, and left him for dead in the bowels of the city on Skaro. Years later, the Daleks sought his help to defeat their logical stalemate with the Morvellans and then again to defeat the Morvellan virus. Later he became The Great Healer, turning the bodies of the dead into food, or new “Imperial” Daleks. His grip on the Daleks weakened, as a renegade faction grew up – loyal to the Supreme Dalek - plunging them into civil war. He commanded Dalek forces during The Last Great Time War, and was seen flying into the jaws of the Nightmare Child. Rescued by Dalek Caan, Davros constructed the Reality Bomb, but was foiled by the Children of Time. He was last seen cursing the Doctor as “The Destroyer of Worlds” as the Crucible burned around him.",
+                "quote": "Yes. I would do it. That power would set me up above the gods. And through the Daleks I shall have that power!",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "80", "from": "392", "to": "397", "xcls": "-tc" },
+                { "number": "81", "from": "506", "to": "509", "xcls": "-tc" },
+                { "number": "82", "from": "613", "to": "614", "xcls": "-sr" },
+                { "number": "83", "from": "638", "to": "639", "xcls": "-sr" },
+                { "number": "84", "from": "668", "to": "671", "xcls": "-sr" },
+                { "number": "85", "from": "750", "to": "751", "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "12",
+            "name": "Zygons",
+            "color": "color-creature2",
+            "info": {
+                "title": "Zygons (First appeared 1975)",
+                "actor": "",
+                "image": "images/creature_zygons.png",
+                "text": "An amphibious humanoid race, the Zygons are notable for their ability to metamorphose into other living forms, as well as their use of organic technology. Centuries ago, a spaceship full of Zygons crash-landed in Scotland. Unable to return to their native planet, which had been destroyed in a solar explosion, they planned to make Earth their new home. Using their shape-shifting powers and a sea monster called the Skarasen, their plans were foiled when their leader Broton was shot by UNIT. The Skarasen returned to live peacefully in Loch Ness. As an anniversary present, the Eleventh Doctor took Amy and Rory to the Savoy Hotel on 26 June 1890. Unfortunately, half the staff turned out to be Zygons in disguise.",
+                "quote": "It will be many centuries before the fleet arrives. In that time, the whole of this Earth must be restructured.",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "86",  "from": "402", "to": "405", "xcls": "" },
+                { "number": "281", "from": "799", "to": "799", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "13",
+            "name": "Black Guardian",
+            "color": "color-creature3",
+            "info": {
+                "title": "The Black Guardian (First appeared 1979)",
+                "actor": "",
+                "image": "images/creature_black_guardian.png",
+                "text": "The physical personification of the forces of chaos and destruction in the universe, the Black Guardian is ranged and balanced against the White Guardian’s force of order. When the White Guardian tasked the Fourth Doctor with reassembling the Key to Time, the Black Guardian’s agents were close at hand. After Princess Astra sacrificed her life to become the sixth and final segment, the Black Guardian posed as White to take the Key. His casual disregard for human life enabled the Doctor to see through the ruse and destroy the Key. Later, the Black Guardian tried to use Turlough to destroy the Fifth Doctor, luring him with a promise to return him home. When faced with a choice, Turlough hurled the Enlightenment crystal at the Black Guardian, consuming him in flames. However, as the White Guardian warned, both Guardians would continue to exist as long as they were needed.",
+                "quote": "I am the Black Guardian! The Doctor's good is my evil.",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "88", "from": "500", "to": "505", "xcls": "" },
+                { "number": "89", "from": "588", "to": "599", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "14",
+            "name": "Terileptils",
+            "color": "color-creature4",
+            "info": {
+                "title": "Terileptils (First appeared 1982)",
+                "actor": "",
+                "image": "images/creature_terileptils.png",
+                "text": "The Terileptils are an advanced race of reptilian humanoids, with a strong appreciation for grace and beauty. Breathing flammable soliton gas, they incorporated elegant design into functional items like their androids, atmosphere propagators and guns. Terileptil prisoners mined tinclavic for the Hakolians – and it was from the tinclavic mines that a group of four Terileptil convicts escaped. Their ship crashed on Earth in the 17th century, where – using a reprogrammed android dressed as Death – they began to develop a super-strain of bubonic plague. They were foiled by the Fifth Doctor, when the soliton and oxygen rich atmosphere in their London command centre combusted. The fire quickly took hold, destroying much of the city, and became known as the Great Fire of London. A Terileptil force was part of the alliance that lured the Eleventh Doctor to Stonehenge and imprisoned him in the Pandorica.",
+                "quote": "War is honourable, Doctor. Even on this planet it is considered so.",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "90", "from": "566", "to": "569", "xcls": "" }
+            ]
+        },
+        {
+            "id": "15",
+            "name": "Mara",
+            "color": "color-creature5",
+            "info": {
+                "title": "The Mara (First appeared 1982)",
+                "actor": "",
+                "image": "images/creature_mara.png",
+                "text": "Found in the “depths of the human heart”, the Mara is a creature of pure greed and hatred. It was accidentally created from human mental energy, amplified by the Great Crystal on Manussa, leading to a reign of terror. Banished to the Dark Places of the Inside, the Mara entered the mind of Tegan on the paradise world of Deva Loka. It was through her and a Kinda named Aris, that it found true physical form as a serpent. Despite being trapped in a circle of mirrors and banished once more by the Doctor, the Mara retained a hold on Tegan. It made her take the TARDIS to Manussa, 500 years after the Mara’s exile, and once more tried to manifest itself. After being trained by a snakedancer to find the “still point”, the Doctor was able to focus his mental energy to destroy the Mara. Although permanently freed of the Mara’s influence, the experience greatly affected Tegan.",
+                "quote": "You will agree to believe in me sooner or later. This side of madness or the other.",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "91", "from": "562", "to": "565", "xcls": "" },
+                { "number": "92", "from": "584", "to": "587", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "16",
+            "name": "Sil",
+            "color": "color-creature6",
+            "info": {
+                "title": "Sil (First appeared 1985)",
+                "actor": "",
+                "image": "images/creature_sil.png",
+                "text": "A cold-blooded Mentor from Thoros Beta, Sil was like many of his contemporaries, a driven and unethical capitalist. In his role as delegate from the Galatron Mining Corporation, he attempted to extort a crushingly low price for Zeiton-7 ore from the poverty-stricken world of Varos, as well as deriving great pleasure from the acts of torture perpetrated in their Punishment Dome. After failing to rig the market, Sil returned home to Thoros Beta where he became involved in arms sales to more primitive worlds. Doting on Lord Kiv, and using a delirious Doctor to make investments with Time Lord foreknowledge, he was presumably killed by King Yrcanos’s assault on Crozier’s laboratory.",
+                "quote": "Are they very disturbing, these videos you sell?",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "93", "from": "629", "to": "630", "xcls": "" },
+                { "number": "94", "from": "644", "to": "647", "xcls": "-mr" }
+            ]
+        },
+        {
+            "id": "17",
+            "name": "Rani",
+            "color": "color-creature7",
+            "info": {
+                "title": "The Rani (First appeared 1985)",
+                "actor": "",
+                "image": "images/creature_rani.png",
+                "text": "An amoral, scientific genius, the Rani was a renegade Time Lord, and contemporary of both the Doctor and the Master. She was forced to leave Gallifrey when an experiment on mice created monsters, that ate the Lord President’s cat. Setting up empire on Miasma Goria and experimenting on its inhabitants, she made regular visits to Earth for human brain fluid. On one such visit, she was interrupted by the Doctor and the Master, and eventually trapped with the latter and a growing Tyrannosaurus Rex embryo in her TARDIS. Escaping this, she set about a new plan to channel the intellects of geniuses from across the universe – including the Doctor’s – into a giant brain. Foiled by the Doctor she was trapped in her TARDIS by the Tetraps.",
+                "quote": "Leave the girl, it’s the man I want.",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "95", "from": "631", "to": "632", "xcls": "-sr" },
+                { "number": "96", "from": "654", "to": "657", "xcls": "-tl" }
+            ]
+        },
+        {
+            "id": "18",
+            "name": "Valeyard",
+            "color": "color-creature8",
+            "info": {
+                "title": "The Valeyard (First appeared 1986)",
+                "actor": "",
+                "image": "images/creature_valeyard.png",
+                "text": "Prosecutor at the Sixth Doctor's trial, the Valeyard attempted to find the Doctor guilty of interference and genocide, a verdict that would result in the death penalty. He presented damning testimony from the Doctor's affairs on Ravalox, blamed him for Peri's apparent death on Thoros Beta and the genocide of the Vervoid race. As the trial culminated, the Master revealed that the Valeyard was in fact an incarnation of the Doctor himself - an amalgamation of all the Doctor's potential darkness, from a point in the his future. After a pitched battle with the Doctor in the dreamscape of the Gallifreyan Matrix, the Valeyard died when the weapon he intended to turn on the Time Lords overloaded. However, As the Doctor departed with all charges against him dropped, it was clear that the Valeyard had survived...",
+                "quote": "I too find it repugnant to witness, my lady, but the Doctor has a well-known predilection for violence.",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "97", "from": "640", "to": "647", "xcls": "-tl" },
+                { "number": "98", "from": "652", "to": "653", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "19",
+            "name": "Kandy Man",
+            "color": "color-creature9",
+            "info": {
+                "title": "Kandy Man (First appeared 1988)",
+                "actor": "",
+                "image": "images/creature_kandyman.png",
+                "text": "Cooked up by Gilbert M, the Kandy Man's bones were brought to Terra Alpha in a suitcase, where he was installed as the ruthless Helen A's executioner. A psychopath made of caramel, sherbet, toffee and marzipan, the Kandy Man supervised the 'fondant surprise', where those found guilty of gross displays of public unhappiness were drowned in icing. He was melted by his own execution methods as he tried to escape the collapse of Helen A's empire.",
+                "quote": "Impolite guests get to feel the back of my candy hand!",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "99", "from": "672", "to": "674", "xcls": "" }
+            ]
+        },
+        {
+            "id": "20",
+            "name": "Haemovores",
+            "color": "color-creature10",
+            "info": {
+                "title": "Haemovores (First appeared 1989)",
+                "actor": "",
+                "image": "images/creature_haemovores.png",
+                "text": "Haemovores were a possible future evolved state of humanity, from an Earth rotting in polluted slime. The last Haemovore – the Ancient One – was transported to 10th century Transylvania, by the ancient evil called Fenric, to follow the flask in which it had been trapped by the Doctor. The Ancient One followed Vikings who stole the flask to northern England, picking them off, one by one. As the Vikings were drained of blood to become Haemovores themselves, the flask was buried and cursed. In 1943, cryptographer Dr Judson decoded the Viking runes, releasing Fenric. It then summoned the Haemovore army, dormant for centuries under the sea, to trap the Doctor into one final game. He tasked the Ancient One with poisoning the Earth with a toxin. Convinced by the Doctor that this act would create the dying future Earth of the Haemovores, the Ancient One destroyed Fenric - preventing the Haemovore timeline from occurring.",
+                "quote": "Deep down, everybody wants to come into the water.",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "100", "from": "689", "to": "692", "xcls": "" }
+            ]
+        },
+        {
+            "id": "21",
+            "name": "Autons",
+            "color": "color-creature1",
+            "info": {
+                "title": "Autons (First appeared 1970)",
+                "actor": "",
+                "image": "images/creature_autons.png",
+                "text": "Autons are the living plastic foot-soldiers of a formless entity known as the Nestene Consciousness. Its affinity for and ability to animate plastics has led it to Earth many times, and into conflict with the Doctor. From replacing shop-window dummies and people in positions of authority with Auton replicas to deadly plastic chairs, dolls, daffodils and rubbish bins, the Nestene have attacked humanity in some of the most creative and grisly ways imaginable. The Ninth Doctor claimed to have witnessed the destruction of the Nestene homeworld in the Time War, but was unable to save it. As part of the Pandorica Alliance, the Nestene created Auton Romans at Stonehenge – including Rory Williams – from Amy Pond’s memories.",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "101", "from": "254", "to": "257", "xcls": "-sr" },
+                { "number": "102", "from": "279", "to": "282", "xcls": "-tr" },
+                { "number": "103", "from": "697", "to": "697", "xcls": "-sl" },
+                { "number": "295", "from": "768", "to": "769", "xcls": "-four1" }
+            ]
+        },
+        {
+            "id": "22",
+            "name": "Slitheen",
+            "color": "color-creature2",
+            "info": {
+                "title": "The Family Slitheen (First appeared 2005)",
+                "actor": "",
+                "image": "images/creature_slitheen.png",
+                "text": "The family Slitheen are outlawed criminals from the planet of Raxacoricofallapatorius. Wearing skin-suits of the British government, they planned to ruin the Earth and sell it on as rocket fuel. The attempt was foiled when the Doctor, Rose, Mickey and Harriet Jones (MP) diverted missiles into 10 Downing St. Blon Fel-Fotch Passameer-Day Slitheen was the sole Slitheen survivor, and – wearing the skin of Margaret Blaine - was elected Mayor of Cardiff. Foiling her Blaidd Drwg project, the Doctor caught her and threatened to return her home to her death. After a long negotiation, and taking Rose as a hostage, she stared into the heart of the TARDIS, and was reborn as an egg.",
+                "quote": "One wrong move and she snaps like a promise.",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "105", "from": "700", "to": "701", "xcls": "" },
+                { "number": "106", "from": "707", "to": "707", "xcls": "" }
+            ]
+        },
+        {
+            "id": "23",
+            "name": "Ood",
+            "color": "color-creature3",
+            "info": {
+                "title": "Ood (First appeared 2006)",
+                "actor": "",
+                "image": "images/creature_ood.png",
+                "text": "A hive-minded, peaceful race of alien telepaths, who due to their docile nature are often farmed and enslaved by humans. Natural, or “unprocessed” Ood hold their hindbrains in their hands, whereas those that have been processed have this replaced by a translator ball. The Doctor and Rose first encountered Ood serving on Krop Tor, where the Beast of the Pit attacked their telepathic field to turn the whole flock into killers. During the Doctor’s next meeting – at Ood Operations, a refinery on the Ood Sphere – he first heard the song of the Ood, and helped liberate the Ood’s collective consciousness. Their telepathic sensitivity enabled them to foretell the return of the Master, the creation of a Doctor-Donna and the regeneration of the Tenth Doctor. A lone Ood, called Nephew, was trapped in House’s pocket universe. He was atomised by Idris and the Doctor’s junk TARDIS materialising.",
+                "quote": "I hope you enjoy your meal.",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "107", "from": "718", "to": "719", "xcls": "-sl" },
+                { "number": "109", "from": "741", "to": "741", "xcls": "" },
+                { "number": "259", "from": "755", "to": "756", "xcls": "-tr" },
+                { "number": "268", "from": "774", "to": "774", "xcls": "" }
+            ]
+        },
+        {
+            "id": "24",
+            "name": "Vashta Nerada",
+            "color": "color-creature4",
+            "info": {
+                "title": "Vashta Nerada (First appeared 2008)",
+                "actor": "",
+                "image": "images/creature_vashta.png",
+                "text": "Meaning “the shadows that melt the flesh”, Vashta Nerada occur naturally on most planets – including Earth – in small clusters, like the dust in sunbeams. In The Library, the Doctor encountered an entire swarm of Vashta Nerada, stripping the flesh from numerous members of Mr Lux’s unfortunate crew. The Doctor brokered a deal with the creatures (who were using the animated remains of the crew in their flight-suits): if he could get the humans off the planet, the Vashta Nerada could remain in the “forests” of books.",
+                "quote": "Hey, who turned out the light?",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "111", "from": "746", "to": "747", "xcls": "" }
+            ]
+        },
+        {
+            "id": "25",
+            "name": "Weeping Angels",
+            "color": "color-creature5",
+            "info": {
+                "title": "Weeping Angels (First appeared 2007)",
+                "actor": "",
+                "image": "images/creature_weeping_angels.png",
+                "text": "Known as “The Lonely Assassins”, the Weeping Angels are quantum-locked alien killers, as old as the universe itself. Little is known of their origins or culture. When observed, they freeze like stone, but in the blink of an eye they can move vast distances. The touch of an Angel hurls their victim back in time – allowing the Angel to feast on the energy of their unlived days. Initially, the Tenth Doctor encountered four Angels, who sent him back to 1969. He left clues for Sally Sparrow to find and help trap them – releasing him and the TARDIS. Later encounters have seen a whole mausoleum of statues, tiny cherubs and even the Statue of Liberty transformed into Weeping Angels. Both Amy and Rory were trapped by a Weeping Angel, when it sent them back to 1938 to live out their lives together. In the 51st Century, the Doctor trapped the Angels in a crack in time, erasing them from history.",
+                "quote": "That which holds the image of an Angel, becomes itself an Angel.",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "112", "from": "734", "to": "734", "xcls": "" },
+                { "number": "113", "from": "760", "to": "761", "xcls": "" },
+                { "number": "114", "from": "789", "to": "789", "xcls": "" },
+                { "number": "302", "from": "800", "to": "800", "xcls": "-five4" }
+            ]
+        },
+        {
+            "id": "26",
+            "name": "Silence",
+            "color": "color-creature6",
+            "info": {
+                "title": "The Silence (first appeared 2011)",
+                "actor": "",
+                "image": "images/creature_silence.png",
+                "text": "Rather than a specific race, The Silence are a religious order. Their agents on Earth have been there since before the dawn of mankind, directing human evolution. They use post-hypnotic suggestion to make people who see them instantly forget their existence. They believe that silence must fall when the oldest Question in the universe is asked. It will be asked at “the fall of the Eleventh” on the Fields of Trenzalore, and is hidden in plain sight. As a result, the Silence have tried to stop the Doctor reaching Trenzalore. They used their agent Madame Kovarian to kidnap Melody Pond, and raised her as the Doctor’s perfect assassin. Despite the failure of this plan, the Silence remain at large, determined to stop the Question ever being asked.",
+                "quote": "We have ruled your lives since your lives began. You should kill us all on sight, but you will never remember we were even here.",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "115", "from": "771", "to": "772", "xcls": "" },
+                { "number": "116", "from": "778", "to": "778", "xcls": "-sl" },
+                { "number": "117", "from": "783", "to": "783", "xcls": "-tl" },
+                { "number": "300", "from": "800", "to": "800", "xcls": "-five2" }
+            ]
+        },
+        {
+            "id": "27",
+            "name": "Voords",
+            "color": "color-creature7",
+            "info": {
+                "title": "Voords (first appeared 1964)",
+                "actor": "",
+                "image": "images/creature_voords.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "118", "from": "21",  "to": "26",  "xcls": "" }
+            ]
+        },
+        {
+            "id": "28",
+            "name": "Koquillion",
+            "color": "color-creature8",
+            "info": {
+                "title": "Koquillion (first appeared 1965)",
+                "actor": "",
+                "image": "images/creature_koquillion.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "119", "from": "52",  "to": "53",  "xcls": "" }
+            ]
+        },
+        {
+            "id": "29",
+            "name": "Menoptera",
+            "color": "color-creature9",
+            "info": {
+                "title": "Menoptera (first appeared 1965)",
+                "actor": "",
+                "image": "images/creature_menoptera.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "120", "from": "58",  "to": "63",  "xcls": "-tl" }
+            ]
+        },
+        {
+            "id": "30",
+            "name": "Zarbi",
+            "color": "color-creature10",
+            "info": {
+                "title": "Zarbi (first appeared 1965)",
+                "actor": "",
+                "image": "images/creature_zarbi.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "120", "from": "58",  "to": "63",  "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "31",
+            "name": "Animus",
+            "color": "color-creature1",
+            "info": {
+                "title": "Animus (first appeared 1965)",
+                "actor": "",
+                "image": "images/creature_animus.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "121", "from": "58",  "to": "63",  "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "32",
+            "name": "Moroks",
+            "color": "color-creature2",
+            "info": {
+                "title": "Moroks (first appeared 1965)",
+                "actor": "",
+                "image": "images/creature_moroks.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "122", "from": "68",  "to": "71",  "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "33",
+            "name": "Xerons",
+            "color": "color-creature3",
+            "info": {
+                "title": "Xerons (first appeared 1965)",
+                "actor": "",
+                "image": "images/creature_xerons.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "123", "from": "68",  "to": "71",  "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "34",
+            "name": "Aridians",
+            "color": "color-creature4",
+            "info": {
+                "title": "Aridians (first appeared 1965)",
+                "actor": "",
+                "image": "images/creature_aridians.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "124", "from": "72",  "to": "77",  "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "35",
+            "name": "Mechanoids",
+            "color": "color-creature5",
+            "info": {
+                "title": "Mechanoids (first appeared 1965)",
+                "actor": "",
+                "image": "images/creature_mechanoids.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "125", "from": "72",  "to": "77",  "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "36",
+            "name": "Chumblies",
+            "color": "color-creature6",
+            "info": {
+                "title": "Chumblies (first appeared 1965)",
+                "actor": "",
+                "image": "images/creature_chumblies.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "126", "from": "82",  "to": "85",  "xcls": "-tl" }
+            ]
+        },
+        {
+            "id": "37",
+            "name": "Drahvins",
+            "color": "color-creature7",
+            "info": {
+                "title": "Drahvins (first appeared 1965)",
+                "actor": "",
+                "image": "images/creature_drahvins.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "127", "from": "82",  "to": "85",  "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "38",
+            "name": "Rills",
+            "color": "color-creature8",
+            "info": {
+                "title": "Rills (first appeared 1965)",
+                "actor": "",
+                "image": "images/creature_rills.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "128", "from": "82",  "to": "85",  "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "39",
+            "name": "Celestial Toymaker",
+            "color": "color-creature9",
+            "info": {
+                "title": "The Celestial Toymaker (first appeared 1966)",
+                "actor": "",
+                "image": "images/creature_celestial_toymaker.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "129", "from": "111", "to": "114",  "xcls": "" }
+            ]
+        },
+        {
+            "id": "40",
+            "name": "WOTAN",
+            "color": "color-creature10",
+            "info": {
+                "title": "WOTAN (first appeared 1966)",
+                "actor": "",
+                "image": "images/creature_wotan.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "130", "from": "123", "to": "126", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "41",
+            "name": "Macra",
+            "color": "color-creature1",
+            "info": {
+                "title": "Macra (first appeared 1967)",
+                "actor": "",
+                "image": "images/creature_macra.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "131", "from": "153", "to": "156", "xcls": "" }
+            ]
+        },
+        {
+            "id": "42",
+            "name": "Chameleons",
+            "color": "color-creature2",
+            "info": {
+                "title": "Chameleons (first appeared 1967)",
+                "actor": "",
+                "image": "images/creature_chameleons.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "132", "from": "157", "to": "162", "xcls": "" }
+            ]
+        },
+        {
+            "id": "43",
+            "name": "Dominators",
+            "color": "color-creature3",
+            "info": {
+                "title": "Dominators (first appeared 1968)",
+                "actor": "",
+                "image": "images/creature_dominators.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "133", "from": "210", "to": "214", "xcls": "-tl" }
+            ]
+        },
+        {
+            "id": "44",
+            "name": "Quarks",
+            "color": "color-creature4",
+            "info": {
+                "title": "Quarks (first appeared 1968)",
+                "actor": "",
+                "image": "images/creature_quarks.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "134", "from": "210", "to": "214", "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "45",
+            "name": "Dulcians",
+            "color": "color-creature5",
+            "info": {
+                "title": "Dulcians (first appeared 1968)",
+                "actor": "",
+                "image": "images/creature_dulcians.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "135", "from": "210", "to": "214", "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "46",
+            "name": "Clockwork Soldiers",
+            "color": "color-creature6",
+            "info": {
+                "title": "Clockwork Soldiers (first appeared 1968)",
+                "actor": "",
+                "image": "images/creature_clockwork_soldiers.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "136", "from": "215", "to": "219", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "47",
+            "name": "White Robots",
+            "color": "color-creature7",
+            "info": {
+                "title": "White Robots (first appeared 1968)",
+                "actor": "",
+                "image": "images/creature_white_robots.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "137", "from": "215", "to": "219", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "48",
+            "name": "Gonds",
+            "color": "color-creature8",
+            "info": {
+                "title": "Gonds (first appeared 1968)",
+                "actor": "",
+                "image": "images/creature_gonds.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "138", "from": "228", "to": "231", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "49",
+            "name": "Krotons",
+            "color": "color-creature9",
+            "info": {
+                "title": "Krotons (first appeared 1968)",
+                "actor": "",
+                "image": "images/creature_krotons.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "139", "from": "228", "to": "231", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "50",
+            "name": "Time Lords",
+            "color": "color-creature10",
+            "info": {
+                "title": "Time Lords (first appeared 1969)",
+                "actor": "",
+                "image": "images/creature_time_lords.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "140", "from": "244", "to": "253", "xcls": "-sr" },
+                { "number": "171", "from": "436", "to": "439", "xcls": "-sr" },
+                { "number": "175", "from": "474", "to": "479", "xcls": "-tc" },
+                { "number": "203", "from": "580", "to": "583", "xcls": "-tl" },
+                { "number": "78",  "from": "755", "to": "756", "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "51",
+            "name": "Nestene Consciousness",
+            "color": "color-creature1",
+            "info": {
+                "title": "The Nestene Consciousness (first appeared 1970)",
+                "actor": "",
+                "image": "images/creature_nestene.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "141", "from": "254", "to": "257", "xcls": "-sl" },
+                { "number": "142", "from": "279", "to": "282", "xcls": "-tc" },
+                { "number": "230", "from": "697", "to": "697", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "52",
+            "name": "Keller Machine",
+            "color": "color-creature2",
+            "info": {
+                "title": "Keller Machine (first appeared 1971)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "143", "from": "283", "to": "288", "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "53",
+            "name": "Axons",
+            "color": "color-creature3",
+            "info": {
+                "title": "Axons (first appeared 1971)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "144", "from": "289", "to": "292", "xcls": "-mr" }
+            ]
+        },
+        {
+            "id": "54",
+            "name": "Primitives",
+            "color": "color-creature4",
+            "info": {
+                "title": "Primitives (first appeared 1971)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "145", "from": "293", "to": "298", "xcls": "-mr" }
+            ]
+        },
+        {
+            "id": "55",
+            "name": "Daemons",
+            "color": "color-creature5",
+            "info": {
+                "title": "Daemons (first appeared 1971)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "146", "from": "299", "to": "303", "xcls": "-mr" }
+            ]
+        },
+        {
+            "id": "56",
+            "name": "Ogrons",
+            "color": "color-creature6",
+            "info": {
+                "title": "Ogrons (first appeared 1972)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "147", "from": "304", "to": "307", "xcls": "-sr" },
+                { "number": "154", "from": "338", "to": "343", "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "57",
+            "name": "Sea Devils",
+            "color": "color-creature7",
+            "info": {
+                "title": "Sea Devils (first appeared 1972)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "148", "from": "312", "to": "317", "xcls": "-tc" },
+                { "number": "207", "from": "603", "to": "606", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "58",
+            "name": "Kronos",
+            "color": "color-creature8",
+            "info": {
+                "title": "Kronos (first appeared 1972)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "149", "from": "312", "to": "317", "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "59",
+            "name": "Omega",
+            "color": "color-creature9",
+            "info": {
+                "title": "Omega (first appeared 1972)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "150", "from": "330", "to": "333", "xcls": "" },
+                { "number": "202", "from": "580", "to": "583", "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "60",
+            "name": "Drashigs",
+            "color": "color-creature10",
+            "info": {
+                "title": "Drashigs (first appeared 1973)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "151", "from": "334", "to": "337", "xcls": "-tl" }
+            ]
+        },
+        {
+            "id": "61",
+            "name": "Lurmans",
+            "color": "color-creature1",
+            "info": {
+                "title": "Lurmans (first appeared 1973)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "152", "from": "334", "to": "337", "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "62",
+            "name": "Minorians",
+            "color": "color-creature2",
+            "info": {
+                "title": "Minorians (first appeared 1973)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "153", "from": "334", "to": "337", "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "63",
+            "name": "Draconians",
+            "color": "color-creature3",
+            "info": {
+                "title": "Draconians (first appeared 1973)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "155", "from": "338", "to": "343", "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "64",
+            "name": "Thals",
+            "color": "color-creature4",
+            "info": {
+                "title": "Thals (first appeared 1973)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "156", "from": "344", "to": "349", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "65",
+            "name": "Dinosaurs",
+            "color": "color-creature5",
+            "info": {
+                "title": "Dinosaurs (first appeared 1974)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "157", "from": "360", "to": "365", "xcls": "" },
+                { "number": "275", "from": "786", "to": "786", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "66",
+            "name": "Exxilons",
+            "color": "color-creature6",
+            "info": {
+                "title": "Exxilons (first appeared 1974)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "158", "from": "366", "to": "369", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "67",
+            "name": "Spiders",
+            "color": "color-creature7",
+            "info": {
+                "title": "Spiders (first appeared 1974)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "159", "from": "376", "to": "381", "xcls": "" }
+            ]
+        },
+        {
+            "id": "68",
+            "name": "K1 Robot",
+            "color": "color-creature8",
+            "info": {
+                "title": "K1 Robot (first appeared 1974)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "160", "from": "382", "to": "385", "xcls": "" }
+            ]
+        },
+        {
+            "id": "69",
+            "name": "Wirrn",
+            "color": "color-creature9",
+            "info": {
+                "title": "Wirrn (first appeared 1975)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "161", "from": "386", "to": "389", "xcls": "" }
+            ]
+        },
+        {
+            "id": "70",
+            "name": "Kalads",
+            "color": "color-creature10",
+            "info": {
+                "title": "Kalads (first appeared 1975)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "162", "from": "392", "to": "397", "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "71",
+            "name": "Vogans",
+            "color": "color-creature1",
+            "info": {
+                "title": "Vogans (first appeared 1975)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "163", "from": "398", "to": "401", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "72",
+            "name": "Osirian",
+            "color": "color-creature2",
+            "info": {
+                "title": "Osirian (first appeared 1975)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "164", "from": "410", "to": "413", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "73",
+            "name": "Sutekh",
+            "color": "color-creature3",
+            "info": {
+                "title": "Sutekh (first appeared 1975)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "165", "from": "410", "to": "413", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "74",
+            "name": "Kraals",
+            "color": "color-creature4",
+            "info": {
+                "title": "Kraals (first appeared 1975)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "166", "from": "414", "to": "417", "xcls": "" }
+            ]
+        },
+        {
+            "id": "75",
+            "name": "Morbius",
+            "color": "color-creature5",
+            "info": {
+                "title": "Morbius (first appeared 1976)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "167", "from": "418", "to": "421", "xcls": "" }
+            ]
+        },
+        {
+            "id": "76",
+            "name": "Krynoids",
+            "color": "color-creature6",
+            "info": {
+                "title": "Krynoids (first appeared 1976)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "168", "from": "422", "to": "427", "xcls": "" }
+            ]
+        },
+        {
+            "id": "77",
+            "name": "Helix Intelligence",
+            "color": "color-creature7",
+            "info": {
+                "title": "Helix Intelligence (first appeared 1976)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "169", "from": "428", "to": "431", "xcls": "" }
+            ]
+        },
+        {
+            "id": "78",
+            "name": "Kastrians",
+            "color": "color-creature8",
+            "info": {
+                "title": "Kastrians (first appeared 1976)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "170", "from": "432", "to": "435", "xcls": "" }
+            ]
+        },
+        {
+            "id": "79",
+            "name": "Rutans",
+            "color": "color-creature9",
+            "info": {
+                "title": "Rutans (first appeared 1977)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "171", "from": "454", "to": "457", "xcls": "" }
+            ]
+        },
+        {
+            "id": "80",
+            "name": "Fendahl",
+            "color": "color-creature10",
+            "info": {
+                "title": "Fendahl (first appeared 1977)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "172", "from": "462", "to": "465", "xcls": "" }
+            ]
+        },
+        {
+            "id": "81",
+            "name": "Oracle",
+            "color": "color-creature1",
+            "info": {
+                "title": "The Oracle (first appeared 1978)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "173", "from": "470", "to": "473", "xcls": "" }
+            ]
+        },
+        {
+            "id": "82",
+            "name": "Vardans",
+            "color": "color-creature2",
+            "info": {
+                "title": "Vardans (first appeared 1978)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "174", "from": "474", "to": "479", "xcls": "-tl" }
+            ]
+        },
+        {
+            "id": "83",
+            "name": "Shrivenzales",
+            "color": "color-creature3",
+            "info": {
+                "title": "Shrivenzales (first appeared 1978)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "176", "from": "480", "to": "483", "xcls": "-tl" }
+            ]
+        },
+        {
+            "id": "84",
+            "name": "Ribosian",
+            "color": "color-creature4",
+            "info": {
+                "title": "Ribosian (first appeared 1978)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "177", "from": "480", "to": "483", "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "85",
+            "name": "Levithians",
+            "color": "color-creature5",
+            "info": {
+                "title": "Levithians (first appeared 1978)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "178", "from": "480", "to": "483", "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "86",
+            "name": "Diplosians",
+            "color": "color-creature6",
+            "info": {
+                "title": "Diplosians (first appeared 1978)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "179", "from": "488", "to": "491", "xcls": "" }
+            ]
+        },
+        {
+            "id": "87",
+            "name": "Taran wood beasts",
+            "color": "color-creature7",
+            "info": {
+                "title": "Taran wood beasts (first appeared 1978)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "180", "from": "492", "to": "495", "xcls": "" }
+            ]
+        },
+        {
+            "id": "88",
+            "name": "Kroll",
+            "color": "color-creature8",
+            "info": {
+                "title": "Kroll (first appeared 1978)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "181", "from": "496", "to": "499", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "89",
+            "name": "Swampies",
+            "color": "color-creature9",
+            "info": {
+                "title": "Swampies (first appeared 1978)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "182", "from": "496", "to": "499", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "90",
+            "name": "Movellans",
+            "color": "color-creature10",
+            "info": {
+                "title": "Movellans (first appeared 1979)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "183", "from": "506", "to": "509", "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "91",
+            "name": "Jagaroths",
+            "color": "color-creature1",
+            "info": {
+                "title": "Jagaroths (first appeared 1979)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "184", "from": "510", "to": "513", "xcls": "" }
+            ]
+        },
+        {
+            "id": "92",
+            "name": "Mandrels",
+            "color": "color-creature2",
+            "info": {
+                "title": "Mandrels (first appeared 1979)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "185", "from": "514", "to": "517", "xcls": "" }
+            ]
+        },
+        {
+            "id": "93",
+            "name": "Skonnans",
+            "color": "color-creature3",
+            "info": {
+                "title": "Skonnans (first appeared 1979)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "186", "from": "522", "to": "525", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "94",
+            "name": "Nimon",
+            "color": "color-creature4",
+            "info": {
+                "title": "Nimon (first appeared 1979)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "187", "from": "522", "to": "525", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "95",
+            "name": "Argolins",
+            "color": "color-creature5",
+            "info": {
+                "title": "Argolins (first appeared 1980)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "188", "from": "526", "to": "529", "xcls": "" }
+            ]
+        },
+        {
+            "id": "96",
+            "name": "Gaztaks",
+            "color": "color-creature6",
+            "info": {
+                "title": "Gaztaks (first appeared 1980)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "189", "from": "530", "to": "533", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "97",
+            "name": "Zolfa-Thurans",
+            "color": "color-creature7",
+            "info": {
+                "title": "Zolfa-Thurans (first appeared 1980)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "190", "from": "530", "to": "533", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "98",
+            "name": "Marshman",
+            "color": "color-creature8",
+            "info": {
+                "title": "Marshman (first appeared 1980)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "191", "from": "534", "to": "537", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "99",
+            "name": "Alzarians",
+            "color": "color-creature9",
+            "info": {
+                "title": "Alzarians (first appeared 1980)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "192", "from": "534", "to": "537", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "100",
+            "name": "Great Vampires",
+            "color": "color-creature10",
+            "info": {
+                "title": "Great Vampires (first appeared 1980)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "193", "from": "538", "to": "541", "xcls": "" }
+            ]
+        },
+        {
+            "id": "101",
+            "name": "Tharils",
+            "color": "color-creature1",
+            "info": {
+                "title": "Tharils (first appeared 1981)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "194", "from": "542", "to": "545", "xcls": "" }
+            ]
+        },
+        {
+            "id": "102",
+            "name": "Trakenites",
+            "color": "color-creature2",
+            "info": {
+                "title": "Trakenites (first appeared 1981)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "195", "from": "546", "to": "549", "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "103",
+            "name": "Melkur",
+            "color": "color-creature3",
+            "info": {
+                "title": "Melkur (first appeared 1981)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "196", "from": "546", "to": "549", "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "104",
+            "name": "Logopolitans",
+            "color": "color-creature4",
+            "info": {
+                "title": "Logopolitans (first appeared 1981)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "197", "from": "550", "to": "553", "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "105",
+            "name": "Urbankans",
+            "color": "color-creature5",
+            "info": {
+                "title": "Urbankans (first appeared 1982)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "198", "from": "558", "to": "561", "xcls": "" }
+            ]
+        },
+        {
+            "id": "106",
+            "name": "Plasmatons",
+            "color": "color-creature6",
+            "info": {
+                "title": "Plasmatons (first appeared 1982)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "199", "from": "576", "to": "579", "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "107",
+            "name": "Xeraphins",
+            "color": "color-creature7",
+            "info": {
+                "title": "Xeraphins (first appeared 1982)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "200", "from": "576", "to": "579", "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "108",
+            "name": "Ergon",
+            "color": "color-creature8",
+            "info": {
+                "title": "The Ergon (first appeared 1983)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "201", "from": "580", "to": "583", "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "109",
+            "name": "Manussans",
+            "color": "color-creature9",
+            "info": {
+                "title": "Manussans (first appeared 1983)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "204", "from": "584", "to": "587", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "110",
+            "name": "Vanir",
+            "color": "color-creature10",
+            "info": {
+                "title": "Vanir (first appeared 1983)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "205", "from": "592", "to": "595", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "111",
+            "name": "Eternals",
+            "color": "color-creature1",
+            "info": {
+                "title": "Eternals (first appeared 1983)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "206", "from": "596", "to": "599", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "112",
+            "name": "Malus",
+            "color": "color-creature2",
+            "info": {
+                "title": "Malus (first appeared 1984)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "208", "from": "607", "to": "608", "xcls": "" }
+            ]
+        },
+        {
+            "id": "113",
+            "name": "Tractators",
+            "color": "color-creature3",
+            "info": {
+                "title": "Tractators (first appeared 1984)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "209", "from": "609", "to": "612", "xcls": "" }
+            ]
+        },
+        {
+            "id": "114",
+            "name": "Gastropods",
+            "color": "color-creature4",
+            "info": {
+                "title": "Gastropods (first appeared 1984)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "210", "from": "623", "to": "626", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "115",
+            "name": "Jacondans",
+            "color": "color-creature5",
+            "info": {
+                "title": "Jacondans (first appeared 1984)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "211", "from": "623", "to": "626", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "116",
+            "name": "Cryons",
+            "color": "color-creature6",
+            "info": {
+                "title": "Cryons (first appeared 1985)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "212", "from": "627", "to": "628", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "117",
+            "name": "Androgums",
+            "color": "color-creature7",
+            "info": {
+                "title": "Androgums (first appeared 1985)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "213", "from": "633", "to": "635", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "118",
+            "name": "Timelash",
+            "color": "color-creature8",
+            "info": {
+                "title": "Timelash (first appeared 1985)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "214", "from": "636", "to": "637", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "119",
+            "name": "Karfelons",
+            "color": "color-creature9",
+            "info": {
+                "title": "Karfelons (first appeared 1985)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "215", "from": "636", "to": "637", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "120",
+            "name": "Andromedans",
+            "color": "color-creature10",
+            "info": {
+                "title": "Andromedans (first appeared 1986)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "216", "from": "640", "to": "643", "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "121",
+            "name": "L3 Robot",
+            "color": "color-creature1",
+            "info": {
+                "title": "L3 Robot (first appeared 1986)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "217", "from": "640", "to": "643", "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "122",
+            "name": "Vervoids",
+            "color": "color-creature2",
+            "info": {
+                "title": "Vervoids (first appeared 1986)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "218", "from": "648", "to": "651", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "123",
+            "name": "Mogarians",
+            "color": "color-creature3",
+            "info": {
+                "title": "Mogarians (first appeared 1986)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "219", "from": "648", "to": "651", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "124",
+            "name": "Tetraps",
+            "color": "color-creature4",
+            "info": {
+                "title": "Tetraps (first appeared 1987)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "220", "from": "654", "to": "657", "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "125",
+            "name": "Lakertians",
+            "color": "color-creature5",
+            "info": {
+                "title": "Lakertians (first appeared 1987)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "221", "from": "654", "to": "657", "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "126",
+            "name": "Robotic Cleaners",
+            "color": "color-creature6",
+            "info": {
+                "title": "Robotic Cleaners (first appeared 1987)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "222", "from": "658", "to": "661", "xcls": "" }
+            ]
+        },
+        {
+            "id": "127",
+            "name": "Bannermen",
+            "color": "color-creature7",
+            "info": {
+                "title": "Bannermen (first appeared 1987)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "223", "from": "662", "to": "664", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "128",
+            "name": "Chimeron",
+            "color": "color-creature8",
+            "info": {
+                "title": "Chimeron (first appeared 1987)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "224", "from": "662", "to": "664", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "129",
+            "name": "Proamonians",
+            "color": "color-creature9",
+            "info": {
+                "title": "Proamonians (first appeared 1987)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "225", "from": "665", "to": "667", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "130",
+            "name": "Dragon",
+            "color": "color-creature10",
+            "info": {
+                "title": "Dragon (first appeared 1987)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "225", "from": "665", "to": "667", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "131",
+            "name": "Gods of Ragnarok",
+            "color": "color-creature1",
+            "info": {
+                "title": "Gods of Ragnarok (first appeared 1988)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "226", "from": "678", "to": "681", "xcls": "" }
+            ]
+        },
+        {
+            "id": "132",
+            "name": "S'Rax",
+            "color": "color-creature2",
+            "info": {
+                "title": "The S'Rax (first appeared 1988)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "227", "from": "682", "to": "685", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "133",
+            "name": "Destroyer",
+            "color": "color-creature3",
+            "info": {
+                "title": "The Destroyer (first appeared 1988)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "228", "from": "682", "to": "685", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "134",
+            "name": "Cheetah People",
+            "color": "color-creature4",
+            "info": {
+                "title": "The Cheetah People (first appeared 1988)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "229", "from": "693", "to": "695", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "135",
+            "name": "Adherents of the Repeated Meme",
+            "color": "color-creature5",
+            "info": {
+                "title": "Adherents of the Repeated Meme (first appeared 2005)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "231", "from": "698", "to": "698", "xcls": "-tl" }
+            ]
+        },
+        {
+            "id": "136",
+            "name": "Tree of Cheem",
+            "color": "color-creature6",
+            "info": {
+                "title": "Tree of Cheem (first appeared 2005)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "232", "from": "698", "to": "698", "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "138",
+            "name": "Gelth",
+            "color": "color-creature8",
+            "info": {
+                "title": "Gelth (first appeared 2005)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "234", "from": "699", "to": "699", "xcls": "" }
+            ]
+        },
+        {
+            "id": "139",
+            "name": "Jagrafess",
+            "color": "color-creature9",
+            "info": {
+                "title": "Jagrafess (first appeared 2005)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "236", "from": "703", "to": "703", "xcls": "" }
+            ]
+        },
+        {
+            "id": "140",
+            "name": "Reapers",
+            "color": "color-creature10",
+            "info": {
+                "title": "Reapers (first appeared 2005)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "237", "from": "704", "to": "704", "xcls": "" }
+            ]
+        },
+        {
+            "id": "141",
+            "name": "Sycorax",
+            "color": "color-sycorax",
+            "info": {
+                "title": "Sycorax (first appeared 2005)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "238", "from": "710", "to": "710", "xcls": "" }
+            ]
+        },
+        {
+            "id": "142",
+            "name": "Cat People",
+            "color": "color-catpeople",
+            "info": {
+                "title": "Cat People (first appeared 2006)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "239", "from": "711", "to": "711", "xcls": "-sl" },
+                { "number": "248", "from": "727", "to": "727", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "143",
+            "name": "Werewolves",
+            "color": "color-werewolves",
+            "info": {
+                "title": "Werewolves (first appeared 2006)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "240", "from": "712", "to": "712", "xcls": "" }
+            ]
+        },
+        {
+            "id": "144",
+            "name": "Krillitanes",
+            "color": "color-krillitanes",
+            "info": {
+                "title": "Krillitanes (first appeared 2006)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "241", "from": "713", "to": "713", "xcls": "" }
+            ]
+        },
+        {
+            "id": "145",
+            "name": "Wire",
+            "color": "color-wire",
+            "info": {
+                "title": "The Wire (first appeared 2006)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "242", "from": "717", "to": "717", "xcls": "" }
+            ]
+        },
+        {
+            "id": "146",
+            "name": "The Beast",
+            "color": "color-beast",
+            "info": {
+                "title": "The Beast (first appeared 2006)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "243", "from": "718", "to": "719", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "147",
+            "name": "Abzorbaloff",
+            "color": "color-abzorbaloff",
+            "info": {
+                "title": "Abzorbaloff (first appeared 2006)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "244", "from": "720", "to": "720", "xcls": "" }
+            ]
+        },
+        {
+            "id": "147",
+            "name": "Racnoss",
+            "color": "color-racnoss",
+            "info": {
+                "title": "Racnoss (first appeared 2006)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "245", "from": "724", "to": "724", "xcls": "" }
+            ]
+        },
+        {
+            "id": "148",
+            "name": "Judoon",
+            "color": "color-judoon",
+            "info": {
+                "title": "Judoon (first appeared 2007)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "246", "from": "725", "to": "725", "xcls": "" },
+                { "number": "257", "from": "750", "to": "751", "xcls": "-tr" }
+            ]
+        },
+        {
+            "id": "149",
+            "name": "The Carrionites",
+            "color": "color-carrionites",
+            "info": {
+                "title": "The Carrionites (first appeared 2007)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "247", "from": "726", "to": "726", "xcls": "" }
+            ]
+        },
+        {
+            "id": "150",
+            "name": "Macra",
+            "color": "color-macra",
+            "info": {
+                "title": "Macra (first appeared 2007)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "249", "from": "727", "to": "727", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "151",
+            "name": "Family of Blood",
+            "color": "color-familyblood",
+            "info": {
+                "title": "The Family of Blood (first appeared 2007)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "250", "from": "732", "to": "733", "xcls": "" }
+            ]
+        },
+        {
+            "id": "152",
+            "name": "Toclafane",
+            "color": "color-toclafane",
+            "info": {
+                "title": "Toclafane (first appeared 2007)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "251", "from": "735", "to": "737", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "153",
+            "name": "Adipose",
+            "color": "color-adipose",
+            "info": {
+                "title": "Adipose (first appeared 2008)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "252", "from": "739", "to": "739", "xcls": "" }
+            ]
+        },
+        {
+            "id": "154",
+            "name": "Pyroviles",
+            "color": "color-pyroviles",
+            "info": {
+                "title": "Pyroviles (first appeared 2008)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "253", "from": "740", "to": "740", "xcls": "" }
+            ]
+        },
+        {
+            "id": "155",
+            "name": "Hath",
+            "color": "color-hath",
+            "info": {
+                "title": "Hath (first appeared 2008)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "254", "from": "744", "to": "744", "xcls": "" }
+            ]
+        },
+        {
+            "id": "156",
+            "name": "Vespiform",
+            "color": "color-vespiform",
+            "info": {
+                "title": "Vespiform (first appeared 2008)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "255", "from": "745", "to": "745", "xcls": "" }
+            ]
+        },
+        {
+            "id": "157",
+            "name": "Trickster",
+            "color": "color-trickster",
+            "info": {
+                "title": "Trickster (first appeared 2008)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "256", "from": "749", "to": "749", "xcls": "" }
+            ]
+        },
+        {
+            "id": "158",
+            "name": "Swarm",
+            "color": "color-swarm",
+            "info": {
+                "title": "The Swarm (first appeared 2009)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "258", "from": "753", "to": "753", "xcls": "" }
+            ]
+        },
+        {
+            "id": "159",
+            "name": "Prisoner Zero",
+            "color": "color-prisonerzero",
+            "info": {
+                "title": "Prisoner Zero (first appeared 2010)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "260", "from": "757", "to": "757", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "160",
+            "name": "Atraxi",
+            "color": "color-atraxi",
+            "info": {
+                "title": "Atraxi (first appeared 2010)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "261", "from": "757", "to": "757", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "161",
+            "name": "Smilers",
+            "color": "color-smilers",
+            "info": {
+                "title": "Smilers (first appeared 2010)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "262", "from": "758", "to": "758", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "162",
+            "name": "Star Whale",
+            "color": "color-starwhale",
+            "info": {
+                "title": "Star Whale (first appeared 2010)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "263", "from": "758", "to": "758", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "163",
+            "name": "Saturnyns",
+            "color": "color-saturnyns",
+            "info": {
+                "title": "Saturnyns (first appeared 2010)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "264", "from": "762", "to": "762", "xcls": "" }
+            ]
+        },
+        {
+            "id": "164",
+            "name": "Krafayis",
+            "color": "color-krafayis",
+            "info": {
+                "title": "Krafayis (first appeared 2010)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "265", "from": "766", "to": "766", "xcls": "" }
+            ]
+        },
+        {
+            "id": "165",
+            "name": "Sky Fish",
+            "color": "color-skyfish",
+            "info": {
+                "title": "Sky Fish (first appeared 2010)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "266", "from": "770", "to": "770", "xcls": "" }
+            ]
+        },
+        {
+            "id": "166",
+            "name": "Siren",
+            "color": "color-siren",
+            "info": {
+                "title": "Siren (first appeared 2011)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "267", "from": "773", "to": "773", "xcls": "" }
+            ]
+        },
+        {
+            "id": "167",
+            "name": "Teselecta",
+            "color": "color-teselecta",
+            "info": {
+                "title": "Teselecta (first appeared 2011)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "269", "from": "778", "to": "778", "xcls": "-sr" },
+                { "number": "273", "from": "783", "to": "783", "xcls": "-tc" }
+            ]
+        },
+        {
+            "id": "168",
+            "name": "Peg Dolls",
+            "color": "color-pegdolls",
+            "info": {
+                "title": "Peg Dolls (first appeared 2011)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "270", "from": "779", "to": "779", "xcls": "" }
+            ]
+        },
+        {
+            "id": "169",
+            "name": "Handbots",
+            "color": "color-handbots",
+            "info": {
+                "title": "Handbots (first appeared 2011)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "271", "from": "780", "to": "780", "xcls": "" }
+            ]
+        },
+        {
+            "id": "170",
+            "name": "Minotaur",
+            "color": "color-minotaur",
+            "info": {
+                "title": "Minotaur (first appeared 2011)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "272", "from": "781", "to": "781", "xcls": "" }
+            ]
+        },
+        {
+            "id": "171",
+            "name": "Kahler",
+            "color": "color-kahler",
+            "info": {
+                "title": "Kahler (first appeared 2012)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "276", "from": "787", "to": "787", "xcls": "" }
+            ]
+        },
+        {
+            "id": "172",
+            "name": "Shakri",
+            "color": "color-shakri",
+            "info": {
+                "title": "Shakri (first appeared 2012)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "277", "from": "788", "to": "788", "xcls": "" }
+            ]
+        },
+        {
+            "id": "137",
+            "name": "Empty Child",
+            "color": "color-emptychild",
+            "info": {
+                "title": "Empty Child (first appeared 2005)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "278", "from": "705", "to": "706", "xcls": "" }
+            ]
+        },
+        {
+            "id": "173",
+            "name": "Lady Cassandra",
+            "color": "color-cassandra",
+            "info": {
+                "title": "Lady Cassandra (first appeared 2005)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "233", "from": "698", "to": "698", "xcls": "-tr" },
+                { "number": "280", "from": "711", "to": "711", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "174",
+            "name": "Mister Sweet",
+            "color": "color-mrsweet",
+            "info": {
+                "title": "Mister Sweet (first appeared 2013)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "284", "from": "796", "to": "796", "xcls": "" }
+            ]
+        },
+        {
+            "id": "175",
+            "name": "Akhaten",
+            "color": "color-akhaten",
+            "info": {
+                "title": "Akhaten (first appeared 2013)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "285", "from": "792", "to": "792", "xcls": "" }
+            ]
+        },
+        {
+            "id": "176",
+            "name": "Clockwork Droids",
+            "color": "color-alliance",
+            "info": {
+                "title": "Clockwork Droids (first appeared 2006)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "287", "from": "714", "to": "714", "xcls": "" }
+            ]
+        },
+        {
+            "id": "177",
+            "name": "Isolas",
+            "color": "color-isolas",
+            "info": {
+                "title": "Isolas (first appeared 2006)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "288", "from": "721", "to": "721", "xcls": "" }
+            ]
+        },
+        {
+            "id": "178",
+            "name": "Prof. Lazarus",
+            "color": "color-lazarus",
+            "info": {
+                "title": "Professor Lazarus (first appeared 2007)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "289", "from": "730", "to": "730", "xcls": "" }
+            ]
+        },
+        {
+            "id": "179",
+            "name": "Ashton",
+            "color": "color-ashton",
+            "info": {
+                "title": "Ashton (first appeared 2007)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "290", "from": "731", "to": "731", "xcls": "" }
+            ]
+        },
+        {
+            "id": "180",
+            "name": "Max Capricorn",
+            "color": "color-maxcapricorn",
+            "info": {
+                "title": "Max Capricorn (first appeared 2007)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "291", "from": "738", "to": "738", "xcls": "" }
+            ]
+        },
+        {
+            "id": "181",
+            "name": "Dream Lord",
+            "color": "color-dreamlord",
+            "info": {
+                "title": "Dream Lord (first appeared 2010)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "292", "from": "763", "to": "763", "xcls": "-sl" }
+            ]
+        },
+        {
+            "id": "182",
+            "name": "Eknodine",
+            "color": "color-eknodine",
+            "info": {
+                "title": "Eknodine (first appeared 2007)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "293", "from": "763", "to": "763", "xcls": "-sr" }
+            ]
+        },
+        {
+            "id": "183",
+            "name": "#79B Aickman Road",
+            "color": "color-79b",
+            "info": {
+                "title": "#79B Aickman Road (first appeared 2007)",
+                "actor": "",
+                "image": "images/.png",
+                "text": "",
+                "quote": "",
+                "facts": [
+                    
+                ]
+            },
+            "episodes": [
+                { "number": "294", "from": "767", "to": "767", "xcls": "" }
+            ]
+        }
+    ]
+}

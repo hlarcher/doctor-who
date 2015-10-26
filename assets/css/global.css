@@ -1,0 +1,983 @@
+@-webkit-keyframes pulse {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@-moz-keyframes pulse {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+body {
+  background: #000000 url('../img/bg.jpg') repeat center top fixed;
+}
+/*
+
+888                        888                                                      888
+888                        888                                                      888
+888                        888                                                      888
+88888b.   8888b.   .d8888b 888  888  .d88b.  888d888 .d88b.  888  888 88888b.   .d88888
+888 "88b     "88b d88P"    888 .88P d88P"88b 888P"  d88""88b 888  888 888 "88b d88" 888
+888  888 .d888888 888      888888K  888  888 888    888  888 888  888 888  888 888  888
+888 d88P 888  888 Y88b.    888 "88b Y88b 888 888    Y88..88P Y88b 888 888  888 Y88b 888
+88888P"  "Y888888  "Y8888P 888  888  "Y88888 888     "Y88P"   "Y88888 888  888  "Y88888
+                                         888
+                                    Y8b d88P
+                                     "Y88P"
+
+*/
+#bg1,
+#bg2,
+#bg3 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  overflow: hidden;
+}
+#bg1 {
+  background: transparent url('../img/pattern.png') repeat left top;
+}
+#bg2 {
+  background: transparent url('../img/stars_back.png') repeat left top;
+}
+#bg3 {
+  background: transparent url('../img/stars_front.png') repeat left top;
+}
+.starS {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-animation: 5s ease 0s normal none infinite pulse;
+  -moz-animation: 5s ease 0s normal none infinite pulse;
+  animation: 5s ease 0s normal none infinite pulse;
+  background: transparent url('../img/star_small.png') no-repeat left top;
+}
+.starB {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-animation: 10s ease 0s normal none infinite pulse;
+  -moz-animation: 10s ease 0s normal none infinite pulse;
+  animation: 10s ease 0s normal none infinite pulse;
+  background: transparent url('../img/star_big.png') no-repeat left top;
+}
+.planetS {
+  position: absolute;
+  top: 200px;
+  right: -100px;
+  width: 255px;
+  height: 250px;
+  background: transparent url('../img/planet_small.png') no-repeat left top;
+}
+.planetB {
+  position: absolute;
+  bottom: -200px;
+  left: -100px;
+  width: 510px;
+  height: 500px;
+  background: transparent url('../img/planet.png') no-repeat left top;
+}
+/*
+
+888                                     888
+888                                     888
+888                                     888
+888  8888b.  888  888  .d88b.  888  888 888888
+888     "88b 888  888 d88""88b 888  888 888
+888 .d888888 888  888 888  888 888  888 888
+888 888  888 Y88b 888 Y88..88P Y88b 888 Y88b.
+888 "Y888888  "Y88888  "Y88P"   "Y88888  "Y888
+                  888
+             Y8b d88P
+              "Y88P"
+
+*/
+#wrap {
+  width: 100%;
+  height: 100%;
+}
+#dwt-wrapper {
+  width: 1096px;
+  margin: 0px auto;
+  color: #ffffff;
+}
+#dwt-logo {
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  margin-left: -105px;
+}
+#dwt-loader {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  color: #fff;
+}
+#dwt-header {
+  position: relative;
+  height: 30px;
+  margin-top: 90px;
+}
+#dwt-body {
+  position: relative;
+  background: transparent url('../img/dwt-line.png') repeat-y left top;
+}
+#dwt-footer {
+  margin-top: 20px;
+  font-size: 0.8em;
+  text-align: center;
+  opacity: .3;
+}
+/*
+
+88888b.d88b.   .d88b.  88888b.  888  888
+888 "888 "88b d8P  Y8b 888 "88b 888  888
+888  888  888 88888888 888  888 888  888
+888  888  888 Y8b.     888  888 Y88b 888
+888  888  888  "Y8888  888  888  "Y88888
+
+*/
+#dwt-menu {
+  position: fixed;
+  left: 0px;
+  top: 140px;
+  width: 120px;
+  color: #a5a3a3;
+  font-size: 14px;
+  font-family: 'Droid Serif', serif;
+}
+#dwt-menu ul {
+  width: 100px;
+  margin: 0;
+  padding: 10px;
+  list-style: none;
+  color: #08c1c3;
+  font-size: 12px;
+  background-color: #f1f1f1;
+}
+#dwt-menu ul li {
+  line-height: 16px;
+  margin: 0;
+}
+#dwt-menu ul li a {
+  color: #333333;
+  text-decoration: none;
+}
+#dwt-menu ul li a:hover {
+  color: #05c1c3;
+}
+/*
+
+                 888
+                 888
+                 888
+ .d8888b .d88b.  888 888  888 88888b.d88b.  88888b.  .d8888b
+d88P"   d88""88b 888 888  888 888 "888 "88b 888 "88b 88K
+888     888  888 888 888  888 888  888  888 888  888 "Y8888b.
+Y88b.   Y88..88P 888 Y88b 888 888  888  888 888  888      X88
+ "Y8888P "Y88P"  888  "Y88888 888  888  888 888  888  88888P'
+
+*/
+.dwt-bg {
+  position: absolute;
+  height: 100%;
+}
+.dwt-year-bg {
+  left: 2px;
+  width: 56px;
+  background: rgba(140, 140, 140, 0.25);
+  z-index: 6;
+}
+.dwt-doctor-bg {
+  left: 63px;
+  width: 106px;
+  background: rgba(57, 99, 150, 0.25);
+  z-index: 7;
+}
+.dwt-companion-bg {
+  left: 174px;
+  width: 222px;
+  background: rgba(3, 22, 41, 0.5);
+  z-index: 8;
+}
+.dwt-creature-bg {
+  left: 401px;
+  width: 106px;
+  background: rgba(200, 53, 1, 0.25);
+  z-index: 9;
+}
+.dwt-episode-bg {
+  left: 512px;
+  width: 249px;
+  background: none;
+  z-index: 10;
+}
+.dwt-adventure-bg {
+  left: 766px;
+  width: 106px;
+  background: rgba(106, 129, 12, 0.25);
+  z-index: 11;
+}
+.dwt-location-bg {
+  left: 877px;
+  width: 106px;
+  background: #e39426;
+  z-index: 12;
+}
+.dwt-time-bg {
+  left: 988px;
+  width: 106px;
+  background: #26e39f;
+  z-index: 13;
+}
+.dwt-event-bg {
+  left: 1099px;
+  width: 56px;
+  background: #79159b;
+}
+/*
+
+888             888      888               888                             888
+888             888      888               888                             888
+888             888      888               888                             888
+888888  8888b.  88888b.  888  .d88b.       88888b.   .d88b.   8888b.   .d88888  .d88b.  888d888
+888        "88b 888 "88b 888 d8P  Y8b      888 "88b d8P  Y8b     "88b d88" 888 d8P  Y8b 888P"
+888    .d888888 888  888 888 88888888      888  888 88888888 .d888888 888  888 88888888 888
+Y88b.  888  888 888 d88P 888 Y8b.          888  888 Y8b.     888  888 Y88b 888 Y8b.     888
+ "Y888 "Y888888 88888P"  888  "Y8888       888  888  "Y8888  "Y888888  "Y88888  "Y8888  888
+
+*/
+#dwt-header {
+  position: relative;
+}
+#dwt-header div {
+  position: absolute;
+  height: 100%;
+  z-index: 1;
+  background: none;
+  font-size: 16px;
+  text-align: center;
+  text-transform: uppercase;
+}
+#dwt-header div.dwt-year-bg {
+  color: rgba(57, 99, 150, 0.5);
+}
+#dwt-header div.dwt-doctor-bg {
+  color: rgba(57, 99, 150, 0.5);
+}
+#dwt-header div.dwt-companion-bg {
+  color: rgba(57, 99, 150, 0.5);
+}
+#dwt-header div.dwt-creature-bg {
+  color: rgba(57, 99, 150, 0.5);
+}
+#dwt-header div.dwt-episode-bg {
+  color: rgba(57, 99, 150, 0.5);
+}
+#dwt-header div.dwt-adventure-bg {
+  color: rgba(57, 99, 150, 0.5);
+}
+#dwt-header div.dwt-location-bg {
+  color: rgba(57, 99, 150, 0.5);
+}
+#dwt-header div.dwt-time-bg {
+  color: rgba(57, 99, 150, 0.5);
+}
+#dwt-header div.dwt-event-bg {
+  color: rgba(57, 99, 150, 0.5);
+}
+/*
+
+     888                          888    d8b
+     888                          888    Y8P
+     888                          888
+ .d88888 888  888 888d888 8888b.  888888 888  .d88b.  88888b.  .d8888b
+d88" 888 888  888 888P"      "88b 888    888 d88""88b 888 "88b 88K
+888  888 888  888 888    .d888888 888    888 888  888 888  888 "Y8888b.
+Y88b 888 Y88b 888 888    888  888 Y88b.  888 Y88..88P 888  888      X88
+ "Y88888  "Y88888 888    "Y888888  "Y888 888  "Y88P"  888  888  88888P'
+
+*/
+.dwt-duration {
+  position: absolute;
+  width: 30px;
+  height: auto;
+  -webkit-border-bottom-right-radius: 0px;
+  -webkit-border-bottom-left-radius: 0px;
+  -moz-border-radius-bottomright: 0px;
+  -moz-border-radius-bottomleft: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  opacity: .5;
+  z-index: 15;
+}
+.dwt-duration:hover {
+  opacity: 1;
+}
+.dwt-duration.dwt-year {
+  left: 3px;
+  margin: 2px 10px;
+  background: #bfbfbf;
+}
+.dwt-duration.dwt-doctor {
+  left: 3px;
+  margin: 2px 35px;
+  background: #769fc4;
+}
+.dwt-duration.dwt-companion {
+  left: 3px;
+  margin: 2px 20px;
+  background: #a6b621;
+}
+.dwt-duration.dwt-companion-small {
+  width: 27px;
+  margin: 2px 0px;
+  background: none !important;
+}
+.dwt-duration.dwt-companion-medium {
+  width: 50px;
+  margin: 2px 0px;
+  background: none !important;
+}
+.dwt-duration.dwt-creature {
+  left: 3px;
+  margin: 2px 35px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-creature-sl {
+  left: 3px;
+  margin: 2px 10px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-creature-sr {
+  left: 55px;
+  margin: 2px 10px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-creature-ml {
+  left: 3px;
+  margin: 2px 10px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-creature-mr {
+  left: 45px;
+  margin: 2px 10px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-creature-tl {
+  left: 3px;
+  margin: 2px 0px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-creature-tc {
+  left: 38px;
+  margin: 2px 0px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-creature-tr {
+  left: 73px;
+  margin: 2px 0px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-creature-four1 {
+  width: 22px;
+  left: 3px;
+  margin: 2px 0px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-creature-four2 {
+  width: 22px;
+  left: 29px;
+  margin: 2px 0px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-creature-four3 {
+  width: 22px;
+  left: 55px;
+  margin: 2px 0px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-creature-four4 {
+  width: 22px;
+  left: 81px;
+  margin: 2px 0px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-creature-five1 {
+  width: 16px;
+  left: 3px;
+  margin: 2px 0px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-creature-five2 {
+  width: 16px;
+  left: 24px;
+  margin: 2px 0px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-creature-five3 {
+  width: 16px;
+  left: 45px;
+  margin: 2px 0px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-creature-five4 {
+  width: 16px;
+  left: 66px;
+  margin: 2px 0px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-creature-five5 {
+  width: 16px;
+  left: 87px;
+  margin: 2px 0px;
+  background: #ba3700;
+}
+.dwt-duration.dwt-episode {
+  opacity: 1;
+}
+.dwt-duration.dwt-adventure {
+  left: 3px;
+  margin: 2px 35px;
+  background: #a5b629;
+}
+.dwt-duration .dwt-adventure-episodes {
+  position: absolute;
+  left: -292px;
+  width: 249px;
+  height: auto;
+  margin: 0px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  background: #a5b629;
+  opacity: .5;
+  z-index: 5;
+}
+.dwt-duration.dwt-location {
+  left: 880px;
+  margin: 2px 35px;
+  background: #d58917;
+}
+.dwt-duration.dwt-time {
+  left: 991px;
+  margin: 2px 35px;
+  background: #189b6c;
+}
+/*
+
+.d8888b   .d88b.   8888b.  .d8888b   .d88b.  88888b.
+88K      d8P  Y8b     "88b 88K      d88""88b 888 "88b
+"Y8888b. 88888888 .d888888 "Y8888b. 888  888 888  888
+     X88 Y8b.     888  888      X88 Y88..88P 888  888
+ 88888P'  "Y8888  "Y888888  88888P'  "Y88P"  888  888
+
+*/
+.dwt-season {
+  position: absolute;
+  left: -32px;
+  width: 1130px;
+  height: 30px;
+  margin: 1px 0;
+  border-bottom: 2px dotted #696969;
+  z-index: 5;
+}
+.dwt-season .dwt-season-label {
+  position: absolute;
+  left: 0px;
+  width: 30px;
+  height: 100%;
+  margin: 0px;
+  overflow: hidden;
+  text-indent: 10px;
+  line-height: 28px;
+  background: #3b3a35;
+  opacity: .5;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.dwt-season .dwt-season-label h4 {
+  position: absolute;
+  top: 160px;
+  width: 150px;
+  margin: 0;
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  -webkit-transform-origin: 0 -25%;
+  -moz-transform-origin: 0 -25%;
+  -ms-transform-origin: 0 -25%;
+  -o-transform-origin: 0 -25%;
+  transform-origin: 0 -25%;
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+  white-space: nowrap;
+  text-align: right;
+  color: #000;
+}
+/*
+
+888          888               888
+888          888               888
+888          888               888
+888  8888b.  88888b.   .d88b.  888 .d8888b
+888     "88b 888 "88b d8P  Y8b 888 88K
+888 .d888888 888  888 88888888 888 "Y8888b.
+888 888  888 888 d88P Y8b.     888      X88
+888 "Y888888 88888P"   "Y8888  888  88888P'
+
+*/
+.dwt-label {
+  position: absolute;
+  height: 26px;
+  margin: 0px;
+  padding: 0px 5px;
+  overflow: hidden;
+  font-size: 0.8em;
+  line-height: 26px;
+  text-align: center;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: #ffffff;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  z-index: 8;
+}
+.dwt-label:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+.dwt-label.dwt-year-name {
+  left: -10px;
+  width: 50px;
+  background: #bfbfbf;
+}
+.dwt-label.dwt-doctor-name {
+  left: -35px;
+  width: 100px;
+  background: #769fc4;
+}
+.dwt-label.dwt-companion-name {
+  left: -20px;
+  width: 70px;
+  background: #a6b621;
+}
+.dwt-duration.dwt-companion-small .dwt-label.dwt-companion-name {
+  left: 0px;
+  width: 17px;
+  text-indent: -5555px;
+}
+.dwt-duration.dwt-companion-medium .dwt-label.dwt-companion-name {
+  left: 0px;
+  width: 40px;
+}
+.dwt-label.dwt-creature-name {
+  left: -35px;
+  width: 100px;
+  background: #ba3700;
+}
+.dwt-creature-sl .dwt-label.dwt-creature-name {
+  left: -10px;
+  width: 49px;
+}
+.dwt-creature-sr .dwt-label.dwt-creature-name {
+  left: -10px;
+  width: 49px;
+}
+.dwt-creature-ml .dwt-label.dwt-creature-name {
+  left: -17px;
+  width: 65px;
+}
+.dwt-creature-mr .dwt-label.dwt-creature-name {
+  left: -17px;
+  width: 65px;
+}
+.dwt-creature-tl .dwt-label.dwt-creature-name {
+  left: 0px;
+  width: 30px;
+}
+.dwt-creature-tc .dwt-label.dwt-creature-name {
+  left: 0px;
+  width: 30px;
+}
+.dwt-creature-tr .dwt-label.dwt-creature-name {
+  left: 0px;
+  width: 30px;
+}
+.dwt-creature-four1 .dwt-label.dwt-creature-name {
+  text-indent: -5555px;
+  left: 0px;
+  width: 22px;
+}
+.dwt-creature-four2 .dwt-label.dwt-creature-name {
+  text-indent: -5555px;
+  left: 0px;
+  width: 22px;
+}
+.dwt-creature-four3 .dwt-label.dwt-creature-name {
+  text-indent: -5555px;
+  left: 0px;
+  width: 22px;
+}
+.dwt-creature-four4 .dwt-label.dwt-creature-name {
+  text-indent: -5555px;
+  left: 0px;
+  width: 22px;
+}
+.dwt-creature-five1 .dwt-label.dwt-creature-name {
+  text-indent: -5555px;
+  left: 0px;
+  width: 16px;
+}
+.dwt-creature-five2 .dwt-label.dwt-creature-name {
+  text-indent: -5555px;
+  left: 0px;
+  width: 16px;
+}
+.dwt-creature-five3 .dwt-label.dwt-creature-name {
+  text-indent: -5555px;
+  left: 0px;
+  width: 16px;
+}
+.dwt-creature-five4 .dwt-label.dwt-creature-name {
+  text-indent: -5555px;
+  left: 0px;
+  width: 16px;
+}
+.dwt-creature-five5 .dwt-label.dwt-creature-name {
+  text-indent: -5555px;
+  left: 0px;
+  width: 16px;
+}
+.dwt-label.dwt-episode-name {
+  width: 223px;
+  height: 30px;
+  margin: 0px;
+  padding: 0px 10px;
+  text-align: left;
+  line-height: 30px;
+  color: #cccccc;
+  background: none;
+  z-index: 8;
+}
+.dwt-label.dwt-adventure-name {
+  left: -35px;
+  width: 100px;
+  white-space: normal;
+  text-overflow: none;
+  background: #a5b629;
+}
+.dwt-label.dwt-location-name {
+  left: -35px;
+  width: 90px;
+  white-space: normal;
+  text-overflow: none;
+  background: #d58917;
+}
+.dwt-label.dwt-time-name {
+  left: -35px;
+  width: 90px;
+  white-space: normal;
+  text-overflow: none;
+  background: #189b6c;
+}
+.dwt-label.dwt-event-name {
+  left: -10px;
+  width: 40px;
+  background: #b46ccc;
+}
+/*
+
+                 888
+                 888
+                 888
+ .d8888b .d88b.  888  .d88b.  888d888 .d8888b
+d88P"   d88""88b 888 d88""88b 888P"   88K
+888     888  888 888 888  888 888     "Y8888b.
+Y88b.   Y88..88P 888 Y88..88P 888          X88
+ "Y8888P "Y88P"  888  "Y88P"  888      88888P'
+
+*/
+.color-doctor {
+  background: #769fc4 !important;
+}
+.color-vicki {
+  background: #cc3c00 !important;
+}
+.color-victoria {
+  background: #cc3c00 !important;
+}
+.color-sarah {
+  background: #cc3c00 !important;
+}
+.color-tegan {
+  background: #cc3c00 !important;
+}
+.color-wilfred {
+  background: #cc3c00 !important;
+}
+.color-liz {
+  background: #d97800 !important;
+}
+.color-adric {
+  background: #d97800 !important;
+}
+.color-turlough {
+  background: #d97800 !important;
+}
+.color-mickey {
+  background: #d97800 !important;
+}
+.color-craig {
+  background: #d97800 !important;
+}
+.color-susan {
+  background: #a6b621 !important;
+}
+.color-katarina {
+  background: #a6b621 !important;
+}
+.color-ben {
+  background: #a6b621 !important;
+}
+.color-jo {
+  background: #a6b621 !important;
+}
+.color-martha {
+  background: #a6b621 !important;
+}
+.color-barbara {
+  background: #de2ca1 !important;
+}
+.color-nyssa {
+  background: #de2ca1 !important;
+}
+.color-rose {
+  background: #de2ca1 !important;
+}
+.color-clara {
+  background: #de2ca1 !important;
+}
+.color-ian {
+  background: #316595 !important;
+}
+.color-jamie {
+  background: #316595 !important;
+}
+.color-jack {
+  background: #316595 !important;
+}
+.color-rory {
+  background: #316595 !important;
+}
+.color-steven {
+  background: #5384b9 !important;
+}
+.color-zoe {
+  background: #5384b9 !important;
+}
+.color-harry {
+  background: #5384b9 !important;
+}
+.color-christina {
+  background: #5384b9 !important;
+}
+.color-sara {
+  background: #b356d2 !important;
+}
+.color-astrid {
+  background: #b356d2 !important;
+}
+.color-adelaide {
+  background: #b356d2 !important;
+}
+.color-dodo {
+  background: #f3b224 !important;
+}
+.color-brigadier {
+  background: #f3b224 !important;
+}
+.color-ace {
+  background: #f3b224 !important;
+}
+.color-jackson {
+  background: #f3b224 !important;
+}
+.color-amy {
+  background: #f3b224 !important;
+}
+.color-polly {
+  background: #79159b !important;
+}
+.color-leela {
+  background: #79159b !important;
+}
+.color-peri {
+  background: #79159b !important;
+}
+.color-grace {
+  background: #79159b !important;
+}
+.color-donna {
+  background: #79159b !important;
+}
+.color-k9 {
+  background: #b0aca3 !important;
+}
+.color-kamelion {
+  background: #b0aca3 !important;
+}
+.color-adam {
+  background: #b0aca3 !important;
+}
+.color-romana-1 {
+  background: #73880f !important;
+}
+.color-romana-2 {
+  background: #73880f !important;
+}
+.color-mel {
+  background: #73880f !important;
+}
+.color-river {
+  background: #73880f !important;
+}
+.color-creature1 {
+  background: #ff753b !important;
+}
+.color-creature2 {
+  background: #ff6321 !important;
+}
+.color-creature3 {
+  background: #ff5107 !important;
+}
+.color-creature4 {
+  background: #ed4600 !important;
+}
+.color-creature5 {
+  background: #d33f00 !important;
+}
+.color-creature6 {
+  background: #a12f00 !important;
+}
+.color-creature7 {
+  background: #872800 !important;
+}
+.color-creature8 {
+  background: #6e2000 !important;
+}
+.color-creature9 {
+  background: #541900 !important;
+}
+.color-creature10 {
+  background: #3a1100 !important;
+}
+.modal {
+  width: 750px;
+  margin-left: -375px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.modal .modal-header img.img-polaroid {
+  position: absolute;
+  top: -30px;
+  left: -30px;
+  margin: 5px 10px 5px 0px;
+  box-shadow: none;
+  border: none;
+  -webkit-border-radius: 55px;
+  -moz-border-radius: 55px;
+  border-radius: 55px;
+  /*
+            div[class^="modal-doctor"]& {
+                border-color:           @doctor-lab-bgcolor;
+            }
+            div[class^="modal-companion"]& {
+                border-color:           @companion-lab-bgcolor;
+            }
+            div[class^="modal-creature"]& {
+                border-color:           @creature-lab-bgcolor;
+            }
+            */
+}
+.modal .modal-header h4 {
+  padding-left: 70px;
+}
+.modal .modal-body {
+  max-height: 500px;
+  padding: 35px 15px 15px 15px;
+}
+.modal .modal-body h6 {
+  margin: 0;
+}
+.modal .modal-body p {
+  font-size: 12px;
+  color: #696969;
+}
+.modal .modal-body blockquote {
+  position: relative;
+  margin: 20px 0;
+  padding: 0.25em 30px;
+  font-family: Georgia, serif;
+  font-size: 16px;
+  font-style: italic;
+  line-height: 1.45;
+  color: #969696;
+}
+.modal .modal-body blockquote:before {
+  display: block;
+  position: absolute;
+  content: "\201C";
+  left: 0px;
+  top: -20px;
+  font-size: 60px;
+  color: #eeeeee;
+}
+.modal .modal-body .facts {
+  list-style: none;
+  margin: 0;
+}
+.modal .modal-body .facts li {
+  float: left;
+  width: 100px;
+  height: 100px;
+  padding: 0 5px;
+  text-align: center;
+  font-size: 12px;
+  color: #696969;
+  border-right: 1px dotted #ccc;
+}
+.modal .modal-body .facts li:first-child {
+  border-left: 1px dotted #ccc;
+}
+.modal .modal-body .facts li h6 {
+  height: 40px;
+  font-weight: 300;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.modal .modal-body .facts li h1 {
+  font-size: 40px;
+}
+.tooltip-inner {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}

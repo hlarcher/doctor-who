@@ -1,0 +1,1 @@
+<div id="dwt-adventure-list" class="dwt-bg dwt-adventure-bg"></div>

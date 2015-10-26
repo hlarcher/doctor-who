@@ -1,0 +1,1 @@
+<div class="dwt-label dwt-episode-name" data-episode="<%= id %>" title="<%= name %>" style="<%= getStyle() %>">(<%= id %>) <%= episode %>. <%= name %></div>

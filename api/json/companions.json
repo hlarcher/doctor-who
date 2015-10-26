@@ -1,0 +1,1350 @@
+{
+    "companions": [
+        {
+            "id": "1",
+            "color": "color-susan",
+            "name": "Susan",
+            "fname": "Susan Foreman",
+            "info": {
+                "title": "Susan Foreman (1963 - 1964)",
+                "actor": "Carole Ann Ford",
+                "image": "images/companion_susan.png",
+                "text": "Susan Foreman is a pupil at Coal Hill School, where she is taught History by Ms Wright and Science by Mr Chesterton. She lives at 76 Totter’s Lane. She is also the First Doctor’s granddaughter. An alien, exiled from a distant time and place, living in an extraordinary ship called the TARDIS. Curious, quick-witted and kind, Susan is the first of the Doctor’s travelling companions to leave him, settling with David Campbell after defeating the Dalek invasion of earth.",
+                "quote": "One day, we'll know all the mysteries of the skies...and we'll stop our wandering.",
+                "trivia": [
+                    
+                ], 
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>4</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>11</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>52</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "1",  "pos": "177", "zi": "8", "from": "1",   "to": "51",  "xcls": "" },
+                { "number": "70", "pos": "176", "zi": "8", "from": "602", "to": "602", "xcls": "-small" }
+            ]
+        },
+        {
+            "id": "2",
+            "color": "color-barbara",
+            "name": "Barbara",
+            "fname": "Barbara Wright",
+            "info": {
+                "title": "Barbara Wright (1963 - 1965)",
+                "actor": "Jacqueline Hill",
+                "image": "images/companion_barbara.png",
+                "text": "School teacher Barbara is curious about one of her students – Susan Foreman. She persuades fellow teacher Ian to help her follow Susan home one day, and their lives are never the same again. Whisked off into space and time, historian Barbara encounters cavemen, Aztecs, ancient Romans and almost loses her head on the guillotine. Her and Ian leave the Doctor using a Dalek time machine, and return to Earth – although two years after they had left! Barbara spoke the first line of dialogue ever heard in the series, 'Wait in here please, Susan. I won't be long.'",
+                "quote": "What's the point of travelling through time and space if we can't change anything?",
+                "trivia": [
+                    "Jacqueline Hill returned to the series for the adventure 'Meglos' in season 18 but played the character 'Lexa'."
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>16</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>75</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "2", "pos": "250", "zi": "8", "from": "1",  "to": "33", "xcls": "" },
+                { "number": "3", "pos": "250", "zi": "8", "from": "35", "to": "59", "xcls": "" },
+                { "number": "4", "pos": "250", "zi": "9", "from": "61", "to": "77", "xcls": "" }
+            ]
+        },
+        {
+            "id": "3",
+            "color": "color-ian",
+            "name": "Ian",
+            "fname": "Ian Chesterton",
+            "info": {
+                "title": "Ian Chesterton (1963 - 1965)",
+                "actor": "William Russel",
+                "image": "images/companion_ian.png",
+                "text": "Science master Ian Chesterton is persuaded by his colleague Barbara to follow their mysterious student Susan home. They discover the TARDIS – a scientific paradox that Ian finds very hard to comprehend. Always the gentleman, Ian demonstrates great bravery against French revolutionaries, Aztec warriors and the dreaded Daleks. He returned to Earth with Barbara in 1965. Sarah Jane Smith later noted that Ian and Barbara became professors at Cambridge, and mysteriously hadn’t aged since the 1960s...",
+                "quote": "I know that free movement in time and space is a scientific dream I don't expect to find solved in a junkyard!",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>16</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>77</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "5", "pos": "323", "zi": "8", "from": "1", "to": "77", "xcls": "" }
+            ]
+        },
+        {
+            "id": "4",
+            "color": "color-vicki",
+            "name": "Vicki",
+            "fname": "Vicki Pallister",
+            "info": {
+                "title": "Vicki Pallister (1965)",
+                "actor": "Maureen O'Brien",
+                "image": "images/companion_vicki.png",
+                "text": "Moving from 25th century Earth to a new life on the planet Astra, Vicki and her father crash land on Dido. When her father is murdered, she’s left alone. The First Doctor, perhaps still missing Susan, invites her to travel with Ian, Barbara and himself. Naturally inquisitive and adventurous, Vicki found herself stowaway on a Dalek spaceship, helps the Xeron revolution against the Moroks, and escaped the great fire of Rome. In ancient Troy, she was renamed “Cressida” by Trojan King Priam. She fell in love with his son Troilus and left the Doctor to begin a life with him.",
+                "quote": "Time, like space, although a dimension in itself, also has dimensions of its own.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>9</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>38</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "6",   "pos": "213", "zi": "8", "from": "52", "to": "85", "xcls": "" },
+                { "number": "113", "pos": "213", "zi": "9", "from": "87", "to": "90", "xcls": "" }
+            ]
+        },
+        {
+            "id": "5",
+            "color": "color-steven",
+            "name": "Steven",
+            "fname": "Steven Taylor",
+            "info": {
+                "title": "Steven Taylor (1965 - 1966)",
+                "actor": "Peter Purves",
+                "image": "images/companion_steven.png",
+                "text": "Steven Taylor, Flight Red Fifty was a space pilot from Earth, whose craft had crash-landed on Mechanus. Imprisoned and inspected for two years by the Mechanoids, Steven was overjoyed to meet the TARDIS crew. As Barbara and Ian bade farewell to the Doctor and Vicki, Steven - injured and confused - stowed away aboard the TARDIS. Physically strong, deeply moral and very brave, Steven often clashed with the Doctor. Witnessing the terrible deaths of Katarina and Sara Kingdom, and the Massacre of St Bartholemew’s Eve, Steven questioned the role of time travelling without helping people. After battling the Celestial Toymaker and getting caught up in the gunfight at the O.K. Corral, Steven left the Doctor to rebuild a unified world of Elders and Savages.",
+                "quote": "I tell you this much, Doctor... If your researchers have so little regard for human life then I want no part of it.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>11</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>46</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "7", "pos": "177", "zi": "8", "from": "77", "to": "122", "xcls": "" }
+            ]
+        },
+        {
+            "id": "6",
+            "color": "color-katarina",
+            "name": "Katarina",
+            "fname": "Katarina",
+            "info": {
+                "title": "Katarina (1965)",
+                "actor": "Adrienne Hill",
+                "image": "images/companion_katarina.png",
+                "text": "A handmaiden of the Trojan prophetess Cassandra, Katarina helped the wounded Steven Taylor back to the TARDIS, at the height of the siege of Troy. Convinced that the Doctor was the embodiment of Zeus, she believes his “temple” is taking her on a journey to the afterlife. Unsure of the world of time-travel and spaceships, Katarina is swept up in the Doctor’s attempts to stop the Daleks’ Master Plan. Taken hostage in a ship’s airlock in an attempt to force the Doctor into a Dalek ambush, Katarina jettisoned herself and her attacker into the vacuum of space. She was the first of the Doctor’s companions to die while travelling with him.",
+                "quote": "This is not Troy. This is not even the world. This is the journey through the beyond.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>5</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "8", "pos": "286", "zi": "8", "from": "90", "to": "94", "xcls": "" }
+            ]
+        },
+        {
+            "id": "7",
+            "color": "color-sara",
+            "name": "Sara",
+            "fname": "Sara Kingdom",
+            "info": {
+                "title": "Sara Kingdom (1965)",
+                "actor": "Jean Marsh",
+                "image": "images/companion_sara.png",
+                "text": "Space Security Service agent Sara Kingdom was a ruthless soldier, defending the Guardian of the Solar System, Mavic Chen. On his instruction, she shoots her brother Brett Vyon dead, believing him and the Doctor to be traitors. She later discovers that Chen himself is the traitor - in league with the Daleks to become rule of the universe by using the Time Destructor. When the Time Destructor is activated, destroying the Daleks, Sara is caught within its effect and ages to death before Steven’s eyes.",
+                "quote": "Yes, he's dead. The others must be killed as well. They will be shot on sight, but aim for the head.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>12</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "9", "pos": "323", "zi": "8", "from": "91", "to": "102", "xcls": "" }
+            ]
+        },
+        {
+            "id": "8",
+            "color": "color-dodo",
+            "name": "Dodo",
+            "fname": "Dodo Chaplet",
+            "info": {
+                "title": "Dodo Chaplet (1966)",
+                "actor": "Jackie Lane",
+                "image": "images/companion_dodo.png",
+                "text": "Seeing a boy knocked down by a car and trying to find Police assistance, Dorothea “Dodo” Chaplet dashed into the TARDIS and was whisked off into space and time. Honest and forthright, Dodo was devastated to have infected the Monoids of The Ark with the Common Cold, despised the cheating playthings of the Celestial Toymaker and delighted in meeting cowboy Wyatt Earp. Returning to London in 1966, Dodo was brainwashed by computer network WOTAN and sent to rest in the country by the Doctor. She may well have been a descendant of Anne Chaplet, a servant girl whom Steven had met before the Massacre of St Bartholomew's Eve in 1572, and hoped had not perished.",
+                "quote": "How can we believe anything you say? Everything here is so strange.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>6</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>19</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "10", "pos": "250", "zi": "8", "from": "106", "to": "124", "xcls": "" }
+            ]
+        },
+        {
+            "id": "9",
+            "color": "color-polly",
+            "name": "Polly",
+            "fname": "Polly",
+            "info": {
+                "title": "Polly (1966 - 1967)",
+                "actor": "Anneke Wills",
+                "image": "images/companion_polly.png",
+                "text": "In the course of a night that would change her life, Polly befriends miserable sailor Ben Jackson, meets a strange man called the Doctor and teams up with them to fight artificial intelligence WOTAN and its War Machines. Sneaking into the TARDIS together, Polly and Ben are whisked off into space and time to face the Cybermen, the Daleks and the Macra. Present at the Doctor’s first regeneration, Polly was faster than Ben to believe that the new man was still the Doctor. Polly and Ben both leave the TARDIS when it returns to Earth on the day they left – 20 July, 1966. Sarah Jane Smith later told the Eleventh Doctor that Polly and Ben were running an orphanage in India.",
+                "quote": "Come on, Dodo, let's leave him. I can't stand people with no sense of humour.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>3</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>9</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>36</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "11",  "pos": "177", "zi": "8", "from": "123", "to": "137", "xcls": "" },
+                { "number": "114", "pos": "177", "zi": "8", "from": "139", "to": "158", "xcls": "" },
+                { "number": "12",  "pos": "177", "zi": "8", "from": "162", "to": "162", "xcls": "" }
+            ]
+        },
+        {
+            "id": "10",
+            "color": "color-ben",
+            "name": "Ben",
+            "fname": "Ben Jackson",
+            "info": {
+                "title": "Ben Jackson (1966 - 1967)",
+                "actor": "Michael Craze",
+                "image": "images/companion_ben.png",
+                "text": "After receiving a sixth-month shore-posting, cockney sailor Ben Jackson meets Polly in the Inferno nightclub. He quickly becomes embroiled in the First Doctor’s attempts to foil WOTAN’s War Machines. Sneaking into the TARDIS with Polly, Ben finds himself fighting Daleks, Macra, Cybermen and the faceless Chameleons. Witnessing the Doctor’s first regeneration, Ben is initially skeptical and slow to trust the Second Doctor – only believing when the Doctor is recognised by a Dalek. Returning to Earth on the day they left in 1966, the Doctor seems to think Ben will become an Admiral.",
+                "quote": "She seemed a nice bird, friendly. Not stuck up like you, Duchess.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>3</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>9</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>37</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "13",  "pos": "323", "zi": "8", "from": "123", "to": "138", "xcls": "" },
+                { "number": "115", "pos": "323", "zi": "8", "from": "140", "to": "159", "xcls": "" },
+                { "number": "14",  "pos": "323", "zi": "8", "from": "162", "to": "162", "xcls": "" }
+            ]
+        },
+        {
+            "id": "11",
+            "color": "color-jamie",
+            "name": "Jamie",
+            "fname": "Jamie McCrimmon",
+            "info": {
+                "title": "Jamie McCrimmon (1966 - 1969)",
+                "actor": "Frazer Hines",
+                "image": "images/companion_jamie.png",
+                "text": "James Robert McCrimmon was a piper and soldier, fighting the hated English at Culloden in 1746. Escaping execution, Jamie follows Polly, Ben and the Doctor into the TARDIS. Although from the 18th Century, Jamie adapted quickly to time-travelling life, fighting Cybermen on the Moon, faceless Chameleons and Daleks in Victorian London. He faced the Great Intelligence – once in Tibet and again in the London Underground – and twice fought the Martian Ice Warriors. What he lacked in intelligence, he more than made up for in strength, charm and instinct. With his memories of the Doctor erased, he was returned to Scotland on the day he left by the Time Lords at the Doctor’s trial.",
+                "quote": "I tell you I'm a Highlander, the cold doesn't affect me.",
+                "trivia": [
+                    "Jamie was never intended to become a companion, but the production liked the actor and rewrote the ending of The Highlanders to bring him aboard. Jamie is still the most featured companion ever with 117 episodes."
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>6</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>22</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>117</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "15",  "pos": "250", "zi": "8", "from": "141", "to": "253", "xcls": "" },
+                { "number": "116", "pos": "236", "zi": "9", "from": "602", "to": "602", "xcls": "-small" },
+                { "number": "65",  "pos": "323", "zi": "8", "from": "633", "to": "635", "xcls": "" }
+            ]
+        },
+        {
+            "id": "12",
+            "color": "color-victoria",
+            "name": "Victoria",
+            "fname": "Victoria Waterfield",
+            "info": {
+                "title": "Victoria Waterfield (1967 - 1968)",
+                "actor": "Deborah Watling",
+                "image": "images/companion_victoria.png",
+                "text": "Orphaned after her father was exterminated saving the Doctor from the Daleks, young Victoria Waterfield joined the Doctor and Jamie with a heavy heart. Reassured by the Doctor that her grief would not last forever, she began to enjoy her travels – experiencing 1930s Tibet, a future Earth controlled by the Doctor’s double Salamander, and the ice-encrusted Brittannicus Base. Famed for her piercing scream, Victoria's vocal chords buried Ice Warriors in avalanches and, when amplified, destroyed the all encompassing Weed creature. After the battle with the Weed, she chose to remain on Earth, adopted by the Harris family.",
+                "quote": "For pity's sake, let me go!",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>4</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>7</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>41</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "16", "pos": "177", "zi": "8", "from": "163", "to": "203", "xcls": "" }
+            ]
+        },
+        {
+            "id": "13",
+            "color": "color-brigadier",
+            "name": "Brigadier",
+            "fname": "Brigadier Lethbridge-Stewart",
+            "info": {
+                "title": "Brigadier Lethbridge-Stewart (1983)",
+                "actor": "Nicholas Courtney",
+                "image": "images/companion_brigadier.png",
+                "text": "Colonel - later Brigadier - Alistair Gordon Lethbridge Stewart was the commanding officer of UNIT, an international body tasked with investigating extra-terrestrial threats. He first met the Second Doctor - helping him free London from the clutches of the Great Intelligence and the Cybermen. When the Third Doctor was exiled to Earth, he became UNIT's unofficial scientific advisor, providing the Brigadier with much needed support against Autons, Sea Devils, Daleks and the Master. Later in life, he retired from UNIT and taught at a boarding school. Later still he aided the Seventh Doctor in vanquishing Morgaine, before settling down for good with his wife Doris. It was during his battle with the Silence, that the Eleventh Doctor learned the Brigadier had passed away peacefully in his sleep.",
+                "quote": "In the last decade, we've been sending probes deeper and deeper into space. We've drawn attention to ourselves.",
+                "trivia": [
+                    "Nicholas Courtney played the character Bret Vyon in 4 episodes of The Dalek's Master Plan adventure before playing the role of the Brigadier."
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>5</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>10</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>23</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>102</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "17",  "pos": "323", "zi": "8", "from": "194", "to": "197", "xcls": "" },
+                { "number": "18",  "pos": "323", "zi": "8", "from": "221", "to": "227", "xcls": "" },
+                { "number": "19",  "pos": "323", "zi": "8", "from": "254", "to": "293", "xcls": "" },
+                { "number": "20",  "pos": "323", "zi": "8", "from": "298", "to": "305", "xcls": "" },
+                { "number": "24",  "pos": "323", "zi": "8", "from": "307", "to": "307", "xcls": "" },
+                { "number": "21",  "pos": "323", "zi": "8", "from": "324", "to": "327", "xcls": "" },
+                { "number": "22",  "pos": "323", "zi": "8", "from": "329", "to": "333", "xcls": "" },
+                { "number": "23",  "pos": "323", "zi": "8", "from": "350", "to": "356", "xcls": "" },
+                { "number": "25",  "pos": "323", "zi": "8", "from": "360", "to": "365", "xcls": "" },
+                { "number": "26",  "pos": "323", "zi": "8", "from": "376", "to": "377", "xcls": "" },
+                { "number": "27",  "pos": "323", "zi": "8", "from": "381", "to": "385", "xcls": "" },
+                { "number": "28",  "pos": "323", "zi": "8", "from": "402", "to": "405", "xcls": "" },
+                { "number": "29",  "pos": "323", "zi": "8", "from": "588", "to": "591", "xcls": "" },
+                { "number": "117", "pos": "256", "zi": "9", "from": "602", "to": "602", "xcls": "-small" },
+                { "number": "118", "pos": "323", "zi": "8", "from": "682", "to": "685", "xcls": "" }
+            ]
+        },
+        {
+            "id": "14",
+            "color": "color-zoe",
+            "name": "Zoe",
+            "fname": "Zoe Heriot",
+            "info": {
+                "title": "Zoe Heriot (1968 - 1969)",
+                "actor": "Wendy Padbury",
+                "image": "images/companion_zoe.png",
+                "text": "An astrophysicist with a photographic memory, Zoe joined the Doctor and Jamie after helping them defeat the Cyber-invasion of the Space Station W3. Clever and logical but with a big heart, Zoe was more than a match for the Doctor. Her intelligence brought her to the attention of the Krotons, Ice Warriors and the Cybermen, and she was the first to see through the lies of the Land of Fiction. At the Doctor's trial after the war games, the Time Lords returned her to her old life with memories of only her first adventure with the Doctor remaining.",
+                "quote": "My head has been pumped full of facts and figures which I reel out automatically when needed. But, well, I want to feel things as well.",
+                "trivia": [
+                    "Now a theatrical agent, she has fellow former Doctor Who actor Colin Baker (the Sixth Doctor) on her books; she also represented the late Nicholas Courtney (The Brigadier), and discovered and represented Matt Smith (the Eleventh Doctor)."
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>8</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>49</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "30", "pos": "177", "zi": "8", "from": "204", "to": "221", "xcls": "" },
+                { "number": "31", "pos": "177", "zi": "8", "from": "223", "to": "253", "xcls": "" }
+            ]
+        },
+        {
+            "id": "15",
+            "color": "color-liz",
+            "name": "Liz",
+            "fname": "Liz Shaw",
+            "info": {
+                "title": "Liz Shaw (1970)",
+                "actor": "Caroline John",
+                "image": "images/companion_liz.png",
+                "text": "An accomplished scientist called down from the University of Cambridge by the Brigadier, Dr Elizabeth Shaw joined UNIT in their fight against the first Nestene invasion. After helping repel the Autons, she remained to help the Doctor try and fix the grounded TARDIS, meeting Silurians, deadly alien ambassadors and Primords along the way. She returned to Cambridge after telling the Brigadier that all the Doctor wanted was someone to pass him test tubes and tell him how brilliant he is.",
+                "quote": "What are you a doctor of, by the way?",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>4</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>5</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>26</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "32",  "pos": "177", "zi": "8", "from": "254", "to": "278", "xcls": "" },
+                { "number": "119", "pos": "276", "zi": "9", "from": "602", "to": "602", "xcls": "-small" }
+            ]
+        },
+        {
+            "id": "16",
+            "color": "color-jo",
+            "name": "Jo",
+            "fname": "Jo Grant",
+            "info": {
+                "title": "Jo Grant (1971 - 1973, 2010)",
+                "actor": "Katy Manning",
+                "image": "images/companion_jo.png",
+                "text": "Despite failing her science exams, Jo was hired by UNIT as the Doctor's new lab assistant. What she may have lacked in scientific knowledge, she made up for in bravery and heart. She faced the Master numerous times, eventually confounding his attempts to hypnotise her. She was proposed to by the King of Peladon and went to find help on Spiridon when the Doctor had been shot. She left the TARDIS to marry Clifford Jones and became an environmental activist. When the Shansheeth fabricated the Eleventh Doctor's death, she attended his “funeral”, teamed up with Sarah Jane Smith and helped free the Doctor. She was last seen heading off to catch a hovercraft to Norway.",
+                "quote": "One minute you're condemning the Doctor to death, and the next minute you're proposing to me!",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>4</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>15</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>77</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "33", "pos": "177", "zi": "8", "from": "279", "to": "355", "xcls": "" }
+            ]
+        },
+        {
+            "id": "17",
+            "color": "color-doctor",
+            "name": "1st Doctor",
+            "fname": "1st Doctor",
+            "info": {
+                "title": "doctor",
+                "number": "1"
+            },
+            "episodes": [
+                { "number": "34", "pos": "213", "zi": "8", "from": "330", "to": "333", "xcls": "" },
+                { "number": "73", "pos": "316", "zi": "9", "from": "602", "to": "602", "xcls": "-small" }
+            ]
+        },
+        {
+            "id": "18",
+            "color": "color-doctor",
+            "name": "2nd Doctor",
+            "fname": "2nd Doctor",
+            "info": {
+                "title": "doctor",
+                "number": "2"
+            },
+            "episodes": [
+                { "number": "35", "pos": "286", "zi": "8", "from": "330", "to": "333", "xcls": "" },
+                { "number": "74", "pos": "336", "zi": "8", "from": "602", "to": "602", "xcls": "-small" },
+                { "number": "66", "pos": "177", "zi": "8", "from": "633", "to": "635", "xcls": "" }
+            ]
+        },
+        {
+            "id": "19",
+            "color": "color-sarah",
+            "name": "Sarah Jane",
+            "fname": "Sarah Jane Smith",
+            "info": {
+                "title": "Sarah Jane Smith (1973 - 1976, 2006 - 2011)",
+                "actor": "Elisabeth Sladen",
+                "image": "images/companion_sarah.png",
+                "text": "While investigating the disappearance of scientists from a UNIT facility, feisty journalist Sarah Jane Smith stowed away aboard the Third Doctor’s TARDIS, and was taken to the Middle Ages. After defeating Sontaran Linx, she fought Daleks, photographed a Tyrannosaurus Rex, and advised a queen on how to rule. Following the Third Doctor’s regeneration, she travelled on with the Fourth, visiting the genesis of the Daleks, a planet made of solid gold, and blowing up a rocket designed to release an ancient evil god from his prison on Mars. After being possessed by Eldrad, she told the Doctor that she was “sick of being shot at, savaged by bug-eyed monsters”. As a result of this and a summons form Gallifrey, the Doctor dropped her back on Earth – although not in South Croydon as she wanted. After bumping into the Tenth Doctor at Deffry Vale School and helping defeat the Krillitanes, Sarah began investigating alien incursions from her home on Bannerman Road. Building a family around her, with her adopted son Luke and his friends, she took on Sontarans, Androvax and the Trickster. Never forgotten by the Doctor, her story goes on forever.",
+                "quote": "Call me old girl again and I'll spit in your eye.",
+                "trivia": [
+                    "Sarah Jane Smith was the first companion to have been given her own spin-off series and the only one from the 'classic era'.<br>23 years passed between appearances from Sarah Jane Smith."
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>4</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>7</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>21</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>85</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "36",  "pos": "177", "zi": "8", "from": "356", "to": "435", "xcls": "" },
+                { "number": "71",  "pos": "196", "zi": "8", "from": "602", "to": "602", "xcls": "-small" },
+                { "number": "84",  "pos": "323", "zi": "8", "from": "713", "to": "713", "xcls": "" },
+                { "number": "120", "pos": "323", "zi": "9", "from": "750", "to": "751", "xcls": "" },
+                { "number": "121", "pos": "250", "zi": "8", "from": "755", "to": "755", "xcls": "" }
+            ]
+        },
+        {
+            "id": "20",
+            "color": "color-harry",
+            "name": "Harry",
+            "fname": "Harry Sullivan",
+            "info": {
+                "title": "Harry Sullivan (1974 - 1975)",
+                "actor": "Ian Marter",
+                "image": "images/companion_harry.png",
+                "text": "When the Doctor regenerates into his fourth body at UNIT HQ, the Brigadier summons Lieutenant Surgeon Harry Sullivan to look after him. After helping the Doctor defeat Kettlewell’s giant robot, and disbelieving that the TARDIS was a space-time ship, Harry was whisked away with the Doctor and Sarah. He saw the Sontarans, the birth of the Daleks and the Cyber assault on Voga. He left the TARDIS after the attempted Zygon invasion, when he was held prisoner and used as a template for their shape-shifting. Sarah later said of Harry that his work developing vaccines had saved thousands of lives.",
+                "quote": "Oh, come along now, Doctor. We're both reasonable men. Now, we both know that police boxes don't go careering around all over the place.",
+                "trivia": [
+                    "Actor Ian Marter played the character John Andrews in the 4 episodes of the adventure Carnival of Monsters before returning as the companion Harry Sullivan."
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>5</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>7</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>27</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "37", "pos": "250", "zi": "8", "from": "382", "to": "405", "xcls": "" },
+                { "number": "38", "pos": "250", "zi": "8", "from": "415", "to": "417", "xcls": "" }
+            ]
+        },
+        {
+            "id": "21",
+            "color": "color-leela",
+            "name": "Leela",
+            "fname": "Leela",
+            "info": {
+                "title": "Leela (1977 - 1978)",
+                "actor": "Louise Jameson",
+                "image": "images/companion_leela.png",
+                "text": "Leela was a warrior of the Sevateem, descended over many generations from a colonisation ship’s survey team. Proud, strong and occasionally violent, Leela was also curious to learn more, running into the TARDIS when the Doctor refused to take her with him, and accidentally activating the controls. Resisting the Doctor’s attempts to “civilise” her, she fought sinister Voc robots, slimy Rutans and even leapt through a window to escape a murderous ventriloquist dummy. After helping the Doctor defeat the Sontarans’ invasion of time, she chose to remain on Gallifrey with Commander Andred and the first version of K-9.",
+                "quote": "Enjoy your death, as I enjoyed killing you!",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>9</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>40</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "39", "pos": "177", "zi": "8", "from": "440", "to": "479", "xcls": "" }
+            ]
+        },
+        {
+            "id": "22",
+            "color": "color-k9",
+            "name": "K-9",
+            "fname": "K-9",
+            "info": {
+                "title": "K-9 (1977 - 1981, 2006, 2008)",
+                "actor": "John Leeson / David Brierley",
+                "image": "images/companion_k9.png",
+                "text": "Built in the year 5000 as the robot companion of Professor Marius, K-9 was a mobile computer with built-in defensive weapons. After helping defeat The Swarm, the Professor offered K-9 to the Doctor and Leela. Although this version remained on Gallifrey with Leela when she left the TARDIS, the Doctor constructed a second K-9 from spares. This K-9 helped the Doctor and Romana reassemble the Key to Time, was taken hostage by Lady Adrasta and led the attack on the Vampire castle. Damaged by the Time Winds, he remained in E-space with Romana and the Tharils. A third K-9 was gifted to Sarah Jane Smith, helping her defeat the Cult of Hecate and, much later, blowing up the Krillitanes at Defry Vale High School. The Tenth Doctor left Sarah a fourth K-9 model, who lived with her at Bannerman Road, then accompanied Luke to University in Oxford. Engineers at NASA's Ames Research Center have dubbed an intelligent mobile robot designed to explore the surface of Mars 'K-9'. The writers originally wanted to name K-9 'Pluto', after the Disney character; however, Disney refused permission.",
+                "quote": "Master!",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>6</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>20</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>67</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "40",  "pos": "250", "zi": "8", "from": "459", "to": "461", "xcls": "" },
+                { "number": "41",  "pos": "250", "zi": "8", "from": "466", "to": "477", "xcls": "" },
+                { "number": "42",  "pos": "250", "zi": "8", "from": "479", "to": "480", "xcls": "" },
+                { "number": "123", "pos": "250", "zi": "8", "from": "482", "to": "495", "xcls": "" },
+                { "number": "43",  "pos": "250", "zi": "8", "from": "500", "to": "505", "xcls": "" },
+                { "number": "44",  "pos": "250", "zi": "8", "from": "514", "to": "526", "xcls": "" },
+                { "number": "124", "pos": "250", "zi": "8", "from": "530", "to": "535", "xcls": "" },
+                { "number": "125", "pos": "250", "zi": "8", "from": "537", "to": "538", "xcls": "" },
+                { "number": "126", "pos": "250", "zi": "8", "from": "540", "to": "545", "xcls": "" },
+                { "number": "127", "pos": "296", "zi": "9", "from": "602", "to": "602", "xcls": "-small" },
+                { "number": "83",  "pos": "177", "zi": "9", "from": "713", "to": "713", "xcls": "" },
+                { "number": "122", "pos": "353", "zi": "9", "from": "751", "to": "751", "xcls": "-medium" }
+            ]
+        },
+        {
+            "id": "23",
+            "color": "color-romana-1",
+            "name": "Romana I",
+            "fname": "Romana I",
+            "info": {
+                "title": "Romana I (1978 - 1979)",
+                "actor": "Mary Tamm",
+                "image": "images/companion_romana_1.png",
+                "text": "Romanadvoratrelundar was a Time Lady, assigned by the White Guardian to help the Doctor assemble the Key to Time. Younger than the Doctor by many hundreds of years, but academically smarter, Romana was initially haughty and dismissive, but she grew to enjoy her travels in the TARDIS and respect the Doctor. On Tara, after finding the fourth segment of the Key immediately, she met her double in Princess Strella, and was nearly married off into the royal family. Later she was staked out by the Swampies as a gift to their giant octopus god, Kroll, before the Doctor rescued her. After being tortured by the Black Guardian’s agents, she saw the key successfully reassembled, and balance restored to the universe. She then decided to regenerate, and take on the form of a woman she had recently met - Princess Astra of Atrios.",
+                "quote": "To put it very simply, Doctor, you're suffering from a massive compensation syndrome.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>6</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>26</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "45", "pos": "177", "zi": "8", "from": "480", "to": "505", "xcls": "" }
+            ]
+        },
+        {
+            "id": "24",
+            "color": "color-romana-2",
+            "name": "Romana II",
+            "fname": "Romana II",
+            "info": {
+                "title": "Romana II (1979 - 1981)",
+                "actor": "Lalla Ward",
+                "image": "images/companion_romana_2.png",
+                "text": "Romana’s next incarnation was very different - still clever, but more comfortable with the Doctor, tolerating his eccentricities and even going as far as to dress like him. Settling in the form of Princess Astra of Atrios during her regeneration, she faced Daleks, Scaroth the Jagaroth and Skagra alongside the Doctor. She was deeply saddened when the Time Lords asked for her to return home, after experiencing as much as she had. When the Doctor tried to obey, the TARDIS fell through a CVE into a pocket universe called “E-Space”. Continuing her travels in this new universe, Romana was bitten by a Marshspider and prepared for sacrifice by three ancient vampires. Having become empathetic to the enslaved race of time-sensitives called Tharils, Romana and K-9 opted to remain in E-Space.",
+                "quote": "Don't take any notice of him. He's just having one of his funny turns.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>4</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>10</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>46</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "46", "pos": "177", "zi": "8", "from": "506", "to": "545", "xcls": "" },
+                { "number": "72", "pos": "216", "zi": "9", "from": "602", "to": "602", "xcls": "-small" }
+            ]
+        },
+        {
+            "id": "25",
+            "color": "color-adric",
+            "name": "Adric",
+            "fname": "Adric",
+            "info": {
+                "title": "Adric (1980 - 1982)",
+                "actor": "Matthew Waterhouse",
+                "image": "images/companion_adric.png",
+                "text": "An amazing Mathematician and awkward teenager, Adric was from the E-Space planet Alzarius. After accidentally fleeing into the TARDIS and seeing the life the Doctor lives, he stowed away. Back in our universe, after witnessing the Fourth Doctor’s regeneration, he was captured by the Master and forced to use mathematical power to create Castrovalva – a city-shaped trap to ensnare the new Doctor. Escaping from the Master he faced Terileptils and the Mara, before meeting the Cybermen. He died struggling to gain control of a freighter the Cybermen set on course for 26th Century Earth. Managing to send the freighter back in time, his actions saved many lives but caused the extinction of the dinosaurs.",
+                "quote": "Just let the Doctor go. I don't know what these levers do, but it's pointing in your direction.",
+                "trivia": [
+                    "The name Adric is anagram derived from Nobel prize-winning physicist Paul Dirac."
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>5</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>13</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>44</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "47", "pos": "323", "zi": "8", "from": "534", "to": "575", "xcls": "" },
+                { "number": "48", "pos": "323", "zi": "8", "from": "577", "to": "577", "xcls": "" },
+                { "number": "49", "pos": "353", "zi": "8", "from": "622", "to": "622", "xcls": "-medium" }
+            ]
+        },
+        {
+            "id": "26",
+            "color": "color-nyssa",
+            "name": "Nyssa",
+            "fname": "Nyssa",
+            "info": {
+                "title": "Nyssa (1981 - 1983)",
+                "actor": "Sarah Sutton",
+                "image": "images/companion_nyssa.png",
+                "text": "When the Doctor was summoned to the peaceful Union of Traken to fight a great evil, young Nyssa's life was irrevocably changed. Her father Tremas had his body taken over by the dying Master, and she was brought by a ghostly figure to attend the Fourth Doctor's regeneration. Calm, collected and scientific, Nyssa helped the Doctor through his post-regenerative trauma, destroyed the Terileptils' android and met her doppelgänger at Cranleigh Hall. After bravely trying to save the Doctor from execution by the Time Lords, she chose to remain on the hospital ship Terminus and help cure Lazar's Disease.",
+                "quote": "What a very silly activity.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>6</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>14</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>48</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "50", "pos": "177", "zi": "8", "from": "546", "to": "549", "xcls": "" },
+                { "number": "51", "pos": "177", "zi": "8", "from": "551", "to": "562", "xcls": "" },
+                { "number": "53", "pos": "177", "zi": "8", "from": "565", "to": "595", "xcls": "" },
+                { "number": "54", "pos": "177", "zi": "9", "from": "622", "to": "622", "xcls": "-medium" }
+            ]
+        },
+        {
+            "id": "27",
+            "color": "color-tegan",
+            "name": "Tegan",
+            "fname": "Tegan Jovanka",
+            "info": {
+                "title": "Tegan Jovanka (1981 - 1984)",
+                "actor": "Janet Fielding",
+                "image": "images/companion_tegan.png",
+                "text": "On the way to Heathrow Airport for her first day as an air stewardess, Tegan's car gets a puncture. Entering a nearby Police Box, she's transported to the alien world of Logopolis and witnesses the Fourth Doctor's regeneration. Shortly after on Deva Loka, Tegan's mind became host to a snake-like evil called the Mara. It twice attempted to use Tegan as a conduit to return to corporeal form, an experience that was deeply distressing. Always forthright and often difficult, Tegan bade the Doctor and Turlough an emotional farewell after preventing the Daleks from arriving in 1980s London. According to Sarah Jane Smith, Tegan became a campaigner for Aboriginal rights in her native Australia.",
+                "quote": "You mean you're deliberately choosing to go on the run from your own people, in a rackety old TARDIS?",
+                "trivia": [
+                    "Tegan is the current record holder for longest continuous period of time on Doctor Who."
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>8</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>20</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>65</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "55", "pos": "250", "zi": "8", "from": "550", "to": "579", "xcls": "" },
+                { "number": "56", "pos": "250", "zi": "8", "from": "581", "to": "614", "xcls": "" },
+                { "number": "57", "pos": "309", "zi": "9", "from": "622", "to": "622", "xcls": "-medium" }
+            ]
+        },
+        {
+            "id": "28",
+            "color": "color-turlough",
+            "name": "Turlough",
+            "fname": "Vislor Turlough",
+            "info": {
+                "title": "Vislor Turlough (1983 - 1984)",
+                "actor": "Mark Strickson",
+                "image": "images/companion_turlough.png",
+                "text": "A political prisoner from the planet Trion, hidden from retribution at a British private school, Vislor Turlough had a troubled beginning to his travels with the Doctor. Knocked unconscious, he came under the influence of the Black Guardian, who tasked him with killing the Doctor. Unable to fulfil this request and after trying to take his own life, Turlough rejected the Guardian and became a member of the TARDIS crew. Although loyal, he remained liable to run at the first sign of trouble. After meeting fellow Trion exiles on Sarn and learning that there was an amnesty on political prisoners, Turlough returned home with his brother Malkon.",
+                "quote": "We're running out of places to run.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>6</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>11</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>32</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "58", "pos": "213", "zi": "8", "from": "588", "to": "618", "xcls": "" },
+                { "number": "59", "pos": "221", "zi": "8", "from": "622", "to": "622", "xcls": "-medium" }
+            ]
+        },
+        {
+            "id": "29",
+            "color": "color-kamelion",
+            "name": "Kamelion",
+            "fname": "Kamelion",
+            "info": {
+                "title": "Kamelion (1983 - 1984)",
+                "actor": "Gerald Flood",
+                "image": "images/companion_kamelion.png",
+                "text": "Kamelion was a shape-changing sentient robot, whose physical form could be changed using psychic force. His short time in the TARDIS began when the Master used him to impersonate the English king John, and attempt to undermine the signing of the Magna Carta. Escaping with the Doctor, Kamelion lived aboard the TARDIS, until once more, the Master reached out to control his mind. The Master - accidentally shrunk to doll-size - used Kamelion to do his bidding. Once control was broken, Kamelion begged the Doctor to destroy him, which - with a heavy heart - the Doctor duly did.",
+                "quote": "Unexpected as it may be, I do have a mind of my own.",
+                "trivia": [
+                    "Kamelion's mouth was designed to move in sync with the pre-recorded dialogue by Gerald Flood."
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>4</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>9</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "60", "pos": "177", "zi": "8", "from": "600", "to": "601", "xcls": "" },
+                { "number": "61", "pos": "177", "zi": "8", "from": "607", "to": "608", "xcls": "" },
+                { "number": "62", "pos": "177", "zi": "8", "from": "615", "to": "618", "xcls": "" },
+                { "number": "63", "pos": "265", "zi": "9", "from": "622", "to": "622", "xcls": "-medium" }
+            ]
+        },
+        {
+            "id": "30",
+            "color": "color-peri",
+            "name": "Peri",
+            "fname": "Peri Brown",
+            "info": {
+                "title": "Peri Brown (1984 - 1986)",
+                "actor": "Nicola Bryant",
+                "image": "images/companion_peri.png",
+                "text": "Perpugilliam “Peri” Brown, met the Fifth Doctor while bored at her stepfather archaeological dig on Lanzarote. After helping defeat the Master, Peri opted to travel with the Doctor. During an early adventure, the Doctor and Peri contracted Spectrox Toxaemia on Androzani Minor. The Doctor’s selfless actions saved her from death and prompted the Time Lord’s fifth regeneration. The Sixth Doctor was initially unstable, and Peri had trouble coming to terms with him. She fought Cybermen on Telos, the combined machinations of the Rani and the Master, and joined the Doctor’s second incarnation in Spain to repel the Sontarans. During the Doctor’s trial, it was revealed that Peri died on Thoros Beta, when her mind was overwritten with that of the Mentor Lord Kiv. King Yrcanos – being used as an assassin by the Time Lords - destroyed the Peri-Kiv hybrid’s body. When the Doctor was acquitted, he was informed that the evidence concerning Peri’s death had been falsified – she lives, married to Yrcanos, a warrior queen of the Krontep.",
+                "quote": "Ever since we came to Thoros Beta I've been homesick. Well, not so much for a place but a time. Just wanna be back in my own time with people I love.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>8</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>10</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>33</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "64", "pos": "250", "zi": "8", "from": "615", "to": "647", "xcls": "" }
+            ]
+        },
+        {
+            "id": "31",
+            "color": "color-mel",
+            "name": "Mel",
+            "fname": "Melanie Bush",
+            "info": {
+                "title": "Melanie Bush (1986 - 1987)",
+                "actor": "Bonnie Langford",
+                "image": "images/companion_mel.png",
+                "text": "Snatched out of the Doctor’s future and deposited as a witness into his trial, Mel’s travels in the TARDIS didn’t run smoothly or chronologically! A computer programmer, with a cheery disposition, Mel faced the Vervoids and the Valeyard alongside the Sixth Doctor – while trying desperately to get him to lose weight. When the Rani attacked the TARDIS, prompting the Doctor’s sixth regeneration, she assumed Mel’s identity to bamboozle the confused new Doctor. After the Rani’s defeat, Mel fought the cannibal old ladies of Paradise Towers and the deadly Bannermen, hell bent on destroying the beautiful Chimeron Queen Delta. After helping the Doctor and Ace find the Dragonfire treasure, she opted to remain on Iceworld and help reform the mercenary Glitz’s dodgy.",
+                "quote": "Who said anything about home? I've got much more crazy things to do yet.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>3</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>5</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>20</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "67", "pos": "177", "zi": "8", "from": "648", "to": "667", "xcls": "" }
+            ]
+        },
+        {
+            "id": "32",
+            "color": "color-ace",
+            "name": "Ace",
+            "fname": "Ace",
+            "info": {
+                "title": "Ace (1987 - 1989)",
+                "actor": "Sophie Aldred",
+                "image": "images/companion_ace.png",
+                "text": "Originally from 1980s London, troubled teen Ace (real name ‘Dorothy’) met the Doctor on Iceworld, where she had been transported as part of a trap by an ancient evil called Fenric. Favouring home-made explosives, a baseball bat and her ghetto-blaster, she was a marked difference to Mel. As well as fighting Cybermen and Daleks singled-handedly, she faced the demons of her past and the reality of hating her mother. Righteous and brave, Ace had absolute faith in the Doctor, and developed into a bold young woman during her travels. Many conflicting reports exist as to what happened to Ace after her travels in the TARDIS, but Sarah Jane Smith later recalled that a “Dorothy something” raised billions through her foundation A Charitable Earth.",
+                "quote": "Do you know any nice people? You know, normal people. Not power-crazed nutters trying to take over the universe.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>6</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>9</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>31</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "68", "pos": "250", "zi": "8", "from": "665", "to": "695", "xcls": "" }
+            ]
+        },
+        {
+            "id": "33",
+            "color": "color-grace",
+            "name": "Grace",
+            "fname": "Grace Holloway",
+            "info": {
+                "title": "Grace Holloway (1996)",
+                "actor": "Daphne Ashbrook",
+                "image": "images/companion_grace.png",
+                "text": "Eminent cardiologist, Dr Grace Holloway's life changed forever when she lost a surgical probe in a man's chest during a routine procedure, causing his death. Remaining adamant that his cardiovascular system was not normal she resigned her post. Leaving the hospital, she encountered a confused, much younger man, with the same probe in his chest. Eventually believing that he was an alien who could change his face, she aided the newly regenerated Eighth Doctor against the Master, helping to “jump start” the TARDIS and roll back the effects of the open Eye of Harmony. Sharing a kiss with him at the turn of the millennium, she declined the offer to join his travels, instead inviting him to stay with her.",
+                "quote": "I finally meet the right guy, and he's from another planet.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Movies</strong></h6><h1>1</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "69", "pos": "177", "zi": "8", "from": "696", "to": "696", "xcls": "" }
+            ]
+        },
+        {
+            "id": "34",
+            "color": "color-doctor",
+            "name": "3rd Doctor",
+            "fname": "3rd Doctor",
+            "info": {
+                "title": "doctor",
+                "number": "3"
+            },
+            "episodes": [
+                { "number": "75", "pos": "356", "zi": "8", "from": "602", "to": "602", "xcls": "-small" }
+            ]
+        },
+        {
+            "id": "35",
+            "color": "color-doctor",
+            "name": "4th Doctor",
+            "fname": "4th Doctor",
+            "info": {
+                "title": "doctor",
+                "number": "4"
+            },
+            "episodes": [
+                { "number": "76", "pos": "376", "zi": "8", "from": "602", "to": "602", "xcls": "-small" }
+            ]
+        },
+        {
+            "id": "36",
+            "color": "color-rose",
+            "name": "Rose",
+            "fname": "Rose Tyler",
+            "info": {
+                "title": "Rose Tyler (2005 - 2010)",
+                "actor": "Billie Piper",
+                "image": "images/companion_rose.png",
+                "text": "Trapped by Autons in the basement of Henrik's department store, shop assistant Rose Tyler’s life is saved by a chance encounter with the Doctor. When her heroism leads to the defeat of the Nestene, he invites her to travel with him – taking her from Victorian Cardiff to the day the Earth died. And although travelling with the Doctor was often dangerous, she told him she’d stay with him forever. Witnessing the Ninth Doctor’s regeneration only made that bond stronger. However, during the Battle of Canary Wharf they were separated – trapped on parallel worlds. Using a Dimension Cannon she attempted to make contact with the Doctor (and new companion Donna) several times, eventually encountering him as he was exterminated by a Dalek. Once healed and the Daleks defeated, he returned Rose to the parallel world with her family and the half-human version of himself, to live the rest of their lives together.",
+                "quote": "The first nineteen years of my life, nothing happened. And then I met a man called the Doctor.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>27</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>31</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "77",  "pos": "177", "zi": "8", "from": "697", "to": "723", "xcls": "" },
+                { "number": "128", "pos": "177", "zi": "8", "from": "739", "to": "739", "xcls": "" },
+                { "number": "78",  "pos": "213", "zi": "8", "from": "749", "to": "751", "xcls": "" }
+            ]
+        },
+        {
+            "id": "37",
+            "color": "color-adam",
+            "name": "Adam",
+            "fname": "Adam Mitchell",
+            "info": {
+                "title": "Adam Mitchell (2005)",
+                "actor": "Bruno Langley",
+                "image": "images/companion_adam.png",
+                "text": "English genius, fresh out of university, and working for Henry van Statten. He had hacked into the Pentagon's computer systems when he was eight years old. Van Statten employed Adam to go through the flotsam and jetsam of alien tech he collected and discover what it was, how it worked and how to suggest ways of utilising it for Geocomtex. Adam was a bit of a dreamer and was fascinated by the universe. He and Rose Tyler were pursued by the Dalek once it had escaped the Vault in Henry Van Statten's underground base.",
+                "quote": "",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>2</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "79", "pos": "213", "zi": "9", "from": "702", "to": "703", "xcls": "" }
+            ]
+        },
+        {
+            "id": "38",
+            "color": "color-jack",
+            "name": "Jack",
+            "fname": "Jack Harkness",
+            "info": {
+                "title": "Jack Harkness (2005 - 2010)",
+                "actor": "John Barrowman",
+                "image": "images/companion_jack.png",
+                "text": "Time Agent. Torchwood Leader. Poster Boy for the Boeshane Peninsula. Over his (very) long life, Captain Jack Harkness has been many things. First meeting the Doctor and Rose in 1940s London, he helped defeat the reanimated “Empty Child” and the Slitheen, before being exterminated by the Daleks on the Game Station. Revived and made immortal by Rose Tyler after she’d absorbed the power of the Time Vortex, Jack travelled back to 1869, where his vortex manipulator burned out. Forced to live through the twentieth century, he joined Torchwood in Cardiff, knowing the Doctor would return one day to refuel on the rift. Following the TARDIS to the end of universe, Jack faced the Master, and then Davros and his Dalek crucible, as well as battling many evils on Earth with Torchwood.",
+                "quote": "Was someone kissing me?",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1></h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "80", "pos": "213", "zi": "9", "from": "705", "to": "709", "xcls": "" },
+                { "number": "81", "pos": "213", "zi": "9", "from": "735", "to": "737", "xcls": "" },
+                { "number": "82", "pos": "250", "zi": "9", "from": "750", "to": "751", "xcls": "" }
+            ]
+        },
+        {
+            "id": "39",
+            "color": "color-mickey",
+            "name": "Mickey",
+            "fname": "Mickey Smith",
+            "info": {
+                "title": "Mickey Smith (2005 - 2010)",
+                "actor": "Noel Clarke",
+                "image": "images/companion_mickey.png",
+                "text": "On-off boyfriend of Rose Tyler, Mickey Smith was drawn into the Doctor’s world when he was captured and replicated by the Nestene Consciousness. When Rose vanished for a year with the Doctor, Mickey was questioned over her disappearance. Despite this, and getting called “Mickey the Idiot”, he helped the Doctor and Rose defeat the Slitheen, Sycorax and Krillitanes. He opted to remain in the parallel “Pete’s World” when he discovered that the parallel version of the Grandmother who raised him was a still alive. From there, he assisted Pete and Jake rid their world of Cybermen, before jumping realities and fighting the Battle of Canary Wharf. After a period of living in that world with the Tylers, he returned to his originalEarth, where he married Martha Jones.",
+                "quote": "It's a spaceship! Brilliant, I got a spaceship on my first go!",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>13</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>15</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "129", "pos": "250", "zi": "8",  "from": "697", "to": "697", "xcls": "" },
+                { "number": "130", "pos": "250", "zi": "8",  "from": "700", "to": "701", "xcls": "" },
+                { "number": "131", "pos": "250", "zi": "9",  "from": "707", "to": "707", "xcls": "" },
+                { "number": "132", "pos": "250", "zi": "9",  "from": "709", "to": "711", "xcls": "" },
+                { "number": "85",  "pos": "250", "zi": "9",  "from": "713", "to": "716", "xcls": "" },
+                { "number": "134", "pos": "250", "zi": "8",  "from": "722", "to": "723", "xcls": "" },
+                { "number": "135", "pos": "177", "zi": "10", "from": "751", "to": "751", "xcls": "-medium" },
+                { "number": "136", "pos": "286", "zi": "9",  "from": "756", "to": "756", "xcls": "" }
+                
+            ]
+        },
+        {
+            "id": "40",
+            "color": "color-donna",
+            "name": "Donna",
+            "fname": "Donna Noble",
+            "info": {
+                "title": "Donna Noble (2006 - 2010)",
+                "actor": "Catherine Tate",
+                "image": "images/companion_donna.png",
+                "text": "A temp from West London, Donna found herself transported aboard the TARDIS as she was walking down the aisle on her wedding day. Fortunately, the Doctor saved her from marrying Lance – who’d made a deal with the Empress of the Racnoss. Despite turning down the Doctor’s offer to travel with him, she began investigating possible alien incursions, in the hope she’d meet him again. When they were reunited at Adipose Industries, she took up the offer to travel in the TARDIS - visiting Pompeii, meeting Agatha Christie and helping thwart the Sontarans. When the Doctor was exterminated by a Dalek and began regenerating he funneled the energy into his spare hand. When Donna touched this, it provoked a ‘metacrisis’, where she acquired all of the Doctor’s knowledge. Although this was essential in stopping Davros, it started to destroy Donna’s body. The Doctor was forced to wipe her mind and return her to Sylvia and Wilf. He later bought Donna and new husband Shaun a winning lottery ticket.",
+                "quote": "Oi! Watch it, spaceman!",
+                "trivia": [
+                    "Donna Noble was the first companion to see the interior of the TARDIS before the exterior."
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>13</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>17</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "86",  "pos": "323", "zi": "8", "from": "723", "to": "724", "xcls": "" },
+                { "number": "89",  "pos": "286", "zi": "8", "from": "739", "to": "751", "xcls": "" },
+                { "number": "137", "pos": "323", "zi": "8", "from": "755", "to": "756", "xcls": "" }
+            ]
+        },
+        {
+            "id": "41",
+            "color": "color-martha",
+            "name": "Martha",
+            "fname": "Martha Jones",
+            "info": {
+                "title": "Martha Jones (2007 - 2008)",
+                "actor": "Freema Agyeman",
+                "image": "images/companion_martha.png",
+                "text": "Studying for her doctorate in medicine, Martha Jones was inside Royal Hope Hospital when it was transported to the moon. Showing great bravery in the face of the Plasmavore, the Doctor invited her for travel with him. She was wooed by William Shakespeare, fought Daleks in New York and looked after the Doctor when disguised as a human school teacher in 1913. When the Doctor was captured by the Master, Martha travelled the world telling his story of resistance. The psychic energy this gathered helped release the Time Lord. After activating Project Indigo in the face of Davros' Reality Bomb, Martha married Mickey Smith and together they hunted alien threats to Earth.",
+                "quote": "What else have you got? A laser spanner?",
+                "trivia": [
+                    "Freema Agyeman played the role of Adeola in the episode Army of Ghosts before becoming the companion Martha Jones."
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>13</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>19</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "87",  "pos": "177", "zi": "8", "from": "725", "to": "737", "xcls": "" },
+                { "number": "90",  "pos": "177", "zi": "8", "from": "742", "to": "744", "xcls": "" },
+                { "number": "138", "pos": "177", "zi": "9", "from": "750", "to": "751", "xcls": "" },
+                { "number": "139", "pos": "213", "zi": "9", "from": "756", "to": "756", "xcls": "" }
+            ]
+        },
+        {
+            "id": "42",
+            "color": "color-astrid",
+            "name": "Astrid",
+            "fname": "Astrid Peth",
+            "info": {
+                "title": "Astrid Peth (2007)",
+                "actor": "Kylie Minogue",
+                "image": "images/companion_astrid.png",
+                "text": "Astrid is a one-off new companion for the Tenth Doctor in the 2007 Christmas special of DOCTOR WHO, entitled Voyage of the Damned. Kylie Minogue performs the part of Astrid, a sexy French waitress who is waitressing on HMS Titanic, and she is shocked to meet the Doctor on the doomed cruise liner as the party gets underway, but the party is crashed by when the angel robots on the liner defect from their programming to help passengers and instead begin to sabotage the ship and kill all on board. Astrid must team up with the Time Lord to defeat the evil creatures and to save the liner from certain doom.",
+                "quote": "",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>0</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>1</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "88",  "pos": "177", "zi": "8", "from": "738", "to": "738", "xcls": "" }
+            ]
+        },
+        {
+            "id": "43",
+            "color": "color-river",
+            "name": "River",
+            "fname": "River Song",
+            "info": {
+                "title": "River Song (2008 - )",
+                "actor": "Alex Kingston",
+                "image": "images/companion_river.png",
+                "text": "Born Melody Pond, to Amy Pond and Rory Williams during the Battle of Demon's Run, she was kidnapped by agents of The Silence and raised as the Doctor's perfect assassin. But in her pursuit of the Doctor, she fell in love with him, which broke her conditioning. Becoming a Doctor of Archaeology, she was again recruited by The Silence to kill the Doctor at a fixed point in time. However, the assassination was staged to allow the Doctor to disappear from view. Handed 12,000 life sentences for his murder, River spent her days at Stormcage Containment Facility, but her nights travelling with the Doctor.<br><br>They investigated the wreck of the Byzantium, battled Weeping Angels in New York and visited the Singing Towers of Darillium. She died in The Library, saving the people trapped in its computer. The Doctor was able to upload her into the mainframe where her data ghost 'lives' with three children to look after. (The Doctor and River have met each other, broadly speaking, in reverse order - the first time the Doctor meets River is the last time she sees him.) The part of River Song was originally offered to Kate Winslet but she turned it down.",
+                "quote": "You've got all of that to come. You and me, time and space. You watch us run!",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>3</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1></h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "91",  "pos": "250", "zi": "8", "from": "746", "to": "747", "xcls": "" },
+                { "number": "96",  "pos": "250", "zi": "8", "from": "760", "to": "761", "xcls": "" },
+                { "number": "99",  "pos": "250", "zi": "8", "from": "768", "to": "769", "xcls": "" },
+                { "number": "101", "pos": "250", "zi": "8", "from": "771", "to": "772", "xcls": "" },
+                { "number": "102", "pos": "250", "zi": "8", "from": "777", "to": "777", "xcls": "" },
+                { "number": "110", "pos": "250", "zi": "8", "from": "789", "to": "789", "xcls": "" },
+                { "number": "111", "pos": "250", "zi": "8", "from": "798", "to": "798", "xcls": "" }
+            ]
+        },
+        {
+            "id": "44",
+            "color": "color-jackson",
+            "name": "Jackson",
+            "fname": "Jackson Lake",
+            "info": {
+                "title": "Jackson Lake (2008-2010)",
+                "actor": "David Morrisey",
+                "image": "images/companion_jackson.png",
+                "text": "",
+                "quote": "",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>1</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "106", "pos": "177", "zi": "8", "from": "752", "to": "752", "xcls": "" }
+            ]
+        },
+        {
+            "id": "45",
+            "color": "color-christina",
+            "name": "Christina",
+            "fname": "Lady Christina de Souza",
+            "info": {
+                "title": "Lady Christina de Souza (2008 - 2010)",
+                "actor": "Michelle Ryan",
+                "image": "images/companion_christina.png",
+                "text": "",
+                "quote": "",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>0</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>1</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "92", "pos": "177", "zi": "8", "from": "753", "to": "753", "xcls": "" }
+            ]
+        },
+        {
+            "id": "46",
+            "color": "color-adelaide",
+            "name": "Adelaide",
+            "fname": "Adelaide Brooke",
+            "info": {
+                "title": "Adelaide Brooke (2008 - 2010)",
+                "actor": "Lyndsay Duncan",
+                "image": "images/companion_adelaide.png",
+                "text": "",
+                "quote": "",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>1</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "93", "pos": "177", "zi": "8", "from": "754", "to": "754", "xcls": "" }
+            ]
+        },
+        {
+            "id": "47",
+            "color": "color-wilfred",
+            "name": "Wilfred",
+            "fname": "Wilfred Mott",
+            "info": {
+                "title": "Wilfred Mott (2007 - 2010)",
+                "actor": "Bernard Cribbins",
+                "image": "images/companion_wilfred.png",
+                "text": "Wilf first encountered the Doctor on Christmas Day 2007, when the Time Lord beamed down from the Titanic with Astrid Peth. A year later, during the Adipose affair, he was to see the Doctor again – this time through his telescope as the TARDIS, with Donna aboard, sped across the sky. A keen astronomer, Wilf readily accepted the Doctor's alien nature, along with his granddaughter’s travelling in time and space. When Donna's mind had to be wiped of her travels with the Doctor, he was heartbroken but promised to keep watching the skies for the TARDIS. Extraordinarily loyal, he urged the Doctor to kill the Master and save the world when he opened the timelock on the Time War. It was Wilf who would eventually knock four times, and herald theTenth Doctor’s regeneration.",
+                "quote": "It's them aliens again, I'll bet my pension. What do you want this time, you green swine?!",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>2</h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "94", "pos": "177", "zi": "8", "from": "755", "to": "756", "xcls": "" }
+            ]
+        },
+        {
+            "id": "48",
+            "color": "color-amy",
+            "name": "Amy",
+            "fname": "Amelia Jessica 'Amy' Pond",
+            "info": {
+                "title": "Amelia Jessica 'Amy' Pond (2010 - 2012)",
+                "actor": "Karen Gillan",
+                "image": "images/companion_amy.png",
+                "text": "Seven-year old Amelia Pond is visited one night by a mad man in box who eats fish fingers and custard, and who examines the frightening crack in her wall. She waits for him to return. For twelve years. When the “raggedy man” came back, Amy embarked on series of adventures with him, on the eve of her wedding to Rory Williams. The couple later travelled together, got married – an event the Doctor attended only after Amy remembered him back into existence – and had a daughter, Melody. In Amy’s own words, she went to sea and fought pirates, fell in love with a man who waited 2000 years to keep her safe, gave hope to Vincent van Gogh, and saved a whale in outer space. Touched by a Weeping Angel, Amy was catapulted back to 1938, where she lived a happy life with Rory and adopted a son.",
+                "quote": "Raggedy man, I remember you… And you are late for my wedding!",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>7</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1></h1>"
+                ],
+                "doctors": ["11"],
+                "monsters": ["Daleks", "Cybermen", "Silurians", "Sontarans", "Ood", "Weeping Angels", "The Silence"]
+            },
+            "episodes": [
+                { "number": "95",  "pos": "177", "zi": "8", "from": "757", "to": "781", "xcls": "" },
+                { "number": "104", "pos": "177", "zi": "8", "from": "783", "to": "783", "xcls": "" },
+                { "number": "107", "pos": "177", "zi": "8", "from": "785", "to": "789", "xcls": "" }
+            ]
+        },
+        {
+            "id": "49",
+            "color": "color-rory",
+            "name": "Rory",
+            "fname": "Rory Williams",
+            "info": {
+                "title": "Rory Williams (2010 - 2012)",
+                "actor": "Arthur Davill",
+                "image": "images/companion_rory.png",
+                "text": "In love with Amy Pond from his teens, Rory Williams became a nurse to try and compete with (what he thought was) her made-up friend, the Doctor. When the Doctor turned out to be real, there was initially some friction, but the two became good friends. Rory had a turbulent time in the TARDIS. He was killed by the Silurians and absorbed into a crack in time, before being resurrected as an Auton, who then killed Amy. After breaking his programming, he stood watch over her tomb in the Pandorica for 2000 years. When reality was restored, Rory ceased to be an Auton and returned to human form. While aboard the TARDIS, he and Amy became parents to Melody. Sent back in time to 1938 by a Weeping Angel, Rory lived a happy life with Amy. Their adopted son, Anthony Brian Williams, visited Rory’s father Brian in 2012, bringing a heart-breaking goodbye note from Rory.",
+                "quote": "In fairness, the universe did blow up.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>7</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1></h1>"
+                ],
+                "doctors": ["11"],
+                "monsters": ["Daleks", "Cybermen", "Silurians", "Sontarans", "Ood", "Weeping Angels", "The Silence"]
+            },
+            "episodes": [
+                { "number": "97",  "pos": "323", "zi": "8", "from": "762", "to": "765", "xcls": "" },
+                { "number": "100", "pos": "323", "zi": "8", "from": "768", "to": "781", "xcls": "" },
+                { "number": "105", "pos": "323", "zi": "8", "from": "783", "to": "783", "xcls": "" },
+                { "number": "108", "pos": "323", "zi": "8", "from": "785", "to": "789", "xcls": "" }
+            ]
+        },
+        {
+            "id": "50",
+            "color": "color-craig",
+            "name": "Craig",
+            "fname": "Craig Owens",
+            "info": {
+                "title": "Craig Owens (2011)",
+                "actor": "James Corden",
+                "image": "images/companion_craig.png",
+                "text": "",
+                "quote": "",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1></h1>"
+                ]
+            },
+            "episodes": [
+                { "number": "98",  "pos": "250", "zi": "8", "from": "767", "to": "767", "xcls": "" },
+                { "number": "103", "pos": "250", "zi": "8", "from": "782", "to": "782", "xcls": "" }
+            ]
+        },
+        {
+            "id": "51",
+            "color": "color-clara",
+            "name": "Clara",
+            "fname": "Clara Oswin Oswald",
+            "info": {
+                "title": "Clara Oswin Oswald (2013)",
+                "actor": "Jenna-Louise Coleman",
+                "image": "images/companion_clara.png",
+                "text": "That impossible girl. In Victorian London, there’s “sweet little Clara” from the Rose & Crown, who’s also an upright children’s governess. In the far-flung future, Oswin Oswald, the shipwrecked Junior Entertainments Manager from Starship Alaska, in reality a human-Dalek conversion refusing to accept her fate. Identical women, worlds and times apart, impossibly giving the Doctor the same message.",
+                "quote": "Run, you clever boy. And remember",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Doctors</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>3</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1></h1>"
+                ],
+                "doctors": ["11"],
+                "monsters": ["Daleks", "Silurians", "Sontarans"]
+            },
+            "episodes": [
+                { "number": "109", "pos": "250", "zi": "8", "from": "785", "to": "785", "xcls": "" },
+                { "number": "112", "pos": "177", "zi": "8", "from": "790", "to": "825", "xcls": "" }
+            ]
+        },
+        {
+            "id": "52",
+            "color": "color-doctor",
+            "name": "10th Doctor",
+            "fname": "10th Doctor",
+            "info": {
+                "title": "doctor",
+                "number": "10"
+            },
+            "episodes": [
+                { "number": "140", "pos": "250", "zi": "8", "from": "799", "to": "799", "xcls": "" }
+            ]
+        },
+        {
+            "id": "53",
+            "color": "color-doctor",
+            "name": "War Doctor",
+            "fname": "War Doctor",
+            "info": {
+                "title": "doctor",
+                "number": "0"
+            },
+            "episodes": [
+                { "number": "141", "pos": "323", "zi": "8", "from": "799", "to": "799", "xcls": "" }
+            ]
+        }
+    ]
+}

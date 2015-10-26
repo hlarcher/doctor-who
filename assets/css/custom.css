@@ -1,0 +1,21 @@
+.popover {
+  max-width: 350px;
+}
+.popover-content {
+  font-size: 12px;
+  color: #696969;
+}
+.popover-content img.img-polaroid {
+  margin: 5px 10px 5px 0px;
+  box-shadow: none;
+  border: 3px solid #cccccc;
+  -webkit-border-radius: 55px;
+  -moz-border-radius: 55px;
+  border-radius: 55px;
+}
+.popover-content img.img-polaroid.img-doctor {
+  border-color: #396396;
+}
+.popover-content h6 {
+  margin: 0;
+}

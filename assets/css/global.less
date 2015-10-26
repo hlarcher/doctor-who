@@ -1,0 +1,958 @@
+
+@import 'mixins.less';
+
+@-webkit-keyframes pulse {
+    0%   { opacity: 0; }
+    50%  { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+@-moz-keyframes pulse {
+    0%   { opacity: 0; }
+    50%  { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+body {
+    background:             #000000 url('../img/bg.jpg') repeat center top fixed;
+}
+
+/*
+
+888                        888                                                      888
+888                        888                                                      888
+888                        888                                                      888
+88888b.   8888b.   .d8888b 888  888  .d88b.  888d888 .d88b.  888  888 88888b.   .d88888
+888 "88b     "88b d88P"    888 .88P d88P"88b 888P"  d88""88b 888  888 888 "88b d88" 888
+888  888 .d888888 888      888888K  888  888 888    888  888 888  888 888  888 888  888
+888 d88P 888  888 Y88b.    888 "88b Y88b 888 888    Y88..88P Y88b 888 888  888 Y88b 888
+88888P"  "Y888888  "Y8888P 888  888  "Y88888 888     "Y88P"   "Y88888 888  888  "Y88888
+                                         888
+                                    Y8b d88P
+                                     "Y88P"
+
+*/
+
+#bg1, #bg2, #bg3 {
+    position:               absolute;
+    top:                    0px;
+    left:                   0px;
+    width:                  100%;
+    overflow:               hidden;
+}
+
+#bg1 { 
+    background:             transparent url('../img/pattern.png') repeat left top;
+}
+
+#bg2 { 
+    background:             transparent url('../img/stars_back.png') repeat left top;
+}
+
+#bg3 {
+    background:             transparent url('../img/stars_front.png') repeat left top;
+}
+
+.starS {
+    position:               absolute;
+    width:                  30px;
+    height:                 30px;
+    -webkit-animation:      5s ease 0s normal none infinite pulse;  
+    -moz-animation:         5s ease 0s normal none infinite pulse;
+    animation:              5s ease 0s normal none infinite pulse;
+    background:             transparent url('../img/star_small.png') no-repeat left top;
+}
+
+.starB {
+    position:               absolute;
+    width:                  30px;
+    height:                 30px;
+    -webkit-animation:      10s ease 0s normal none infinite pulse;  
+    -moz-animation:         10s ease 0s normal none infinite pulse;
+    animation:              10s ease 0s normal none infinite pulse;
+    background:             transparent url('../img/star_big.png') no-repeat left top;
+}
+
+.planetS {
+    position:               absolute;
+    top:                    200px;
+    right:                  -100px;
+    width:                  255px;
+    height:                 250px;
+    background:             transparent url('../img/planet_small.png') no-repeat left top;
+}
+
+.planetB {
+    position:               absolute;
+    bottom:                 -200px;
+    left:                   -100px;
+    width:                  510px;
+    height:                 500px;
+    background:             transparent url('../img/planet.png') no-repeat left top;
+}
+
+/*
+
+888                                     888
+888                                     888
+888                                     888
+888  8888b.  888  888  .d88b.  888  888 888888
+888     "88b 888  888 d88""88b 888  888 888
+888 .d888888 888  888 888  888 888  888 888
+888 888  888 Y88b 888 Y88..88P Y88b 888 Y88b.
+888 "Y888888  "Y88888  "Y88P"   "Y88888  "Y888
+                  888
+             Y8b d88P
+              "Y88P"
+
+*/
+
+#wrap {
+    width:                  100%;
+    height:                 100%;
+}
+
+#dwt-wrapper {
+    width:                  (@cols-total-wid + (@wrapper-side-margin * 2));
+    margin:                 0px auto;
+    color:                  #ffffff;
+}
+
+#dwt-logo {
+    position:               absolute;
+    top:                    0px;
+    left:                   50%;
+    margin-left:            -105px;
+}
+
+#dwt-loader {
+    position:               fixed;
+    top:                    0px;
+    left:                   0px;
+    color:                  #fff;
+}
+
+#dwt-header {
+    position:               relative;
+    height:                 30px;
+    margin-top:             90px;
+}
+
+#dwt-body {
+    position:               relative;
+    background:             transparent url('../img/dwt-line.png') repeat-y left top;
+}
+
+#dwt-footer {
+    margin-top:             20px;
+    font-size:              0.8em;
+    text-align:             center;
+    opacity:                .3;
+}
+
+/*
+
+88888b.d88b.   .d88b.  88888b.  888  888
+888 "888 "88b d8P  Y8b 888 "88b 888  888
+888  888  888 88888888 888  888 888  888
+888  888  888 Y8b.     888  888 Y88b 888
+888  888  888  "Y8888  888  888  "Y88888
+
+*/
+
+#dwt-menu {
+  position: fixed;
+  left: 0px;
+  top: 140px;
+  width: 120px;
+  color: #a5a3a3;
+  font-size: 14px;
+  font-family: 'Droid Serif', serif;
+}
+#dwt-menu ul {
+  width: 100px;
+  margin: 0;
+  padding: 10px;
+  list-style: none;
+  color: #08c1c3;
+  font-size: 12px;
+  background-color: #f1f1f1;
+}
+#dwt-menu ul li {
+  line-height: 16px;
+  margin: 0;
+}
+#dwt-menu ul li a {
+  color: #333333;
+  text-decoration: none;
+}
+#dwt-menu ul li a:hover {
+  color: #05c1c3;
+}
+
+/*
+
+                 888
+                 888
+                 888
+ .d8888b .d88b.  888 888  888 88888b.d88b.  88888b.  .d8888b
+d88P"   d88""88b 888 888  888 888 "888 "88b 888 "88b 88K
+888     888  888 888 888  888 888  888  888 888  888 "Y8888b.
+Y88b.   Y88..88P 888 Y88b 888 888  888  888 888  888      X88
+ "Y8888P "Y88P"  888  "Y88888 888  888  888 888  888  88888P'
+
+*/
+
+.dwt-bg {
+    position:               absolute;
+    height:                 100%;
+    //z-index:                1;
+    //opacity:                .25;
+}
+
+.dwt-year-bg {
+    left:                   @year-bg-left;
+    width:                  @year-bg-wid;
+    background:             @year-bg-bgcolor;
+    z-index:                6;
+}
+
+.dwt-doctor-bg {
+    left:                   @doctor-bg-left;
+    width:                  @doctor-bg-wid;
+    background:             @doctor-bg-bgcolor;
+    z-index:                7;
+}
+
+.dwt-companion-bg {
+    left:                   @companion-bg-left;
+    width:                  @companion-bg-wid;
+    background:             @companion-bg-bgcolor;
+    //opacity:                .5;
+    z-index:                8;
+}
+
+.dwt-creature-bg {
+    left:                   @creature-bg-left;
+    width:                  @creature-bg-wid;
+    background:             @creature-bg-bgcolor;
+    z-index:                9;
+}
+
+.dwt-episode-bg {
+    left:                   @episode-bg-left;
+    width:                  @episode-bg-wid;
+    background:             @episode-bg-bgcolor;
+    z-index:                10;
+}
+
+.dwt-adventure-bg {
+    left:                   @adventure-bg-left;
+    width:                  @adventure-bg-wid;
+    background:             @adventure-bg-bgcolor;
+    z-index:                11;
+}
+
+.dwt-location-bg {
+    left:                   @location-bg-left;
+    width:                  @location-bg-wid;
+    background:             @location-bg-bgcolor;
+    z-index:                12;
+}
+
+.dwt-time-bg {
+    left:                   @time-bg-left;
+    width:                  @time-bg-wid;
+    background:             @time-bg-bgcolor;
+    z-index:                13;
+}
+
+.dwt-event-bg {
+    left:                   @event-bg-left;
+    width:                  @event-bg-wid;
+    background:             @event-bg-bgcolor;
+}
+
+/*
+
+888             888      888               888                             888
+888             888      888               888                             888
+888             888      888               888                             888
+888888  8888b.  88888b.  888  .d88b.       88888b.   .d88b.   8888b.   .d88888  .d88b.  888d888
+888        "88b 888 "88b 888 d8P  Y8b      888 "88b d8P  Y8b     "88b d88" 888 d8P  Y8b 888P"
+888    .d888888 888  888 888 88888888      888  888 88888888 .d888888 888  888 88888888 888
+Y88b.  888  888 888 d88P 888 Y8b.          888  888 Y8b.     888  888 Y88b 888 Y8b.     888
+ "Y888 "Y888888 88888P"  888  "Y8888       888  888  "Y8888  "Y888888  "Y88888  "Y8888  888
+
+*/
+
+#dwt-header {
+    position:               relative;
+    
+    div {
+        position:               absolute;
+        height:                 100%;
+        z-index:                1;
+        //opacity:                .5;
+        background:             none;
+        font-size:              16px;
+        text-align:             center;
+        text-transform:         uppercase;
+        
+        &.dwt-year-bg {
+            color:                  @header-color;
+        }
+        
+        &.dwt-doctor-bg {
+            color:                  @header-color;
+        }
+        
+        &.dwt-companion-bg {
+            color:                  @header-color;
+        }
+        
+        &.dwt-creature-bg {
+            color:                  @header-color;
+        }
+        
+        &.dwt-episode-bg {
+            color:                  @header-color;
+        }
+        
+        &.dwt-adventure-bg {
+            color:                  @header-color;
+        }
+        
+        &.dwt-location-bg {
+            color:                  @header-color;
+        }
+        
+        &.dwt-time-bg {
+            color:                  @header-color;
+        }
+        
+        &.dwt-event-bg {
+            color:                  @header-color;
+        }
+    }
+    
+}
+    
+/*
+
+     888                          888    d8b
+     888                          888    Y8P
+     888                          888
+ .d88888 888  888 888d888 8888b.  888888 888  .d88b.  88888b.  .d8888b
+d88" 888 888  888 888P"      "88b 888    888 d88""88b 888 "88b 88K
+888  888 888  888 888    .d888888 888    888 888  888 888  888 "Y8888b.
+Y88b 888 Y88b 888 888    888  888 Y88b.  888 Y88..88P 888  888      X88
+ "Y88888  "Y88888 888    "Y888888  "Y888 888  "Y88P"  888  888  88888P'
+
+*/
+
+.dwt-duration {
+    position:               absolute;
+    width:                  30px;
+    height:                 auto;
+    .duration-border-radius();
+    opacity:                .5;
+    z-index:                15;
+    
+    &:hover {
+        opacity:                1;
+    }
+
+    &.dwt-year {
+        left:                   @year-dur-left;
+        margin:                 2px @year-dur-margin;
+        background:             @year-dur-bgcolor;
+    }
+    
+    &.dwt-doctor {
+        left:                   @doctor-dur-left;
+        margin:                 2px @doctor-dur-margin;
+        background:             @doctor-dur-bgcolor;
+    }
+    
+    &.dwt-companion {
+        left:                   @companion-dur-left;
+        margin:                 2px @companion-dur-margin;
+        background:             @companion-dur-bgcolor;
+    }
+    
+    &.dwt-companion-small {
+        width:                  27px;
+        margin:                 2px 0px;
+        background:             none !important;
+    }
+    
+    &.dwt-companion-medium {
+        width:                  50px;
+        margin:                 2px 0px;
+        background:             none !important;
+    }
+    
+    &.dwt-creature {
+        left:                   @creature-dur-left;
+        margin:                 2px @creature-dur-margin;
+        background:             @creature-dur-bgcolor;
+    }
+    
+    &.dwt-creature-sl {
+        left:                   @creature-dur-left;
+        margin:                 2px 10px;
+        background:             @creature-lab-bgcolor;
+    }
+    &.dwt-creature-sr {
+        left:                   @creature-dur-left + 52;
+        margin:                 2px 10px;
+        background:             @creature-lab-bgcolor;
+    }
+    
+    &.dwt-creature-ml {
+        left:                   @creature-dur-left;
+        margin:                 2px 10px;
+        background:             @creature-lab-bgcolor;
+    }
+    &.dwt-creature-mr {
+        left:                   @creature-dur-left + 42;
+        margin:                 2px 10px;
+        background:             @creature-lab-bgcolor;
+    }
+    
+    &.dwt-creature-tl {
+        left:                   @creature-dur-left;
+        margin:                 2px 0px;
+        background:             @creature-lab-bgcolor;
+    }
+    &.dwt-creature-tc {
+        left:                   @creature-dur-left + 35;
+        margin:                 2px 0px;
+        background:             @creature-lab-bgcolor;
+    }
+    &.dwt-creature-tr {
+        left:                   @creature-dur-left + 70;
+        margin:                 2px 0px;
+        background:             @creature-lab-bgcolor;
+    }
+    
+    &.dwt-creature-four1 { 
+        width:                  22px;
+        left:                   @creature-dur-left;
+        margin:                 2px 0px;
+        background:             @creature-lab-bgcolor;
+    }
+    &.dwt-creature-four2 { 
+        width:                  22px;
+        left:                   @creature-dur-left + 26;
+        margin:                 2px 0px;
+        background:             @creature-lab-bgcolor;
+    }
+    &.dwt-creature-four3 { 
+        width:                  22px;
+        left:                   @creature-dur-left + 52;
+        margin:                 2px 0px;
+        background:             @creature-lab-bgcolor;
+    }
+    &.dwt-creature-four4 { 
+        width:                  22px;
+        left:                   @creature-dur-left + 78;
+        margin:                 2px 0px;
+        background:             @creature-lab-bgcolor;
+    }
+    
+    &.dwt-creature-five1 { 
+        width:                  16px;
+        left:                   @creature-dur-left;
+        margin:                 2px 0px;
+        background:             @creature-lab-bgcolor;
+    }
+    &.dwt-creature-five2 { 
+        width:                  16px;
+        left:                   @creature-dur-left + 21;
+        margin:                 2px 0px;
+        background:             @creature-lab-bgcolor;
+    }
+    &.dwt-creature-five3 { 
+        width:                  16px;
+        left:                   @creature-dur-left + 42;
+        margin:                 2px 0px;
+        background:             @creature-lab-bgcolor;
+    }
+    &.dwt-creature-five4 { 
+        width:                  16px;
+        left:                   @creature-dur-left + 63;
+        margin:                 2px 0px;
+        background:             @creature-lab-bgcolor;
+    }
+    &.dwt-creature-five5 { 
+        width:                  16px;
+        left:                   @creature-dur-left + 84;
+        margin:                 2px 0px;
+        background:             @creature-lab-bgcolor;
+    }
+    
+    &.dwt-episode {
+        opacity:                1;
+    }
+    
+    &.dwt-adventure {
+        left:                   @adventure-dur-left;
+        margin:                 2px @adventure-dur-margin;
+        background:             @adventure-dur-bgcolor;
+    }
+    
+    .dwt-adventure-episodes {
+        position:               absolute;
+        left:                   -292px;
+        width:                  249px;
+        height:                 auto;
+        margin:                 0px;
+        .border-radius();
+        background:             @adventure-lab-bgcolor;
+        opacity:                .5;
+        z-index:                5;
+    }
+    
+    &.dwt-location {
+        left:                   @location-dur-left;
+        margin:                 2px @location-dur-margin;
+        background:             @location-dur-bgcolor;
+    }
+    
+    &.dwt-time {
+        left:                   @time-dur-left;
+        margin:                 2px @time-dur-margin;
+        background:             @time-dur-bgcolor;
+    }
+
+}
+
+/*
+
+.d8888b   .d88b.   8888b.  .d8888b   .d88b.  88888b.
+88K      d8P  Y8b     "88b 88K      d88""88b 888 "88b
+"Y8888b. 88888888 .d888888 "Y8888b. 888  888 888  888
+     X88 Y8b.     888  888      X88 Y88..88P 888  888
+ 88888P'  "Y8888  "Y888888  88888P'  "Y88P"  888  888
+
+*/
+
+.dwt-season {
+    position:               absolute;
+    left:                   -(30px + @wrapper-side-margin);
+    width:                  (@cols-total-wid + 30px + (@wrapper-side-margin * 4));
+    height:                 30px;
+    margin:                 1px 0;
+    border-bottom:          2px dotted #696969;
+    z-index:                5;
+    
+    .dwt-season-label {
+        position:               absolute;
+        left:                   0px;
+        width:                  30px;
+        height:                 100%;
+        margin:                 0px;
+        overflow:               hidden;
+        text-indent:            10px;
+        line-height:            28px;
+        background:             @season-bgcolor;
+        opacity:                .5;
+        .border-radius();
+        
+        h4 {
+            position:               absolute;
+            top:                    160px;
+            width:                  150px;
+            margin:                 0;
+            .rotate(-90deg, 0, -25%);
+            white-space:            nowrap;
+            text-align:             right;
+            color:                  #000;
+        }
+    }
+}
+
+/*
+
+888          888               888
+888          888               888
+888          888               888
+888  8888b.  88888b.   .d88b.  888 .d8888b
+888     "88b 888 "88b d8P  Y8b 888 88K
+888 .d888888 888  888 88888888 888 "Y8888b.
+888 888  888 888 d88P Y8b.     888      X88
+888 "Y888888 88888P"   "Y8888  888  88888P'
+
+*/
+
+.dwt-label {
+    position:               absolute;
+    height:                 26px;
+    margin:                 0px;
+    padding:                0px @lab-pad;
+    overflow:               hidden;
+    font-size:              0.8em;
+    line-height:            26px;
+    text-align:             center;
+    white-space:            nowrap;
+    text-overflow:          ellipsis;
+    color:                  #ffffff;
+    .border-radius();
+    z-index:                8;
+    
+    &:hover {
+        color:                  #ffffff;
+        text-decoration:        none;
+    }
+    
+    &.dwt-year-name {
+        left:                   -@year-dur-margin;
+        width:                  @year-lab-wid;
+        background:             @year-lab-bgcolor;
+    }
+    
+    &.dwt-doctor-name {
+        left:                   -@doctor-dur-margin;
+        width:                  @doctor-lab-wid;
+        background:             @doctor-lab-bgcolor;
+    }
+    
+    &.dwt-companion-name {
+        left:                   -@companion-dur-margin;
+        width:                  @companion-lab-wid;
+        background:             @companion-lab-bgcolor;
+            
+        .dwt-duration.dwt-companion-small & {
+            left:                   0px;
+            width:                  17px;
+            text-indent:            -5555px;
+        }
+        .dwt-duration.dwt-companion-medium & {
+            left:                   0px;
+            width:                  40px;
+        }
+    }
+    
+    &.dwt-creature-name {
+        left:                   -@creature-dur-margin;
+        width:                  @creature-lab-wid;
+        background:             @creature-lab-bgcolor;
+        
+        .dwt-creature-sl & {
+            left:                   -10px;
+            width:                  49px;
+        }
+        .dwt-creature-sr & {
+            left:                   -10px;
+            width:                  49px;
+        }
+        
+        .dwt-creature-ml & {
+            left:                   -17px;
+            width:                  65px;
+        }
+        .dwt-creature-mr & {
+            left:                   -17px;
+            width:                  65px;
+        }
+        
+        .dwt-creature-tl & {
+            left:                   -0px;
+            width:                  30px;
+        }
+        .dwt-creature-tc & {
+            left:                   -0px;
+            width:                  30px;
+        }
+        .dwt-creature-tr & {
+            left:                   -0px;
+            width:                  30px;
+        }
+        
+        .dwt-creature-four1 & {
+            text-indent:            -5555px;
+            left:                   -0px;
+            width:                  22px;
+        }
+        .dwt-creature-four2 & {
+            text-indent:            -5555px;
+            left:                   -0px;
+            width:                  22px;
+        }
+        .dwt-creature-four3 & {
+            text-indent:            -5555px;
+            left:                   -0px;
+            width:                  22px;
+        }
+        .dwt-creature-four4 & {
+            text-indent:            -5555px;
+            left:                   -0px;
+            width:                  22px;
+        }
+        
+        .dwt-creature-five1 & {
+            text-indent:            -5555px;
+            left:                   -0px;
+            width:                  16px;
+        }
+        .dwt-creature-five2 & {
+            text-indent:            -5555px;
+            left:                   -0px;
+            width:                  16px;
+        }
+        .dwt-creature-five3 & {
+            text-indent:            -5555px;
+            left:                   -0px;
+            width:                  16px;
+        }
+        .dwt-creature-five4 & {
+            text-indent:            -5555px;
+            left:                   -0px;
+            width:                  16px;
+        }
+        .dwt-creature-five5 & {
+            text-indent:            -5555px;
+            left:                   -0px;
+            width:                  16px;
+        }
+    }
+    
+    &.dwt-episode-name {
+        //left:                   515px;
+        width:                  @episode-lab-wid;
+        height:                 30px;
+        margin:                 0px;
+        padding:                0px 10px;
+        text-align:             left;
+        line-height:            30px;
+        color:                  #cccccc;
+        background:             @episode-lab-bgcolor;
+        z-index:                8;
+    }
+    
+    &.dwt-adventure-name {
+        left:                   -@adventure-dur-margin;
+        width:                  @adventure-lab-wid;
+        white-space:            normal;
+        text-overflow:          none;
+        background:             @adventure-lab-bgcolor;
+    }
+    
+    &.dwt-location-name {
+        left:                   -@location-dur-margin;
+        width:                  @location-lab-wid;
+        white-space:            normal;
+        text-overflow:          none;
+        background:             @location-lab-bgcolor;
+    }
+    
+    &.dwt-time-name {
+        left:                   -@time-dur-margin;
+        width:                  @time-lab-wid;
+        white-space:            normal;
+        text-overflow:          none;
+        background:             @time-lab-bgcolor;
+    }
+    
+    &.dwt-event-name {
+        left:                   -@event-dur-margin;
+        width:                  @event-lab-wid;
+        background:             @event-lab-bgcolor;
+    }
+}
+
+/*
+
+                 888
+                 888
+                 888
+ .d8888b .d88b.  888  .d88b.  888d888 .d8888b
+d88P"   d88""88b 888 d88""88b 888P"   88K
+888     888  888 888 888  888 888     "Y8888b.
+Y88b.   Y88..88P 888 Y88..88P 888          X88
+ "Y8888P "Y88P"  888  "Y88P"  888      88888P'
+
+*/
+
+.color-doctor       { background: #769fc4 !important; }
+
+//cc3c00
+.color-vicki        { background: #cc3c00 !important; }
+.color-victoria     { background: #cc3c00 !important; }
+.color-sarah        { background: #cc3c00 !important; }
+.color-tegan        { background: #cc3c00 !important; }
+.color-wilfred      { background: #cc3c00 !important; }
+//d97800
+.color-liz          { background: #d97800 !important; }
+.color-adric        { background: #d97800 !important; }
+.color-turlough     { background: #d97800 !important; }
+.color-mickey       { background: #d97800 !important; }
+.color-craig        { background: #d97800 !important; }
+
+.color-susan        { background: #a6b621 !important; }
+.color-katarina     { background: #a6b621 !important; }
+.color-ben          { background: #a6b621 !important; }
+.color-jo           { background: #a6b621 !important; }
+.color-martha       { background: #a6b621 !important; }
+
+.color-barbara      { background: #de2ca1 !important; }
+.color-nyssa        { background: #de2ca1 !important; }
+.color-rose         { background: #de2ca1 !important; }
+.color-clara        { background: #de2ca1 !important; }
+
+.color-ian          { background: #316595 !important; }
+.color-jamie        { background: #316595 !important; }
+.color-jack         { background: #316595 !important; }
+.color-rory         { background: #316595 !important; }
+
+.color-steven       { background: #5384b9 !important; }
+.color-zoe          { background: #5384b9 !important; }
+.color-harry        { background: #5384b9 !important; }
+.color-christina    { background: #5384b9 !important; }
+
+.color-sara         { background: #b356d2 !important; }
+.color-astrid       { background: #b356d2 !important; }
+.color-adelaide     { background: #b356d2 !important; }
+
+.color-dodo         { background: #f3b224 !important; }
+.color-brigadier    { background: #f3b224 !important; }
+.color-ace          { background: #f3b224 !important; }
+.color-jackson      { background: #f3b224 !important; }
+.color-amy          { background: #f3b224 !important; }
+
+.color-polly        { background: #79159b !important; }
+.color-leela        { background: #79159b !important; }
+.color-peri         { background: #79159b !important; }
+.color-grace        { background: #79159b !important; }
+.color-donna        { background: #79159b !important; }
+
+.color-k9           { background: #b0aca3 !important; }
+.color-kamelion     { background: #b0aca3 !important; }
+.color-adam         { background: #b0aca3 !important; }
+
+.color-romana-1     { background: #73880f !important; }
+.color-romana-2     { background: #73880f !important; }
+.color-mel          { background: #73880f !important; }
+.color-river        { background: #73880f !important; }
+
+.color-creature1 { background: lighten(@creature-dur-bgcolor, 25%) !important; }
+.color-creature2 { background: lighten(@creature-dur-bgcolor, 20%) !important; }
+.color-creature3 { background: lighten(@creature-dur-bgcolor, 15%) !important; }
+.color-creature4 { background: lighten(@creature-dur-bgcolor, 10%) !important; }
+.color-creature5 { background: lighten(@creature-dur-bgcolor, 5%) !important; }
+.color-creature6 { background: darken(@creature-dur-bgcolor, 5%) !important; }
+.color-creature7 { background: darken(@creature-dur-bgcolor, 10%) !important; }
+.color-creature8 { background: darken(@creature-dur-bgcolor, 15%) !important; }
+.color-creature9 { background: darken(@creature-dur-bgcolor, 20%) !important; }
+.color-creature10 { background: darken(@creature-dur-bgcolor, 25%) !important; }
+
+
+.modal {
+    width:                  750px;
+    margin-left:            -375px;
+    .border-radius(0px);
+    
+    .modal-header {
+        
+        img.img-polaroid {
+            position:               absolute;
+            top:                    -30px;
+            left:                   -30px;
+            margin:                 5px 10px 5px 0px;
+            box-shadow:             none;
+            border:                 none;
+            .border-radius(55px);
+            /*
+            div[class^="modal-doctor"]& {
+                border-color:           @doctor-lab-bgcolor;
+            }
+            div[class^="modal-companion"]& {
+                border-color:           @companion-lab-bgcolor;
+            }
+            div[class^="modal-creature"]& {
+                border-color:           @creature-lab-bgcolor;
+            }
+            */
+        }
+        
+        h4 {
+            padding-left:           70px;
+        }
+
+    }
+    
+    .modal-body {
+        max-height:             500px;
+        padding:                35px 15px 15px 15px;
+        
+        h6 {
+            margin:                 0;
+        }
+
+        p {
+            font-size:              12px;
+            color:                  #696969;
+        }
+
+        blockquote {
+            position:               relative;
+            margin:                 20px 0;
+            padding:                0.25em 30px;
+            font-family:            Georgia, serif;
+            font-size:              16px;
+            font-style:             italic;
+            line-height:            1.45;
+            color:                  #969696;
+        }
+
+        blockquote:before {
+            display:                block;
+            position:               absolute;
+            content:                "\201C";
+            left:                   0px;
+            top:                    -20px;
+            font-size:              60px;
+            color:                  #eeeeee;
+        }
+        
+        .facts {
+            list-style:             none;
+            margin:                 0;
+            
+            li {
+                float:                  left;
+                width:                  100px;
+                height:                 100px;
+                padding:                0 5px;
+                text-align:             center;
+                font-size:              12px;
+                color:                  #696969;
+                border-right:           1px dotted #ccc;
+                
+                &:first-child {
+                    border-left:            1px dotted #ccc;
+                }
+                
+                h6 {
+                    height:                 40px;
+                    font-weight:            300;
+                    line-height:            20px;
+                    text-transform:         uppercase;
+                }
+                
+                h1 {
+                    font-size:              40px;
+                }
+                
+            }
+            
+            
+        }
+
+    }
+    
+}
+
+.tooltip-inner { .border-radius(0px); }

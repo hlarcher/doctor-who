@@ -1,0 +1,1 @@
+define(["jquery","common/utils"],function($,i){var t=this;return this.ROWS=825,this.ROW_HEIGHT=30,this.LABEL_HEIGHT=26,this.MARGINS=240,this.USE_FADE=!1,this.USE_PLAX=!1,this.PLAX1_VAL=.8,this.PLAX2_VAL=.1,this.PLAX3_VAL=.3,this});

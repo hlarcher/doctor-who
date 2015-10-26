@@ -1,0 +1,303 @@
+{
+    "doctors": [
+        {
+            "id": "0",
+            "name": "John Hurt",
+            "from": "",
+            "to": "",
+            "info": {
+                "title": "War Doctor (2013)",
+                "actor": "John Hurt",
+                "image": "images/doctor_john_hurt.png",
+                "text": "",
+                "quote": "",
+                "trivia": [
+                    ""
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1>2</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>2</h1>",
+                    "<h6><small>Millions of</small><br><strong>Avg. Viewers</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>1</h1>"
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "name": "William Hartnell",
+            "from": "1",
+            "to": "134",
+            "info": {
+                "title": "1st Doctor (1963 - 1966)",
+                "actor": "William Hartnell (1908 - 1975)",
+                "image": "images/doctor_william_hartnell.png",
+                "text": "An exile from his homeworld, wandering space and time in his trusty TARDIS with granddaughter Susan, the First Doctor appears to be a frail old man. But don't be fooled. With a chuckle and a twinkle in his eye, he has an unquenchable thirst to explore, and a knack of getting himself into trouble doing it. Sometimes doting, sometimes difficult, the First Doctor was both a loving father-figure and a fierce opponent. He plays deadly games with the Celestial Toymaker, he fools Roman emperors, mongol warlords and French revolutionaries, and he foils each and every machination of the evil Daleks. After preventing the Cybermen from absorbing the Earth's energy and with his body “wearing a bit thin”, the First Doctor collapses to the TARDIS floor and begins to change...",
+                "quote": "If you could touch the alien sand and hear the cries of strange birds, and watch them wheel in another sky, would that satisfy you?",
+                "trivia": [
+                    "At age 55, William Hartnell was the oldest actor to ever play the doctor."
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1>10</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>5</h1>",
+                    "<h6><small>Millions of</small><br><strong>Avg. Viewers</strong></h6><h1>8.34</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>29</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>134</h1>"
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "name": "Patrick Troughton",
+            "from": "135",
+            "to": "253",
+            "info": {
+                "title": "2nd Doctor (1966 - 1969)",
+                "actor": "Patrick Troughton (1920 - 1987)",
+                "image": "images/doctor_patrick_troughton.png",
+                "text": "The Second Doctor was very different to his predecessor. A more playful, whimsical air disguised dark undercurrents and a sharp mind. And as the Doctor changed, so did the adventures. Trips into earth's history gave way to besieged Moonbases, Martian Ice Warriors and Space Pirates. Not to mention the heyday of the emotionless Cybermen, whom the Doctor froze into their ancient tombs once more. It wasn't until he was put on trial by his own people - The Time Lords - for interference, that the Second Doctor was forced to regenerate.",
+                "quote": "There are some corners of the universe which have bred the most terrible things. Things which act against everything we believe in. They must be fought.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1>6</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>4</h1>",
+                    "<h6><small>Millions of</small><br><strong>Avg. Viewers</strong></h6><h1>7.1</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>21</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>119</h1>"
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "name": "Jon Pertwee",
+            "from": "254",
+            "to": "381",
+            "info": {
+                "title": "3rd Doctor (1970 - 1974)",
+                "actor": "Jon Pertwee (1919 - 1996)",
+                "image": "images/doctor_jon_pertwee.png",
+                "text": "As part of his sentence from the Time Lords, the Doctor was forced to begin his exile on earth with a new face. The Third Doctor was confident, bold and brash, but with a soft paternal side, reserved for those he cared about. While exiled he became allied to the extraterrestrial taskforce UNIT and helped them combat living plastic Autons, Sea Devils and polluted giant green maggots, as well as fellow renegade Time Lord, The Master. Eventually he was allowed to travel again, and on one such trip received a fatal dose of radiation, prompting him to regenerate...",
+                "quote": "A straight line may be the shortest distance between two points, but it is by no means the most interesting.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1>4</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>6</h1>",
+                    "<h6><small>Millions of</small><br><strong>Avg. Viewers</strong></h6><h1>8.29</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>24</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>128</h1>"
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "name": "Tom Baker",
+            "from": "382",
+            "to": "553",
+            "info": {
+                "title": "4th Doctor (1974 - 1981)",
+                "actor": "Tom Baker",
+                "image": "images/doctor_tom_baker.png",
+                "text": "From witnessing the genesis of the Daleks to preventing the death of the universe at Logopolis, the Fourth Doctor was an adventurer on an epic scale. Armed with a gleeful smile, swashbuckling charm and righteous morality, he defeated Sontarans, ancient vampires and the Black Guardian. It was this incarnation of the Doctor that found and reassembled the Key to Time, that tried to reason with Davros at the birth of the Daleks, and was invested as Lord President of the High Council of Time Lords. Always selfless, his fourth body died saving the universe from the Master. But that moment had been prepared for...",
+                "quote": "You may be a doctor. But I'm THE Doctor. The definite article, you might say.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1>10</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>7</h1>",
+                    "<h6><small>Millions of</small><br><strong>Avg. Viewers</strong></h6><h1>8.9</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>41</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>172</h1>"
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "name": "Peter Davison",
+            "from": "554",
+            "to": "622",
+            "info": {
+                "title": "5th Doctor (1982 - 1984)",
+                "actor": "Peter Davison",
+                "image": "images/doctor_peter_davison.png",
+                "text": "Clever, considered and kind, the Fifth Doctor's world was one of fascination and science. He relished the recursion of Castrovalva, solved the mystery under the sinking sands of Frontios, and came face to face with the Silurians and Sea Devils once more. He twice faced the snake-like Mara, infesting the mind of his companion Tegan. And it was in this fifth body that the he was reunited with his past selves to fight in the Death Zone on Gallifrey. Infected with a deadly virus and with only enough antidote to save one, the Fifth Doctor sacrificed his life to save his friend Peri.",
+                "quote": "You know how it is; you put things off for a day and next thing you know, it's a hundred years later.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1>13</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>8</h1>",
+                    "<h6><small>Millions of</small><br><strong>Avg. Viewers</strong></h6><h1>7.85</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>20</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>69</h1>"
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "name": "Colin Baker",
+            "from": "623",
+            "to": "653",
+            "info": {
+                "title": "6th Doctor (1984 - 1986)",
+                "actor": "Colin Baker",
+                "image": "images/doctor_colin_baker.png",
+                "text": "Never understated, the Sixth Doctor was an explosion of colours, words and emotions. Passionate, sometimes quick to anger, this was a Doctor you did not want to make enemies with. He tangled with the corporate greed of the slimy Sil, took H.G. Wells on a trip to a strange world of Morlox and time machines, and defeated the amoral Gallifreyan scientist known only as the Rani. Once again, the Doctor’s interference in the affairs of other worlds resulted in a trial by his own people, and his own darker side, “The Valeyard” – who stood to gain all his remaining incarnations. After uncovering the Valeyard’s schemes, all charges were dropped, and the Doctor and Mel headed off in the TARDIS.",
+                "quote": "Rest is for the weary, sleep is for the dead.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1>3</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>8</h1>",
+                    "<h6><small>Millions of</small><br><strong>Avg. Viewers</strong></h6><h1>6.2</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>8</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>31</h1>"
+                ]
+            }
+        },
+        {
+            "id": "7",
+            "name": "Sylvester McCoy",
+            "from": "654",
+            "to": "695",
+            "info": {
+                "title": "7th Doctor (1987 - 1989, 1996)",
+                "actor": "Sylvester McCoy",
+                "image": "images/doctor_sylvester_mccoy.png",
+                "text": "The TARDIS is attacked by villainous Time Lady the Rani, triggering the Doctor’s next regeneration. His Seventh body was both a spoon-playing clown and a master of deep dark secrets. He toppled empires in a single night, entertained in the circus of the Gods of Ragnarok and played chess with the ancient and evil Fenric. Despite telling Ace that they still had “work to do” as they strode away from her home town of Perivale, it was in this incarnation that the television series was rested. The Seventh Doctor went on to have many adventures in books, comic strips and on audio. He returned on the eve of the millennium to transport the remains of the Master back to Gallifrey. Emerging from the TARDIS, he was shot by a street gang and died on the operating table.",
+                "quote": "Think about me when you're living your life one day after another, all in a neat pattern. Think about the homeless traveler and his old police box, his days like crazy paving.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1>3</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>6</h1>",
+                    "<h6><small>Millions of</small><br><strong>Avg. Viewers</strong></h6><h1>4.8</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>12</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>42</h1>"
+                ]
+            }
+        },
+        {
+            "id": "8",
+            "name": "Paul McGann",
+            "from": "696",
+            "to": "696",
+            "info": {
+                "title": "8th Doctor (1996)",
+                "actor": "Paul McGann",
+                "image": "images/doctor_paul_mcgann.png",
+                "text": "After dying on the operating table, the Doctor regenerated into his Eighth form in a hospital morgue, on December 31, 1999. Mercurial, frenzied and prone to bouts of amnesia, the Eighth Doctor teamed up with Grace Holloway to save the world from being pulled inside-out by the Master’s hijacking of the TARDIS. With only one TV outing, the Doctor’s adventures once again continued in books, audio adventures and comic strips. It remains unknown whether it was involvement in the Last Great Time War or some other terrible fate that prompted his eventual regeneration into the Ninth Doctor.",
+                "quote": "I know who I am, I...AM...THE DOCTOR!",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>1</h1>",
+                    "<h6><small>Millions of</small><br><strong>Avg. Viewers</strong></h6><h1>9.8</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>1</h1>",
+                    "<h6><small>Number of</small><br><strong>Movies</strong></h6><h1>1</h1>"
+                ]
+            }
+        },
+        {
+            "id": "9",
+            "name": "Christopher Eccleston",
+            "from": "697",
+            "to": "709",
+            "info": {
+                "title": "9th Doctor (2005)",
+                "actor": "Christopher Eccleston",
+                "image": "images/doctor_christopher_eccleston.png",
+                "text": "The sole survivor of the Last Great Time War, scarred by the terrible things he’d seen and done, the Ninth Doctor was an intense and emotional incarnation. Hiding his psychological trauma behind madcap wit and frivolity, he took Rose Tyler to see the end of the world, inspired Charles Dickens and showed that for once, everybody could live. He was still capable of great cruelty and anger though, killing Cassandra and torturing a lone Dalek into submission. After Rose defeated the Daleks using the power of the time vortex, the Doctor saved her by transferring that dangerous power into his own body. The strain destroyed his every cell and as Rose watched, his body exploded with raging energy...",
+                "quote": "Before I go, I just want to tell you: you were fantastic. Absolutely fantastic. And do you know what? So was I!",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1>4</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>3</h1>",
+                    "<h6><small>Millions of</small><br><strong>Avg. Viewers</strong></h6><h1>7.92</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>10</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>13</h1>"
+                ]
+            }
+        },
+        {
+            "id": "10",
+            "name": "David Tennant",
+            "from": "710",
+            "to": "756",
+            "info": {
+                "title": "10th Doctor (2005 - 2010)",
+                "actor": "David Tennant",
+                "image": "images/doctor_david_tennant.png",
+                "text": "Waking on Christmas Day in his new form, the Doctor fought the Sycorax high above London, where he lost a hand but grew a new one with remnant regenerative power. Travelling with Rose and Mickey he battled Cybermen, werewolves and possibly, the Devil itself. Losing Rose in a parallel universe – but later leaving her with a half-human clone of himself – the Doctor travelled on. He hid as a human schoolmaster to spare the Family of Blood his wrath, he defeated his nemesis the Master once more and met River Song for the first time. Told that he would die when someone knocked four times, the Doctor remained defiant, but to no avail. Reeling from his confrontation with the Time Lords and fatally dosed with radiation, the Tenth Doctor’s song ended, as his violent regeneration burned the TARDIS and sent it crashing through space...",
+                "quote": "Everyone has nightmares; even big scary monsters from under the bed have nightmares.",
+                "trivia": [
+                    
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1>13</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>9</h1>",
+                    "<h6><small>Millions of</small><br><strong>Avg. Viewers</strong></h6><h1>8.33</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>36</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>47</h1>"
+                ]
+            }
+        },
+        {
+            "id": "11",
+            "name": "Matt Smith",
+            "from": "757",
+            "to": "800",
+            "info": {
+                "title": "11th Doctor (2010 - 2013)",
+                "actor": "Matt Smith",
+                "image": "images/doctor_matt_smith.png",
+                "text": "Born, “still cooking”, into a crashing TARDIS, the Eleventh Doctor hurtles into the life of Amy Pond, and the mystery of the crack in her wall. Pursuing the time-erasing cracks, the Doctor and Amy battle new paradigm Daleks in World War Two, Weeping Angels by the thousand and the depression in Vincent van Gogh’s mind. After learning the cracks are caused by the TARDIS exploding, the Doctor sacrifices himself to reboot the universe, only to be remembered back into existence by Amy. After calling his companions to Lake Silenco, Utah, a future version of the Doctor was seen to die at the hands of an impossible astronaut. When it transpired that the astronaut was River Song, controlled by the Silence, the Doctor allowed the fixed moment in time to happen by substituting himself with shape-shifting ship Teselecta. The Doctor was able to slip out of view, going on to infiltrate the Dalek Asylum and discover dinosaurs on a spaceship – but the “fall of the Eleventh” was prophesied.",
+                "quote": "It's all running about, sexy fish vampires, and blowing up stuff.",
+                "trivia": [
+                    "At age 27, Matt Smith was the youngest actor to ever play the Doctor."
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1>5</h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1>9</h1>",
+                    "<h6><small>Millions of</small><br><strong>Avg. Viewers</strong></h6><h1>8</h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1>36</h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1>42</h1>"
+                ]
+            }
+        },
+        {
+            "id": "12",
+            "name": "Peter Capaldi",
+            "from": "801",
+            "to": "825",
+            "info": {
+                "title": "12th Doctor (2010 - 2013)",
+                "actor": "Peter Capaldi",
+                "image": "images/doctor_peter_capaldi.png",
+                "text": "",
+                "quote": "",
+                "trivia": [
+                    ""
+                ],
+                "facts": [
+                    "<h6><small>Number of</small><br><strong>Companions</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Creatures</strong></h6><h1></h1>",
+                    "<h6><small>Millions of</small><br><strong>Avg. Viewers</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Adventures</strong></h6><h1></h1>",
+                    "<h6><small>Number of</small><br><strong>Episodes</strong></h6><h1></h1>"
+                ]
+            }
+        }
+    ]
+}
