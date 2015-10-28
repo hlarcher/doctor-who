@@ -1950,6 +1950,28 @@
 		"outputStyle": 0,
 		"syntaxCheckerStyle": 0
 		},
+	"\/assets\/js\/apps\/timeline\/list\/list_locations\/list_locations_controller.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/apps\/timeline\/list\/list_locations\/list_locations_controller.js",
+		"outputAbbreviatedPath": "\/assets\/js\/apps\/timeline\/list\/list_locations\/min\/list_locations_controller-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/assets\/js\/apps\/timeline\/list\/list_locations\/list_locations_view.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/apps\/timeline\/list\/list_locations\/list_locations_view.js",
+		"outputAbbreviatedPath": "\/assets\/js\/apps\/timeline\/list\/list_locations\/min\/list_locations_view-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
 	"\/assets\/js\/apps\/timeline\/list\/list_seasons\/list_seasons_controller.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -1967,6 +1989,28 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/apps\/timeline\/list\/list_seasons\/list_seasons_view.js",
 		"outputAbbreviatedPath": "\/assets\/js\/apps\/timeline\/list\/list_seasons\/min\/list_seasons_view-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/assets\/js\/apps\/timeline\/list\/list_times\/list_times_controller.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/apps\/timeline\/list\/list_times\/list_times_controller.js",
+		"outputAbbreviatedPath": "\/assets\/js\/apps\/timeline\/list\/list_times\/min\/list_times_controller-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/assets\/js\/apps\/timeline\/list\/list_times\/list_times_view.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/apps\/timeline\/list\/list_times\/list_times_view.js",
+		"outputAbbreviatedPath": "\/assets\/js\/apps\/timeline\/list\/list_times\/min\/list_times_view-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -2126,12 +2170,34 @@
 		"outputStyle": 0,
 		"syntaxCheckerStyle": 0
 		},
+	"\/assets\/js\/entities\/location.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/entities\/location.js",
+		"outputAbbreviatedPath": "\/assets\/js\/entities\/min\/location-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
 	"\/assets\/js\/entities\/season.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/entities\/season.js",
 		"outputAbbreviatedPath": "\/assets\/js\/entities\/min\/season-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/assets\/js\/entities\/time.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/entities\/time.js",
+		"outputAbbreviatedPath": "\/assets\/js\/entities\/min\/time-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -2277,6 +2343,27 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
 		}
 	},
 "hooks": [

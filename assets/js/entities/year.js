@@ -12,13 +12,11 @@ define([
         Entities.Year = Backbone.Model.extend();
 
         _.extend(Entities.Year.prototype, {
-            //idAttribute: 'linkId',
             urlRoot: '../api/index.php/years',
 
             defaults: {
                 'id':       '',
-                'name':     '',
-                'episodes': '',
+                'date':     '',
                 'from':     '',
                 'to':       ''
             }

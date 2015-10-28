@@ -234,13 +234,13 @@ Y88b.   Y88..88P 888 Y88b 888 888  888  888 888  888      X88
 .dwt-location-bg {
   left: 877px;
   width: 106px;
-  background: #e39426;
+  background: rgba(227, 148, 38, 0.25);
   z-index: 12;
 }
 .dwt-time-bg {
   left: 988px;
   width: 106px;
-  background: #26e39f;
+  background: rgba(38, 227, 159, 0.25);
   z-index: 13;
 }
 .dwt-event-bg {
@@ -468,12 +468,12 @@ Y88b 888 Y88b 888 888    888  888 Y88b.  888 Y88..88P 888  888      X88
   z-index: 5;
 }
 .dwt-duration.dwt-location {
-  left: 880px;
+  left: 3px;
   margin: 2px 35px;
   background: #d58917;
 }
 .dwt-duration.dwt-time {
-  left: 991px;
+  left: 3px;
   margin: 2px 35px;
   background: #189b6c;
 }
@@ -685,14 +685,14 @@ Y88b 888 Y88b 888 888    888  888 Y88b.  888 Y88..88P 888  888      X88
 }
 .dwt-label.dwt-location-name {
   left: -35px;
-  width: 90px;
+  width: 100px;
   white-space: normal;
   text-overflow: none;
   background: #d58917;
 }
 .dwt-label.dwt-time-name {
   left: -35px;
-  width: 90px;
+  width: 100px;
   white-space: normal;
   text-overflow: none;
   background: #189b6c;

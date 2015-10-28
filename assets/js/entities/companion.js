@@ -12,23 +12,14 @@ define([
         Entities.Companion = Backbone.Model.extend();
 
         _.extend(Entities.Companion.prototype, {
-            //idAttribute: 'linkId',
             urlRoot: '../api/index.php/companions',
 
             defaults: {
-                'id':   '',
-                'name': '',
-                'from': '',
-                'to':   '',
-                'info': {
-                    'title':    '',
-                    'actor':    '',
-                    'image':    '',
-                    'text':     '',
-                    'quote':    '',
-                    'trivia':   [],
-                    'facts':    []
-                }
+                'id':       '',
+                'name':     '',
+                'fname':    '',
+                'color':    '',
+                'episodes': {}
             }
 
         });

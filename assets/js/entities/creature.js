@@ -12,23 +12,13 @@ define([
         Entities.Creature = Backbone.Model.extend();
 
         _.extend(Entities.Creature.prototype, {
-            //idAttribute: 'linkId',
             urlRoot: '../api/index.php/creatures',
 
             defaults: {
-                'id':   '',
-                'name': '',
-                'from': '',
-                'to':   '',
-                'info': {
-                    'title':    '',
-                    'actor':    '',
-                    'image':    '',
-                    'text':     '',
-                    'quote':    '',
-                    'trivia':   [],
-                    'facts':    []
-                }
+                'id':       '',
+                'name':     '',
+                'color':    '',
+                'episodes': {}
             }
 
         });

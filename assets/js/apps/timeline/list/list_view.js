@@ -14,11 +14,11 @@ define([
                 yearRegion:         '#dwt-year-region',
                 doctorRegion:       '#dwt-doctor-region',
                 companionRegion:    '#dwt-companion-region',
-                creatureRegion:    '#dwt-creature-region',
-                episodeRegion:    '#dwt-episode-region',
-                adventureRegion:    '#dwt-adventure-region'
-                //locationRegion:    '#dwt-location-region',
-                //timeRegion:    '#dwt-time-region',
+                creatureRegion:     '#dwt-creature-region',
+                episodeRegion:      '#dwt-episode-region',
+                adventureRegion:    '#dwt-adventure-region',
+                locationRegion:     '#dwt-location-region',
+                timeRegion:         '#dwt-time-region'
             },
 
             templateHelpers: {

@@ -8,8 +8,8 @@ define([
     'apps/timeline/list/list_creatures/list_creatures_controller',
     'apps/timeline/list/list_episodes/list_episodes_controller',
     'apps/timeline/list/list_adventures/list_adventures_controller',
-    //'apps/timeline/list/list_locations/list_locations_controller',
-    //'apps/timeline/list/list_time/list_time_controller'
+    'apps/timeline/list/list_locations/list_locations_controller',
+    'apps/timeline/list/list_times/list_times_controller'
 ], function (DWApp) {
 
     DWApp.module('TimelineApp.List', function (List, DWApp, Backbone, Marionette, $, _) {
@@ -30,8 +30,8 @@ define([
                     DWApp.trigger('timeline:list:creatures');
                     DWApp.trigger('timeline:list:episodes');
                     DWApp.trigger('timeline:list:adventures');
-                    //DWApp.trigger('timeline:list:locations');
-                    //DWApp.trigger('timeline:list:times');
+                    DWApp.trigger('timeline:list:locations');
+                    DWApp.trigger('timeline:list:times');
                 });
 
                 DWApp.mainRegion.show(DWApp.TimelineApp.List.layoutView);

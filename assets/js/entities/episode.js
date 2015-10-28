@@ -12,13 +12,11 @@ define([
         Entities.Episode = Backbone.Model.extend();
 
         _.extend(Entities.Episode.prototype, {
-            //idAttribute: 'linkId',
             urlRoot: '../api/index.php/episodes',
 
             defaults: {
                 'id':       '',
                 'name':     '',
-                'episodes': '',
                 'from':     '',
                 'to':       ''
             }

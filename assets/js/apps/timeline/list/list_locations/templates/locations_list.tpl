@@ -1,0 +1,1 @@
+<div id="dwt-location-list" class="dwt-bg dwt-location-bg"></div>

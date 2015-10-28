@@ -95,26 +95,26 @@
 
 @location-bg-left:          (@adventure-bg-left + @adventure-bg-wid + @colspace);
 @location-bg-wid:           106px;
-@location-bg-bgcolor:       #e39426;
+@location-bg-bgcolor:       rgba(227, 148, 38, 0.25);
 
-@location-dur-left:         (@location-bg-left + @durspace);
+@location-dur-left:         @durspace;//(@location-bg-left + @durspace);
 @location-dur-margin:       (((@location-bg-wid - @dur-wid) - (@durspace * 2)) / 2);
 @location-dur-bgcolor:      #d58917;
 
-@location-lab-wid:          (@location-bg-wid - ((@lab-pad * 2) + (@durspace * 2)));
+@location-lab-wid:          (@location-bg-wid - (@durspace * 2));//(@location-bg-wid - ((@lab-pad * 2) + (@durspace * 2)));
 @location-lab-bgcolor:      #d58917;
 
 // TIME
 
 @time-bg-left:              (@location-bg-left + @location-bg-wid + @colspace);
 @time-bg-wid:               106px;
-@time-bg-bgcolor:           #26e39f;
+@time-bg-bgcolor:           rgba(38, 227, 159, 0.25);
 
-@time-dur-left:             (@time-bg-left + @durspace);
+@time-dur-left:             @durspace;//(@time-bg-left + @durspace);
 @time-dur-margin:           (((@time-bg-wid - @dur-wid) - (@durspace * 2)) / 2);
 @time-dur-bgcolor:          #189b6c;
 
-@time-lab-wid:              (@time-bg-wid - ((@lab-pad * 2) + (@durspace * 2)));
+@time-lab-wid:              (@time-bg-wid - (@durspace * 2));//(@time-bg-wid - ((@lab-pad * 2) + (@durspace * 2)));
 @time-lab-bgcolor:          #189b6c;
 
 // EVENT

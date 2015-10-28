@@ -9,14 +9,14 @@ define([
 
         // MODEL -------------------------------------------------------------------------------------------------------
 
-        Entities.Adventure = Backbone.Model.extend();
+        Entities.Time = Backbone.Model.extend();
 
-        _.extend(Entities.Adventure.prototype, {
-            urlRoot: '../api/index.php/adventures',
+        _.extend(Entities.Time.prototype, {
+            urlRoot: '../api/index.php/times',
 
             defaults: {
                 'id':       '',
-                'name':     '',
+                'time':     '',
                 'from':     '',
                 'to':       ''
             }
@@ -25,21 +25,21 @@ define([
 
         // COLLECTION --------------------------------------------------------------------------------------------------
 
-        Entities.Adventures = Backbone.Collection.extend();
+        Entities.Times = Backbone.Collection.extend();
 
-        _.extend(Entities.Adventures.prototype, {
-            url:    '../api/index.php/adventures',
-            model:  Entities.Adventure
+        _.extend(Entities.Times.prototype, {
+            url:    '../api/index.php/times',
+            model:  Entities.Time
         });
 
         // API -----------------------------------------------------------------
 
         var API = {
 
-            getModel: function (adventure) {
+            getModel: function (time) {
                 var defer = $.Deferred();
 
-                adventure.fetch({
+                time.fetch({
                     success: function (model) {
                         defer.resolve(model);
                     },
@@ -52,10 +52,10 @@ define([
             },
 
             getCollection: function () {
-                var adventures = new Entities.Adventures();
+                var times = new Entities.Times();
                 var defer = $.Deferred();
 
-                adventures.fetch({
+                times.fetch({
                     //traditional: true,
                     success: function (collection) {
                         defer.resolve(collection);
@@ -72,11 +72,11 @@ define([
 
         // HANDLERS ----------------------------------------------------------------------------------------------------
 
-        DWApp.reqres.setHandler('adventure:entity', function (model) {
+        DWApp.reqres.setHandler('time:entity', function (model) {
             return API.getModel(model);
         });
 
-        DWApp.reqres.setHandler('adventure:entities', function (collection) {
+        DWApp.reqres.setHandler('time:entities', function (collection) {
             return API.getCollection(collection);
         });
 

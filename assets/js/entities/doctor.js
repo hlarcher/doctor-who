@@ -12,23 +12,14 @@ define([
         Entities.Doctor = Backbone.Model.extend();
 
         _.extend(Entities.Doctor.prototype, {
-            //idAttribute: 'linkId',
             urlRoot: '../api/index.php/doctors',
 
             defaults: {
-                'id':   '',
-                'name': '',
-                'from': '',
-                'to':   '',
-                'info': {
-                    'title':    '',
-                    'actor':    '',
-                    'image':    '',
-                    'text':     '',
-                    'quote':    '',
-                    'trivia':   [],
-                    'facts':    []
-                }
+                'id':       '',
+                'name':     '',
+                'from':     '',
+                'to':       '',
+                'actor':    ''
             }
 
         });

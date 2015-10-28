@@ -41,13 +41,13 @@ define([
                 DWApp.TimelineApp.List.ListAdventures.Controller.listAdventures();
             },
 
-            //listLocations: function () {
-            //    DWApp.TimelineApp.List.ListLocations.Controller.listLocations();
-            //},
-            //
-            //listTimes: function () {
-            //    DWApp.TimelineApp.List.ListTimes.Controller.listTimes();
-            //},
+            listLocations: function () {
+                DWApp.TimelineApp.List.ListLocations.Controller.listLocations();
+            },
+
+            listTimes: function () {
+                DWApp.TimelineApp.List.ListTimes.Controller.listTimes();
+            }
 
         };
 
